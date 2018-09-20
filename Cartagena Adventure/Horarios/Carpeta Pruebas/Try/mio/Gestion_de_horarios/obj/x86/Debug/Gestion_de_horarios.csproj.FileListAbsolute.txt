@@ -1,0 +1,1229 @@
+F:\Portafolio Del Aprendiz (Jorge Maza)\EVIDENCIAS DE APRENDIZAJE\Maristela Perez\GESTION DE HORARIOS ACTUAL\HORARIOS MODIFICADO\Gestion_de_horarios\obj\x86\Debug\Gestion_de_horarios.csproj.ResolveComReference.cache
+F:\Portafolio Del Aprendiz (Jorge Maza)\EVIDENCIAS DE APRENDIZAJE\Maristela Perez\GESTION DE HORARIOS ACTUAL\HORARIOS MODIFICADO\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.exe
+F:\Portafolio Del Aprendiz (Jorge Maza)\EVIDENCIAS DE APRENDIZAJE\Maristela Perez\GESTION DE HORARIOS ACTUAL\HORARIOS MODIFICADO\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.pdb
+F:\Portafolio Del Aprendiz (Jorge Maza)\EVIDENCIAS DE APRENDIZAJE\Maristela Perez\GESTION DE HORARIOS ACTUAL\HORARIOS MODIFICADO\Gestion_de_horarios\bin\Debug\Ej_Interfaz_Proyecto.exe
+F:\Portafolio Del Aprendiz (Jorge Maza)\EVIDENCIAS DE APRENDIZAJE\Maristela Perez\GESTION DE HORARIOS ACTUAL\HORARIOS MODIFICADO\Gestion_de_horarios\bin\Debug\Ej_Interfaz_Proyecto.pdb
+F:\Portafolio Del Aprendiz (Jorge Maza)\EVIDENCIAS DE APRENDIZAJE\Maristela Perez\GESTION DE HORARIOS ACTUAL\HORARIOS MODIFICADO\Gestion_de_horarios\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Portafolio Del Aprendiz (Jorge Maza)\EVIDENCIAS DE APRENDIZAJE\Maristela Perez\GESTION DE HORARIOS ACTUAL\HORARIOS MODIFICADO\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios.FrmAmbientes.resources
+F:\Portafolio Del Aprendiz (Jorge Maza)\EVIDENCIAS DE APRENDIZAJE\Maristela Perez\GESTION DE HORARIOS ACTUAL\HORARIOS MODIFICADO\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios.FrmArea.resources
+F:\Portafolio Del Aprendiz (Jorge Maza)\EVIDENCIAS DE APRENDIZAJE\Maristela Perez\GESTION DE HORARIOS ACTUAL\HORARIOS MODIFICADO\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios.FrmCompetenciaResultados.resources
+F:\Portafolio Del Aprendiz (Jorge Maza)\EVIDENCIAS DE APRENDIZAJE\Maristela Perez\GESTION DE HORARIOS ACTUAL\HORARIOS MODIFICADO\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios.FrmCompetenciasTransversales.resources
+F:\Portafolio Del Aprendiz (Jorge Maza)\EVIDENCIAS DE APRENDIZAJE\Maristela Perez\GESTION DE HORARIOS ACTUAL\HORARIOS MODIFICADO\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios.FrmDetallesHorario.resources
+F:\Portafolio Del Aprendiz (Jorge Maza)\EVIDENCIAS DE APRENDIZAJE\Maristela Perez\GESTION DE HORARIOS ACTUAL\HORARIOS MODIFICADO\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios.FrmGestionarResultados.resources
+F:\Portafolio Del Aprendiz (Jorge Maza)\EVIDENCIAS DE APRENDIZAJE\Maristela Perez\GESTION DE HORARIOS ACTUAL\HORARIOS MODIFICADO\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios.FrmGrupos.resources
+F:\Portafolio Del Aprendiz (Jorge Maza)\EVIDENCIAS DE APRENDIZAJE\Maristela Perez\GESTION DE HORARIOS ACTUAL\HORARIOS MODIFICADO\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios.FrmInicioSesion.resources
+F:\Portafolio Del Aprendiz (Jorge Maza)\EVIDENCIAS DE APRENDIZAJE\Maristela Perez\GESTION DE HORARIOS ACTUAL\HORARIOS MODIFICADO\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios.FrmInstructor.resources
+F:\Portafolio Del Aprendiz (Jorge Maza)\EVIDENCIAS DE APRENDIZAJE\Maristela Perez\GESTION DE HORARIOS ACTUAL\HORARIOS MODIFICADO\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios.FrmNiveles.resources
+F:\Portafolio Del Aprendiz (Jorge Maza)\EVIDENCIAS DE APRENDIZAJE\Maristela Perez\GESTION DE HORARIOS ACTUAL\HORARIOS MODIFICADO\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios.FrmPlaneacion.resources
+F:\Portafolio Del Aprendiz (Jorge Maza)\EVIDENCIAS DE APRENDIZAJE\Maristela Perez\GESTION DE HORARIOS ACTUAL\HORARIOS MODIFICADO\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios.FrmPrincipal.resources
+F:\Portafolio Del Aprendiz (Jorge Maza)\EVIDENCIAS DE APRENDIZAJE\Maristela Perez\GESTION DE HORARIOS ACTUAL\HORARIOS MODIFICADO\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios.FrmGenerarHorario.resources
+F:\Portafolio Del Aprendiz (Jorge Maza)\EVIDENCIAS DE APRENDIZAJE\Maristela Perez\GESTION DE HORARIOS ACTUAL\HORARIOS MODIFICADO\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios.FrmProfesion.resources
+F:\Portafolio Del Aprendiz (Jorge Maza)\EVIDENCIAS DE APRENDIZAJE\Maristela Perez\GESTION DE HORARIOS ACTUAL\HORARIOS MODIFICADO\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Programa.resources
+F:\Portafolio Del Aprendiz (Jorge Maza)\EVIDENCIAS DE APRENDIZAJE\Maristela Perez\GESTION DE HORARIOS ACTUAL\HORARIOS MODIFICADO\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios.FrmRegistroCompetencias.resources
+F:\Portafolio Del Aprendiz (Jorge Maza)\EVIDENCIAS DE APRENDIZAJE\Maristela Perez\GESTION DE HORARIOS ACTUAL\HORARIOS MODIFICADO\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios.FrmRegistroResultados.resources
+F:\Portafolio Del Aprendiz (Jorge Maza)\EVIDENCIAS DE APRENDIZAJE\Maristela Perez\GESTION DE HORARIOS ACTUAL\HORARIOS MODIFICADO\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios.FrmResultados_Instructor.resources
+F:\Portafolio Del Aprendiz (Jorge Maza)\EVIDENCIAS DE APRENDIZAJE\Maristela Perez\GESTION DE HORARIOS ACTUAL\HORARIOS MODIFICADO\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios.FrmConsultarHorario.resources
+F:\Portafolio Del Aprendiz (Jorge Maza)\EVIDENCIAS DE APRENDIZAJE\Maristela Perez\GESTION DE HORARIOS ACTUAL\HORARIOS MODIFICADO\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Properties.Resources.resources
+F:\Portafolio Del Aprendiz (Jorge Maza)\EVIDENCIAS DE APRENDIZAJE\Maristela Perez\GESTION DE HORARIOS ACTUAL\HORARIOS MODIFICADO\Gestion_de_horarios\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+F:\Portafolio Del Aprendiz (Jorge Maza)\EVIDENCIAS DE APRENDIZAJE\Maristela Perez\GESTION DE HORARIOS ACTUAL\HORARIOS MODIFICADO\Gestion_de_horarios\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Jorge Leonardo Maza\Desktop\HORARIOS MODIFICADO\Gestion_de_horarios\obj\x86\Debug\Gestion_de_horarios.csproj.ResolveComReference.cache
+C:\Users\Jorge Leonardo Maza\Desktop\HORARIOS MODIFICADO\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.exe
+C:\Users\Jorge Leonardo Maza\Desktop\HORARIOS MODIFICADO\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.pdb
+C:\Users\Jorge Leonardo Maza\Desktop\HORARIOS MODIFICADO\Gestion_de_horarios\bin\Debug\Ej_Interfaz_Proyecto.exe
+C:\Users\Jorge Leonardo Maza\Desktop\HORARIOS MODIFICADO\Gestion_de_horarios\bin\Debug\Ej_Interfaz_Proyecto.pdb
+C:\Users\Jorge Leonardo Maza\Desktop\HORARIOS MODIFICADO\Gestion_de_horarios\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Jorge Leonardo Maza\Desktop\HORARIOS MODIFICADO\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios.FrmAmbientes.resources
+C:\Users\Jorge Leonardo Maza\Desktop\HORARIOS MODIFICADO\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios.FrmArea.resources
+C:\Users\Jorge Leonardo Maza\Desktop\HORARIOS MODIFICADO\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios.FrmCompetenciasTransversales.resources
+C:\Users\Jorge Leonardo Maza\Desktop\HORARIOS MODIFICADO\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios.FrmDetallesHorario.resources
+C:\Users\Jorge Leonardo Maza\Desktop\HORARIOS MODIFICADO\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios.FrmGrupos.resources
+C:\Users\Jorge Leonardo Maza\Desktop\HORARIOS MODIFICADO\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios.FrmInicioSesion.resources
+C:\Users\Jorge Leonardo Maza\Desktop\HORARIOS MODIFICADO\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios.FrmInstructor.resources
+C:\Users\Jorge Leonardo Maza\Desktop\HORARIOS MODIFICADO\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios.FrmNiveles.resources
+C:\Users\Jorge Leonardo Maza\Desktop\HORARIOS MODIFICADO\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios.FrmPrincipal.resources
+C:\Users\Jorge Leonardo Maza\Desktop\HORARIOS MODIFICADO\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios.FrmGenerarHorario.resources
+C:\Users\Jorge Leonardo Maza\Desktop\HORARIOS MODIFICADO\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios.FrmProfesion.resources
+C:\Users\Jorge Leonardo Maza\Desktop\HORARIOS MODIFICADO\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Programa.resources
+C:\Users\Jorge Leonardo Maza\Desktop\HORARIOS MODIFICADO\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios.FrmRegistroCompetencias.resources
+C:\Users\Jorge Leonardo Maza\Desktop\HORARIOS MODIFICADO\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios.FrmRegistroResultados.resources
+C:\Users\Jorge Leonardo Maza\Desktop\HORARIOS MODIFICADO\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios.FrmResultados_Instructor.resources
+C:\Users\Jorge Leonardo Maza\Desktop\HORARIOS MODIFICADO\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios.FrmConsultarHorario.resources
+C:\Users\Jorge Leonardo Maza\Desktop\HORARIOS MODIFICADO\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Properties.Resources.resources
+C:\Users\Jorge Leonardo Maza\Desktop\HORARIOS MODIFICADO\Gestion_de_horarios\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Jorge Leonardo Maza\Desktop\HORARIOS MODIFICADO\Gestion_de_horarios\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Jorge Leonardo Maza\Desktop\HORARIOS MODIFICADO\Gestion_de_horarios\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Jorge Leonardo Maza\Desktop\HORARIOS MODIFICADO\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios.FrmCompetenciasTecnicas.resources
+E:\Estudios\Proyecto Horarios\HORARIOS MODIFICADO\Gestion_de_horarios\obj\x86\Debug\Gestion_de_horarios.csproj.ResolveComReference.cache
+E:\Estudios\Proyecto Horarios\HORARIOS MODIFICADO\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.exe
+E:\Estudios\Proyecto Horarios\HORARIOS MODIFICADO\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.pdb
+E:\Estudios\Proyecto Horarios\HORARIOS MODIFICADO\Gestion_de_horarios\bin\Debug\Ej_Interfaz_Proyecto.exe
+E:\Estudios\Proyecto Horarios\HORARIOS MODIFICADO\Gestion_de_horarios\bin\Debug\Ej_Interfaz_Proyecto.pdb
+E:\Estudios\Proyecto Horarios\HORARIOS MODIFICADO\Gestion_de_horarios\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Estudios\Proyecto Horarios\HORARIOS MODIFICADO\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios.FrmAmbientes.resources
+E:\Estudios\Proyecto Horarios\HORARIOS MODIFICADO\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios.FrmArea.resources
+E:\Estudios\Proyecto Horarios\HORARIOS MODIFICADO\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios.FrmCompetenciasTecnicas.resources
+E:\Estudios\Proyecto Horarios\HORARIOS MODIFICADO\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios.FrmCompetenciasTransversales.resources
+E:\Estudios\Proyecto Horarios\HORARIOS MODIFICADO\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios.FrmDetallesHorario.resources
+E:\Estudios\Proyecto Horarios\HORARIOS MODIFICADO\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios.FrmDuracion.resources
+E:\Estudios\Proyecto Horarios\HORARIOS MODIFICADO\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios.FrmGrupos.resources
+E:\Estudios\Proyecto Horarios\HORARIOS MODIFICADO\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios.FrmInicioSesion.resources
+E:\Estudios\Proyecto Horarios\HORARIOS MODIFICADO\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios.FrmInstructor.resources
+E:\Estudios\Proyecto Horarios\HORARIOS MODIFICADO\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios.FrmNiveles.resources
+E:\Estudios\Proyecto Horarios\HORARIOS MODIFICADO\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios.FrmPrincipal.resources
+E:\Estudios\Proyecto Horarios\HORARIOS MODIFICADO\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios.FrmGenerarHorario.resources
+E:\Estudios\Proyecto Horarios\HORARIOS MODIFICADO\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios.FrmConsultarHorario.resources
+E:\Estudios\Proyecto Horarios\HORARIOS MODIFICADO\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios.FrmProfesion.resources
+E:\Estudios\Proyecto Horarios\HORARIOS MODIFICADO\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Programa.resources
+E:\Estudios\Proyecto Horarios\HORARIOS MODIFICADO\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios.FrmRegistroCompetencias.resources
+E:\Estudios\Proyecto Horarios\HORARIOS MODIFICADO\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios.FrmRegistroResultados.resources
+E:\Estudios\Proyecto Horarios\HORARIOS MODIFICADO\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios.FrmResultados_Instructor.resources
+E:\Estudios\Proyecto Horarios\HORARIOS MODIFICADO\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Properties.Resources.resources
+E:\Estudios\Proyecto Horarios\HORARIOS MODIFICADO\Gestion_de_horarios\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+E:\Estudios\Proyecto Horarios\HORARIOS MODIFICADO\Gestion_de_horarios\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Estudios\Proyecto Horarios\HORARIOS MODIFICADO\Gestion_de_horarios\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+E:\Estudios\Proyecto Horarios\HORARIOS MODIFICADO\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios.VentanaMsjes.resources
+E:\Estudios\Proyecto Horarios\HORARIOS MODIFICADO\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmMinimizados.FrmMinAmbiente.resources
+E:\Estudios\Proyecto Horarios\HORARIOS MODIFICADO\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmMinimizados.FrmMinProgram.resources
+E:\Estudios\Proyecto Horarios\HORARIOS MODIFICADO\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmMinimizados.FrmMinInstructor.resources
+E:\Estudios\Proyecto Horarios\HORARIOS MODIFICADO\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmMinimizados.FrmMinAreas.resources
+E:\Estudios\Proyecto Horarios\HORARIOS MODIFICADO\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmMinimizados.FrmMinHorarios.resources
+F:\Proyecto Horarios\HORARIOS MODIFICADO\Gestion_de_horarios\obj\x86\Debug\Gestion_de_horarios.csproj.ResolveComReference.cache
+F:\Proyecto Horarios\HORARIOS MODIFICADO\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.exe
+F:\Proyecto Horarios\HORARIOS MODIFICADO\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.pdb
+F:\Proyecto Horarios\HORARIOS MODIFICADO\Gestion_de_horarios\bin\Debug\Ej_Interfaz_Proyecto.exe
+F:\Proyecto Horarios\HORARIOS MODIFICADO\Gestion_de_horarios\bin\Debug\Ej_Interfaz_Proyecto.pdb
+F:\Proyecto Horarios\HORARIOS MODIFICADO\Gestion_de_horarios\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Proyecto Horarios\HORARIOS MODIFICADO\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios.FrmAmbientes.resources
+F:\Proyecto Horarios\HORARIOS MODIFICADO\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios.FrmArea.resources
+F:\Proyecto Horarios\HORARIOS MODIFICADO\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios.FrmCompetenciasTecnicas.resources
+F:\Proyecto Horarios\HORARIOS MODIFICADO\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios.FrmCompetenciasTransversales.resources
+F:\Proyecto Horarios\HORARIOS MODIFICADO\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios.FrmDetallesHorario.resources
+F:\Proyecto Horarios\HORARIOS MODIFICADO\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios.FrmDuracion.resources
+F:\Proyecto Horarios\HORARIOS MODIFICADO\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios.FrmGrupos.resources
+F:\Proyecto Horarios\HORARIOS MODIFICADO\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios.FrmInicioSesion.resources
+F:\Proyecto Horarios\HORARIOS MODIFICADO\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios.FrmInstructor.resources
+F:\Proyecto Horarios\HORARIOS MODIFICADO\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios.FrmNiveles.resources
+F:\Proyecto Horarios\HORARIOS MODIFICADO\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios.FrmPrincipal.resources
+F:\Proyecto Horarios\HORARIOS MODIFICADO\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios.FrmGenerarHorario.resources
+F:\Proyecto Horarios\HORARIOS MODIFICADO\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios.FrmConsultarHorario.resources
+F:\Proyecto Horarios\HORARIOS MODIFICADO\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios.FrmProfesion.resources
+F:\Proyecto Horarios\HORARIOS MODIFICADO\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Programa.resources
+F:\Proyecto Horarios\HORARIOS MODIFICADO\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios.FrmRegistroCompetencias.resources
+F:\Proyecto Horarios\HORARIOS MODIFICADO\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios.FrmRegistroResultados.resources
+F:\Proyecto Horarios\HORARIOS MODIFICADO\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios.FrmResultados_Instructor.resources
+F:\Proyecto Horarios\HORARIOS MODIFICADO\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios.VentanaMsjes.resources
+F:\Proyecto Horarios\HORARIOS MODIFICADO\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmMinimizados.FrmMinAreas.resources
+F:\Proyecto Horarios\HORARIOS MODIFICADO\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmMinimizados.FrmMinHorarios.resources
+F:\Proyecto Horarios\HORARIOS MODIFICADO\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmMinimizados.FrmMinInstructor.resources
+F:\Proyecto Horarios\HORARIOS MODIFICADO\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmMinimizados.FrmMinProgram.resources
+F:\Proyecto Horarios\HORARIOS MODIFICADO\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmMinimizados.FrmMinAmbiente.resources
+F:\Proyecto Horarios\HORARIOS MODIFICADO\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Properties.Resources.resources
+F:\Proyecto Horarios\HORARIOS MODIFICADO\Gestion_de_horarios\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+F:\Proyecto Horarios\HORARIOS MODIFICADO\Gestion_de_horarios\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Proyecto Horarios\HORARIOS MODIFICADO\Gestion_de_horarios\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+G:\Proyecto Horarios\HORARIOS MODIFICADO\Gestion_de_horarios\obj\x86\Debug\Gestion_de_horarios.csproj.ResolveComReference.cache
+G:\Proyecto Horarios\HORARIOS MODIFICADO\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.exe
+G:\Proyecto Horarios\HORARIOS MODIFICADO\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.pdb
+G:\Proyecto Horarios\HORARIOS MODIFICADO\Gestion_de_horarios\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Proyecto Horarios\HORARIOS MODIFICADO\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios.FrmAmbientes.resources
+G:\Proyecto Horarios\HORARIOS MODIFICADO\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios.FrmArea.resources
+G:\Proyecto Horarios\HORARIOS MODIFICADO\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios.FrmCompetenciasTecnicas.resources
+G:\Proyecto Horarios\HORARIOS MODIFICADO\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios.FrmCompetenciasTransversales.resources
+G:\Proyecto Horarios\HORARIOS MODIFICADO\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios.FrmDetallesHorario.resources
+G:\Proyecto Horarios\HORARIOS MODIFICADO\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios.FrmGrupos.resources
+G:\Proyecto Horarios\HORARIOS MODIFICADO\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios.FrmInicioSesion.resources
+G:\Proyecto Horarios\HORARIOS MODIFICADO\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios.FrmInstructor.resources
+G:\Proyecto Horarios\HORARIOS MODIFICADO\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios.FrmInstructor2.resources
+G:\Proyecto Horarios\HORARIOS MODIFICADO\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios.FrmNiveles.resources
+G:\Proyecto Horarios\HORARIOS MODIFICADO\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios.FrmPrincipal.resources
+G:\Proyecto Horarios\HORARIOS MODIFICADO\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios.FrmGenerarHorario.resources
+G:\Proyecto Horarios\HORARIOS MODIFICADO\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios.FrmConsultarHorario.resources
+G:\Proyecto Horarios\HORARIOS MODIFICADO\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios.FrmProfesion.resources
+G:\Proyecto Horarios\HORARIOS MODIFICADO\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Programa.resources
+G:\Proyecto Horarios\HORARIOS MODIFICADO\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios.FrmRegistroCompetencias.resources
+G:\Proyecto Horarios\HORARIOS MODIFICADO\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios.FrmRegistroResultados.resources
+G:\Proyecto Horarios\HORARIOS MODIFICADO\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios.VentanaMsjes.resources
+G:\Proyecto Horarios\HORARIOS MODIFICADO\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmMinimizados.FrmMinAreas.resources
+G:\Proyecto Horarios\HORARIOS MODIFICADO\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmMinimizados.FrmMinHorarios.resources
+G:\Proyecto Horarios\HORARIOS MODIFICADO\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmMinimizados.FrmMinInstructor.resources
+G:\Proyecto Horarios\HORARIOS MODIFICADO\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmMinimizados.FrmMinProgram.resources
+G:\Proyecto Horarios\HORARIOS MODIFICADO\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmMinimizados.FrmMinAmbiente.resources
+G:\Proyecto Horarios\HORARIOS MODIFICADO\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Properties.Resources.resources
+G:\Proyecto Horarios\HORARIOS MODIFICADO\Gestion_de_horarios\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+G:\Proyecto Horarios\HORARIOS MODIFICADO\Gestion_de_horarios\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\Proyecto Horarios\HORARIOS MODIFICADO\Gestion_de_horarios\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+G:\Proyecto Horarios\HORARIOS MODIFICADO\Gestion_de_horarios\bin\Debug\Ej_Interfaz_Proyecto.exe
+G:\Proyecto Horarios\HORARIOS MODIFICADO\Gestion_de_horarios\bin\Debug\Ej_Interfaz_Proyecto.pdb
+C:\Users\Jorge Leonardo Maza\Desktop\HORARIOS MODIFICADO\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios.VentanaMsjes.resources
+C:\Users\Jorge Leonardo Maza\Desktop\HORARIOS MODIFICADO\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmMinimizados.FrmMinAreas.resources
+C:\Users\Jorge Leonardo Maza\Desktop\HORARIOS MODIFICADO\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmMinimizados.FrmMinHorarios.resources
+C:\Users\Jorge Leonardo Maza\Desktop\HORARIOS MODIFICADO\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmMinimizados.FrmMinInstructor.resources
+C:\Users\Jorge Leonardo Maza\Desktop\HORARIOS MODIFICADO\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmMinimizados.FrmMinProgram.resources
+C:\Users\Jorge Leonardo Maza\Desktop\HORARIOS MODIFICADO\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmMinimizados.FrmMinAmbiente.resources
+F:\Horario Final\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Gestion_de_horarios.csproj.ResolveComReference.cache
+F:\Horario Final\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.exe
+F:\Horario Final\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.pdb
+F:\Horario Final\GESTOR DE HORARIOS\Gestion_de_horarios\bin\Debug\Ej_Interfaz_Proyecto.exe
+F:\Horario Final\GESTOR DE HORARIOS\Gestion_de_horarios\bin\Debug\Ej_Interfaz_Proyecto.pdb
+F:\Horario Final\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Horario Final\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios.FrmAmbientes.resources
+F:\Horario Final\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios.FrmArea.resources
+F:\Horario Final\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios.FrmCompetenciasTecnicas.resources
+F:\Horario Final\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios.FrmCompetenciasTransversales.resources
+F:\Horario Final\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios.FrmDetallesHorario.resources
+F:\Horario Final\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios.FrmGrupos.resources
+F:\Horario Final\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios.FrmInicioSesion.resources
+F:\Horario Final\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios.FrmResultados_Instructor.resources
+F:\Horario Final\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios.FrmInstructor.resources
+F:\Horario Final\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios.FrmNiveles.resources
+F:\Horario Final\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios.FrmPrincipal.resources
+F:\Horario Final\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios.FrmGenerarHorario.resources
+F:\Horario Final\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios.FrmConsultarHorario.resources
+F:\Horario Final\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios.FrmProfesion.resources
+F:\Horario Final\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Programa.resources
+F:\Horario Final\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios.FrmRegistroCompetencias.resources
+F:\Horario Final\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios.FrmRegistroResultados.resources
+F:\Horario Final\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios.VentanaMsjes.resources
+F:\Horario Final\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmMinimizados.FrmMinAreas.resources
+F:\Horario Final\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmMinimizados.FrmMinHorarios.resources
+F:\Horario Final\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmMinimizados.FrmMinInstructor.resources
+F:\Horario Final\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmMinimizados.FrmMinProgram.resources
+F:\Horario Final\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmMinimizados.FrmMinAmbiente.resources
+F:\Horario Final\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Properties.Resources.resources
+F:\Horario Final\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+F:\Horario Final\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Horario Final\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+F:\Horario Final 5.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Gestion_de_horarios.csproj.ResolveComReference.cache
+F:\Horario Final 5.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.exe
+F:\Horario Final 5.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.pdb
+F:\Horario Final 5.0\GESTOR DE HORARIOS\Gestion_de_horarios\bin\Debug\Ej_Interfaz_Proyecto.exe
+F:\Horario Final 5.0\GESTOR DE HORARIOS\Gestion_de_horarios\bin\Debug\Ej_Interfaz_Proyecto.pdb
+F:\Horario Final 5.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios.FrmAmbientes.resources
+F:\Horario Final 5.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios.FrmArea.resources
+F:\Horario Final 5.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios.FrmCompetenciasTecnicas.resources
+F:\Horario Final 5.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios.FrmCompetenciasTransversales.resources
+F:\Horario Final 5.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios.FrmDetallesHorario.resources
+F:\Horario Final 5.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios.FrmGrupos.resources
+F:\Horario Final 5.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios.FrmInicioSesion.resources
+F:\Horario Final 5.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios.FrmResultados_Instructor.resources
+F:\Horario Final 5.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios.FrmInstructor.resources
+F:\Horario Final 5.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios.FrmNiveles.resources
+F:\Horario Final 5.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios.FrmPrincipal.resources
+F:\Horario Final 5.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios.FrmGenerarHorario.resources
+F:\Horario Final 5.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios.FrmConsultarHorario.resources
+F:\Horario Final 5.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios.FrmProfesion.resources
+F:\Horario Final 5.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Programa.resources
+F:\Horario Final 5.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios.FrmRegistroCompetencias.resources
+F:\Horario Final 5.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios.FrmRegistroResultados.resources
+F:\Horario Final 5.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios.VentanaMsjes.resources
+F:\Horario Final 5.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmMinimizados.FrmMinAreas.resources
+F:\Horario Final 5.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmMinimizados.FrmMinHorarios.resources
+F:\Horario Final 5.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmMinimizados.FrmMinInstructor.resources
+F:\Horario Final 5.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmMinimizados.FrmMinProgram.resources
+F:\Horario Final 5.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmMinimizados.FrmMinAmbiente.resources
+F:\Horario Final 5.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Properties.Resources.resources
+F:\Horario Final 5.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Gestion_de_horarios.csproj.GenerateResource.Cache
+G:\Horario Final 5.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Gestion_de_horarios.csproj.ResolveComReference.cache
+G:\Horario Final 5.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.exe
+G:\Horario Final 5.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.pdb
+G:\Horario Final 5.0\GESTOR DE HORARIOS\Gestion_de_horarios\bin\Debug\Ej_Interfaz_Proyecto.exe
+G:\Horario Final 5.0\GESTOR DE HORARIOS\Gestion_de_horarios\bin\Debug\Ej_Interfaz_Proyecto.pdb
+G:\Horario Final 5.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios.FrmAmbientes.resources
+G:\Horario Final 5.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios.FrmArea.resources
+G:\Horario Final 5.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios.FrmCompetenciasTecnicas.resources
+G:\Horario Final 5.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios.FrmCompetenciasTransversales.resources
+G:\Horario Final 5.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios.FrmDetallesHorario.resources
+G:\Horario Final 5.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios.FrmGrupos.resources
+G:\Horario Final 5.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios.FrmInicioSesion.resources
+G:\Horario Final 5.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios.FrmResultados_Instructor.resources
+G:\Horario Final 5.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios.FrmInstructor.resources
+G:\Horario Final 5.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios.FrmNiveles.resources
+G:\Horario Final 5.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios.FrmPrincipal.resources
+G:\Horario Final 5.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios.FrmGenerarHorario.resources
+G:\Horario Final 5.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios.FrmConsultarHorario.resources
+G:\Horario Final 5.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios.FrmProfesion.resources
+G:\Horario Final 5.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Programa.resources
+G:\Horario Final 5.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios.FrmRegistroCompetencias.resources
+G:\Horario Final 5.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios.FrmRegistroResultados.resources
+G:\Horario Final 5.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios.VentanaMsjes.resources
+G:\Horario Final 5.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmMinimizados.FrmMinAreas.resources
+G:\Horario Final 5.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmMinimizados.FrmMinHorarios.resources
+G:\Horario Final 5.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmMinimizados.FrmMinInstructor.resources
+G:\Horario Final 5.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmMinimizados.FrmMinProgram.resources
+G:\Horario Final 5.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmMinimizados.FrmMinAmbiente.resources
+G:\Horario Final 5.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Properties.Resources.resources
+G:\Horario Final 5.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Gestion_de_horarios.csproj.GenerateResource.Cache
+E:\Estudios\Horario Final 5.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Gestion_de_horarios.csproj.ResolveComReference.cache
+E:\Estudios\Horario Final 5.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.exe
+E:\Estudios\Horario Final 5.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.pdb
+E:\Estudios\Horario Final 5.0 1280x768\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Gestion_de_horarios.csproj.ResolveComReference.cache
+E:\Estudios\Horario Final 5.0 1280x768\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.exe
+E:\Estudios\Horario Final 5.0 1280x768\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.pdb
+E:\Estudios\Horario Final 5.0 1280x768\GESTOR DE HORARIOS\Gestion_de_horarios\bin\Debug\Ej_Interfaz_Proyecto.exe
+E:\Estudios\Horario Final 5.0 1280x768\GESTOR DE HORARIOS\Gestion_de_horarios\bin\Debug\Ej_Interfaz_Proyecto.pdb
+E:\Estudios\Horario Final 5.0 1280x768\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Estudios\Horario Final 5.0 1280x768\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios.FrmAmbientes.resources
+E:\Estudios\Horario Final 5.0 1280x768\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios.FrmArea.resources
+E:\Estudios\Horario Final 5.0 1280x768\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios.FrmCompetenciasTecnicas.resources
+E:\Estudios\Horario Final 5.0 1280x768\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios.FrmCompetenciasTransversales.resources
+E:\Estudios\Horario Final 5.0 1280x768\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios.FrmDetallesHorario.resources
+E:\Estudios\Horario Final 5.0 1280x768\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios.FrmGrupos.resources
+E:\Estudios\Horario Final 5.0 1280x768\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios.FrmInicioSesion.resources
+E:\Estudios\Horario Final 5.0 1280x768\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios.FrmResultados_Instructor.resources
+E:\Estudios\Horario Final 5.0 1280x768\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios.FrmInstructor.resources
+E:\Estudios\Horario Final 5.0 1280x768\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios.FrmNiveles.resources
+E:\Estudios\Horario Final 5.0 1280x768\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios.FrmPrincipal.resources
+E:\Estudios\Horario Final 5.0 1280x768\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios.FrmGenerarHorario.resources
+E:\Estudios\Horario Final 5.0 1280x768\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios.FrmConsultarHorario.resources
+E:\Estudios\Horario Final 5.0 1280x768\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios.FrmProfesion.resources
+E:\Estudios\Horario Final 5.0 1280x768\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Programa.resources
+E:\Estudios\Horario Final 5.0 1280x768\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios.FrmRegistroCompetencias.resources
+E:\Estudios\Horario Final 5.0 1280x768\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios.FrmRegistroResultados.resources
+E:\Estudios\Horario Final 5.0 1280x768\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios.VentanaMsjes.resources
+E:\Estudios\Horario Final 5.0 1280x768\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmMinimizados.FrmMinAreas.resources
+E:\Estudios\Horario Final 5.0 1280x768\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmMinimizados.FrmMinHorarios.resources
+E:\Estudios\Horario Final 5.0 1280x768\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmMinimizados.FrmMinInstructor.resources
+E:\Estudios\Horario Final 5.0 1280x768\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmMinimizados.FrmMinProgram.resources
+E:\Estudios\Horario Final 5.0 1280x768\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmMinimizados.FrmMinAmbiente.resources
+E:\Estudios\Horario Final 5.0 1280x768\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Properties.Resources.resources
+E:\Estudios\Horario Final 5.0 1280x768\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+E:\Estudios\Horario Final 5.0 1280x768\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Estudios\Horario Final 5.0 1280x768\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Jorge Leonardo Maza\Desktop\Horario Final 5.0 1280x600\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Gestion_de_horarios.csproj.ResolveComReference.cache
+C:\Users\Jorge Leonardo Maza\Desktop\Horario Final 5.0 1280x600\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.exe
+C:\Users\Jorge Leonardo Maza\Desktop\Horario Final 5.0 1280x600\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.pdb
+C:\Users\Jorge Leonardo Maza\Desktop\Horario Final 5.0 1280x600\GESTOR DE HORARIOS\Gestion_de_horarios\bin\Debug\Ej_Interfaz_Proyecto.exe
+C:\Users\Jorge Leonardo Maza\Desktop\Horario Final 5.0 1280x600\GESTOR DE HORARIOS\Gestion_de_horarios\bin\Debug\Ej_Interfaz_Proyecto.pdb
+C:\Users\Jorge Leonardo Maza\Desktop\Horario Final 5.0 1280x600\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Jorge Leonardo Maza\Desktop\Horario Final 5.0 1280x600\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x600.FrmAmbientes.resources
+C:\Users\Jorge Leonardo Maza\Desktop\Horario Final 5.0 1280x600\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x600.FrmArea.resources
+C:\Users\Jorge Leonardo Maza\Desktop\Horario Final 5.0 1280x600\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x600.FrmCompetenciasTecnicas.resources
+C:\Users\Jorge Leonardo Maza\Desktop\Horario Final 5.0 1280x600\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x600.FrmCompetenciasTransversales.resources
+C:\Users\Jorge Leonardo Maza\Desktop\Horario Final 5.0 1280x600\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x600.FrmDetallesHorario.resources
+C:\Users\Jorge Leonardo Maza\Desktop\Horario Final 5.0 1280x600\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x600.FrmGrupos.resources
+C:\Users\Jorge Leonardo Maza\Desktop\Horario Final 5.0 1280x600\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x600.FrmInicioSesion.resources
+C:\Users\Jorge Leonardo Maza\Desktop\Horario Final 5.0 1280x600\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x600.FrmResultados_Instructor.resources
+C:\Users\Jorge Leonardo Maza\Desktop\Horario Final 5.0 1280x600\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x600.FrmInstructor.resources
+C:\Users\Jorge Leonardo Maza\Desktop\Horario Final 5.0 1280x600\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x600.FrmNiveles.resources
+C:\Users\Jorge Leonardo Maza\Desktop\Horario Final 5.0 1280x600\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x600.FrmPrincipal.resources
+C:\Users\Jorge Leonardo Maza\Desktop\Horario Final 5.0 1280x600\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x600.FrmGenerarHorario.resources
+C:\Users\Jorge Leonardo Maza\Desktop\Horario Final 5.0 1280x600\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x600.FrmConsultarHorario.resources
+C:\Users\Jorge Leonardo Maza\Desktop\Horario Final 5.0 1280x600\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x600.FrmProfesion.resources
+C:\Users\Jorge Leonardo Maza\Desktop\Horario Final 5.0 1280x600\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Programa.resources
+C:\Users\Jorge Leonardo Maza\Desktop\Horario Final 5.0 1280x600\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x600.FrmRegistroCompetencias.resources
+C:\Users\Jorge Leonardo Maza\Desktop\Horario Final 5.0 1280x600\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x600.FrmRegistroResultados.resources
+C:\Users\Jorge Leonardo Maza\Desktop\Horario Final 5.0 1280x600\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x600.VentanaMsjes.resources
+C:\Users\Jorge Leonardo Maza\Desktop\Horario Final 5.0 1280x600\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmMinimizados.FrmMinAreas.resources
+C:\Users\Jorge Leonardo Maza\Desktop\Horario Final 5.0 1280x600\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmMinimizados.FrmMinHorarios.resources
+C:\Users\Jorge Leonardo Maza\Desktop\Horario Final 5.0 1280x600\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmMinimizados.FrmMinInstructor.resources
+C:\Users\Jorge Leonardo Maza\Desktop\Horario Final 5.0 1280x600\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmMinimizados.FrmMinProgram.resources
+C:\Users\Jorge Leonardo Maza\Desktop\Horario Final 5.0 1280x600\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmMinimizados.FrmMinAmbiente.resources
+C:\Users\Jorge Leonardo Maza\Desktop\Horario Final 5.0 1280x600\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Properties.Resources.resources
+C:\Users\Jorge Leonardo Maza\Desktop\Horario Final 5.0 1280x600\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Jorge Leonardo Maza\Desktop\Horario Final 5.0 1280x600\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Jorge Leonardo Maza\Desktop\Horario Final 5.0 1280x600\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Jorge Leonardo Maza\Desktop\Horario Final 5.0 1280x600\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.VentanaMsjes.resources
+C:\Users\Jorge Leonardo Maza\Desktop\Horario Final 5.0 1280x600\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.Programa.resources
+C:\Users\Jorge Leonardo Maza\Desktop\Horario Final 5.0 1280x600\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmArea_1280x1024.resources
+C:\Users\Jorge Leonardo Maza\Desktop\Horario Final 5.0 1280x600\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmAmbientes_1280x1024.resources
+C:\Users\Jorge Leonardo Maza\Desktop\Horario Final 5.0 1280x600\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmCompetenciasTecnicas_1280x1024.resources
+C:\Users\Jorge Leonardo Maza\Desktop\Horario Final 5.0 1280x600\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmCompetenciasTransversales_1280x1024.resources
+C:\Users\Jorge Leonardo Maza\Desktop\Horario Final 5.0 1280x600\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmConsultarHorario_1280x1024.resources
+C:\Users\Jorge Leonardo Maza\Desktop\Horario Final 5.0 1280x600\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmDetallesHorario_1280x1024.resources
+C:\Users\Jorge Leonardo Maza\Desktop\Horario Final 5.0 1280x600\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmGenerarHorario_1280x1024.resources
+C:\Users\Jorge Leonardo Maza\Desktop\Horario Final 5.0 1280x600\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmGrupos_1280x1024.resources
+C:\Users\Jorge Leonardo Maza\Desktop\Horario Final 5.0 1280x600\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmInicioSesion_1280x1024.resources
+C:\Users\Jorge Leonardo Maza\Desktop\Horario Final 5.0 1280x600\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmInstructor_1280x1024.resources
+C:\Users\Jorge Leonardo Maza\Desktop\Horario Final 5.0 1280x600\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmNiveles_1280x1024.resources
+C:\Users\Jorge Leonardo Maza\Desktop\Horario Final 5.0 1280x600\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmPrincipal_1280x1024.resources
+C:\Users\Jorge Leonardo Maza\Desktop\Horario Final 5.0 1280x600\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmProfesion_1280x1024.resources
+C:\Users\Jorge Leonardo Maza\Desktop\Horario Final 5.0 1280x600\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmRegistroCompetencias_1280x1024.resources
+C:\Users\Jorge Leonardo Maza\Desktop\Horario Final 5.0 1280x600\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmRegistroResultados_1280x1024.resources
+C:\Users\Jorge Leonardo Maza\Desktop\Horario Final 5.0 1280x600\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmResultados_Instructor_1280x1024.resources
+E:\Estudios\Horario Final 6.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Gestion_de_horarios.csproj.ResolveComReference.cache
+E:\Estudios\Horario Final 6.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.exe
+E:\Estudios\Horario Final 6.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.pdb
+E:\Estudios\Horario Final 6.0\GESTOR DE HORARIOS\Gestion_de_horarios\bin\Debug\Ej_Interfaz_Proyecto.exe
+E:\Estudios\Horario Final 6.0\GESTOR DE HORARIOS\Gestion_de_horarios\bin\Debug\Ej_Interfaz_Proyecto.pdb
+E:\Estudios\Horario Final 6.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Estudios\Horario Final 6.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmAmbientes_1280x1024.resources
+E:\Estudios\Horario Final 6.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmArea_1280x1024.resources
+E:\Estudios\Horario Final 6.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmCompetenciasTecnicas_1280x1024.resources
+E:\Estudios\Horario Final 6.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmCompetenciasTransversales_1280x1024.resources
+E:\Estudios\Horario Final 6.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmConsultarHorario_1280x1024.resources
+E:\Estudios\Horario Final 6.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmDetallesHorario_1280x1024.resources
+E:\Estudios\Horario Final 6.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmGenerarHorario_1280x1024.resources
+E:\Estudios\Horario Final 6.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmGrupos_1280x1024.resources
+E:\Estudios\Horario Final 6.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmInicioSesion_1280x1024.resources
+E:\Estudios\Horario Final 6.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmInstructor_1280x1024.resources
+E:\Estudios\Horario Final 6.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmNiveles_1280x1024.resources
+E:\Estudios\Horario Final 6.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmPrincipal_1280x1024.resources
+E:\Estudios\Horario Final 6.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmProfesion_1280x1024.resources
+E:\Estudios\Horario Final 6.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmRegistroCompetencias_1280x1024.resources
+E:\Estudios\Horario Final 6.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmRegistroResultados_1280x1024.resources
+E:\Estudios\Horario Final 6.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmResultados_Instructor_1280x1024.resources
+E:\Estudios\Horario Final 6.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.VentanaMsjes.resources
+E:\Estudios\Horario Final 6.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x600.FrmAmbientes_1280x600.resources
+E:\Estudios\Horario Final 6.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x600.FrmArea_1280x600.resources
+E:\Estudios\Horario Final 6.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x600.FrmCompetenciasTecnicas_1280x600.resources
+E:\Estudios\Horario Final 6.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x600.FrmCompetenciasTransversales_1280x600.resources
+E:\Estudios\Horario Final 6.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x600.FrmDetallesHorario_1280x600.resources
+E:\Estudios\Horario Final 6.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x600.FrmGrupos_1280x600.resources
+E:\Estudios\Horario Final 6.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x600.FrmInicioSesion_1280x600.resources
+E:\Estudios\Horario Final 6.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x600.FrmResultados_Instructor_1280x600.resources
+E:\Estudios\Horario Final 6.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x600.FrmInstructor_1280x600.resources
+E:\Estudios\Horario Final 6.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x600.FrmNiveles_1280x600.resources
+E:\Estudios\Horario Final 6.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x600.FrmPrincipal_1280x600.resources
+E:\Estudios\Horario Final 6.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x600.FrmGenerarHorario_1280x600.resources
+E:\Estudios\Horario Final 6.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x600.FrmConsultarHorario_1280x600.resources
+E:\Estudios\Horario Final 6.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x600.FrmProfesion_1280x600.resources
+E:\Estudios\Horario Final 6.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x600.FrmRegistroCompetencias_1280x600.resources
+E:\Estudios\Horario Final 6.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x600.FrmRegistroResultados_1280x600.resources
+E:\Estudios\Horario Final 6.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x600.VentanaMsjes.resources
+E:\Estudios\Horario Final 6.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Properties.Resources.resources
+E:\Estudios\Horario Final 6.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+E:\Estudios\Horario Final 6.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+E:\Estudios\Horario Final 6.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.Programa_1280x1024.resources
+E:\Estudios\Horario Final 6.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmMinimizados_1280x1024.FrmMinAreas.resources
+E:\Estudios\Horario Final 6.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmMinimizados_1280x1024.FrmMinHorarios.resources
+E:\Estudios\Horario Final 6.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmMinimizados_1280x1024.FrmMinInstructor.resources
+E:\Estudios\Horario Final 6.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmMinimizados_1280x1024.FrmMinProgram.resources
+E:\Estudios\Horario Final 6.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmMinimizados_1280x1024.FrmMinAmbiente.resources
+E:\Estudios\Horario Final 6.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Programa_1280x600.resources
+E:\Estudios\Horario Final 6.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmMinimizados_1280x600.FrmMinAmbiente.resources
+E:\Estudios\Horario Final 6.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmMinimizados_1280x600.FrmMinAreas.resources
+E:\Estudios\Horario Final 6.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmMinimizados_1280x600.FrmMinHorarios.resources
+E:\Estudios\Horario Final 6.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmMinimizados_1280x600.FrmMinInstructor.resources
+E:\Estudios\Horario Final 6.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmMinimizados_1280x600.FrmMinProgram.resources
+C:\Users\Tania Sofia\Desktop\Horario Final 6.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Gestion_de_horarios.csproj.ResolveComReference.cache
+C:\Users\Tania Sofia\Desktop\Horario Final 6.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.exe
+C:\Users\Tania Sofia\Desktop\Horario Final 6.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.pdb
+C:\Users\Tania Sofia\Desktop\Horario Final 6.0\GESTOR DE HORARIOS\Gestion_de_horarios\bin\Debug\Ej_Interfaz_Proyecto.exe
+C:\Users\Tania Sofia\Desktop\Horario Final 6.0\GESTOR DE HORARIOS\Gestion_de_horarios\bin\Debug\Ej_Interfaz_Proyecto.pdb
+C:\Users\Tania Sofia\Desktop\Horario Final 6.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Tania Sofia\Desktop\Horario Final 6.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmAmbientes_1280x1024.resources
+C:\Users\Tania Sofia\Desktop\Horario Final 6.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmArea_1280x1024.resources
+C:\Users\Tania Sofia\Desktop\Horario Final 6.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmCompetenciasTecnicas_1280x1024.resources
+C:\Users\Tania Sofia\Desktop\Horario Final 6.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmCompetenciasTransversales_1280x1024.resources
+C:\Users\Tania Sofia\Desktop\Horario Final 6.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmConsultarHorario_1280x1024.resources
+C:\Users\Tania Sofia\Desktop\Horario Final 6.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmDetallesHorario_1280x1024.resources
+C:\Users\Tania Sofia\Desktop\Horario Final 6.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmGenerarHorario_1280x1024.resources
+C:\Users\Tania Sofia\Desktop\Horario Final 6.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmGrupos_1280x1024.resources
+C:\Users\Tania Sofia\Desktop\Horario Final 6.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmInicioSesion_1280x1024.resources
+C:\Users\Tania Sofia\Desktop\Horario Final 6.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmInstructor_1280x1024.resources
+C:\Users\Tania Sofia\Desktop\Horario Final 6.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmNiveles_1280x1024.resources
+C:\Users\Tania Sofia\Desktop\Horario Final 6.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmPrincipal_1280x1024.resources
+C:\Users\Tania Sofia\Desktop\Horario Final 6.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmProfesion_1280x1024.resources
+C:\Users\Tania Sofia\Desktop\Horario Final 6.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.Programa_1280x1024.resources
+C:\Users\Tania Sofia\Desktop\Horario Final 6.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmRegistroCompetencias_1280x1024.resources
+C:\Users\Tania Sofia\Desktop\Horario Final 6.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmRegistroResultados_1280x1024.resources
+C:\Users\Tania Sofia\Desktop\Horario Final 6.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmResultados_Instructor_1280x1024.resources
+C:\Users\Tania Sofia\Desktop\Horario Final 6.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.VentanaMsjes.resources
+C:\Users\Tania Sofia\Desktop\Horario Final 6.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x600.FrmAmbientes_1280x600.resources
+C:\Users\Tania Sofia\Desktop\Horario Final 6.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x600.FrmArea_1280x600.resources
+C:\Users\Tania Sofia\Desktop\Horario Final 6.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x600.FrmCompetenciasTecnicas_1280x600.resources
+C:\Users\Tania Sofia\Desktop\Horario Final 6.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x600.FrmCompetenciasTransversales_1280x600.resources
+C:\Users\Tania Sofia\Desktop\Horario Final 6.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x600.FrmDetallesHorario_1280x600.resources
+C:\Users\Tania Sofia\Desktop\Horario Final 6.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x600.FrmGrupos_1280x600.resources
+C:\Users\Tania Sofia\Desktop\Horario Final 6.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x600.FrmInicioSesion_1280x600.resources
+C:\Users\Tania Sofia\Desktop\Horario Final 6.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x600.FrmResultados_Instructor_1280x600.resources
+C:\Users\Tania Sofia\Desktop\Horario Final 6.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x600.FrmInstructor_1280x600.resources
+C:\Users\Tania Sofia\Desktop\Horario Final 6.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x600.FrmNiveles_1280x600.resources
+C:\Users\Tania Sofia\Desktop\Horario Final 6.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x600.FrmPrincipal_1280x600.resources
+C:\Users\Tania Sofia\Desktop\Horario Final 6.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x600.FrmGenerarHorario_1280x600.resources
+C:\Users\Tania Sofia\Desktop\Horario Final 6.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x600.FrmConsultarHorario_1280x600.resources
+C:\Users\Tania Sofia\Desktop\Horario Final 6.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x600.FrmProfesion_1280x600.resources
+C:\Users\Tania Sofia\Desktop\Horario Final 6.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Programa_1280x600.resources
+C:\Users\Tania Sofia\Desktop\Horario Final 6.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x600.FrmRegistroCompetencias_1280x600.resources
+C:\Users\Tania Sofia\Desktop\Horario Final 6.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x600.FrmRegistroResultados_1280x600.resources
+C:\Users\Tania Sofia\Desktop\Horario Final 6.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x600.VentanaMsjes.resources
+C:\Users\Tania Sofia\Desktop\Horario Final 6.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmMinimizados_1280x1024.FrmMinAreas.resources
+C:\Users\Tania Sofia\Desktop\Horario Final 6.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmMinimizados_1280x1024.FrmMinHorarios.resources
+C:\Users\Tania Sofia\Desktop\Horario Final 6.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmMinimizados_1280x1024.FrmMinInstructor.resources
+C:\Users\Tania Sofia\Desktop\Horario Final 6.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmMinimizados_1280x1024.FrmMinProgram.resources
+C:\Users\Tania Sofia\Desktop\Horario Final 6.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmMinimizados_1280x1024.FrmMinAmbiente.resources
+C:\Users\Tania Sofia\Desktop\Horario Final 6.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmMinimizados_1280x600.FrmMinAmbiente.resources
+C:\Users\Tania Sofia\Desktop\Horario Final 6.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmMinimizados_1280x600.FrmMinAreas.resources
+C:\Users\Tania Sofia\Desktop\Horario Final 6.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmMinimizados_1280x600.FrmMinHorarios.resources
+C:\Users\Tania Sofia\Desktop\Horario Final 6.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmMinimizados_1280x600.FrmMinInstructor.resources
+C:\Users\Tania Sofia\Desktop\Horario Final 6.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmMinimizados_1280x600.FrmMinProgram.resources
+C:\Users\Tania Sofia\Desktop\Horario Final 6.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Properties.Resources.resources
+C:\Users\Tania Sofia\Desktop\Horario Final 6.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Tania Sofia\Desktop\Horario Final 6.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+G:\Horario Final 7.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Gestion_de_horarios.csproj.ResolveComReference.cache
+G:\Horario Final 7.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.exe
+G:\Horario Final 7.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.pdb
+G:\Horario Final 7.0\GESTOR DE HORARIOS\Gestion_de_horarios\bin\Debug\Ej_Interfaz_Proyecto.exe
+G:\Horario Final 7.0\GESTOR DE HORARIOS\Gestion_de_horarios\bin\Debug\Ej_Interfaz_Proyecto.pdb
+G:\Horario Final 7.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Horario Final 7.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmAmbientes_1280x1024.resources
+G:\Horario Final 7.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmArea_1280x1024.resources
+G:\Horario Final 7.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmCompetenciasTecnicas_1280x1024.resources
+G:\Horario Final 7.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmCompetenciasTransversales_1280x1024.resources
+G:\Horario Final 7.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmConsultarHorario_1280x1024.resources
+G:\Horario Final 7.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmDetallesHorario_1280x1024.resources
+G:\Horario Final 7.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmGenerarHorario_1280x1024.resources
+G:\Horario Final 7.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmGrupos_1280x1024.resources
+G:\Horario Final 7.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmInicioSesion_1280x1024.resources
+G:\Horario Final 7.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmInstructor_1280x1024.resources
+G:\Horario Final 7.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmNiveles_1280x1024.resources
+G:\Horario Final 7.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmPrincipal_1280x1024.resources
+G:\Horario Final 7.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmProfesion_1280x1024.resources
+G:\Horario Final 7.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.Programa_1280x1024.resources
+G:\Horario Final 7.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmRegistroCompetencias_1280x1024.resources
+G:\Horario Final 7.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmRegistroResultados_1280x1024.resources
+G:\Horario Final 7.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmResultados_Instructor_1280x1024.resources
+G:\Horario Final 7.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.VentanaMsjes.resources
+G:\Horario Final 7.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x600.FrmAmbientes_1280x600.resources
+G:\Horario Final 7.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x600.FrmArea_1280x600.resources
+G:\Horario Final 7.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x600.FrmCompetenciasTecnicas_1280x600.resources
+G:\Horario Final 7.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x600.FrmCompetenciasTransversales_1280x600.resources
+G:\Horario Final 7.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x600.FrmDetallesHorario_1280x600.resources
+G:\Horario Final 7.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x600.FrmGrupos_1280x600.resources
+G:\Horario Final 7.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x600.FrmInicioSesion_1280x600.resources
+G:\Horario Final 7.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x600.FrmResultados_Instructor_1280x600.resources
+G:\Horario Final 7.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x600.FrmInstructor_1280x600.resources
+G:\Horario Final 7.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x600.FrmNiveles_1280x600.resources
+G:\Horario Final 7.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x600.FrmPrincipal_1280x600.resources
+G:\Horario Final 7.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x600.FrmGenerarHorario_1280x600.resources
+G:\Horario Final 7.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x600.FrmConsultarHorario_1280x600.resources
+G:\Horario Final 7.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x600.FrmProfesion_1280x600.resources
+G:\Horario Final 7.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Programa_1280x600.resources
+G:\Horario Final 7.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x600.FrmRegistroCompetencias_1280x600.resources
+G:\Horario Final 7.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x600.FrmRegistroResultados_1280x600.resources
+G:\Horario Final 7.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x600.VentanaMsjes.resources
+G:\Horario Final 7.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmMinimizados_1280x1024.FrmMinAreas.resources
+G:\Horario Final 7.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmMinimizados_1280x1024.FrmMinHorarios.resources
+G:\Horario Final 7.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmMinimizados_1280x1024.FrmMinInstructor.resources
+G:\Horario Final 7.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmMinimizados_1280x1024.FrmMinProgram.resources
+G:\Horario Final 7.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmMinimizados_1280x1024.FrmMinAmbiente.resources
+G:\Horario Final 7.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmMinimizados_1280x600.FrmMinAmbiente.resources
+G:\Horario Final 7.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmMinimizados_1280x600.FrmMinAreas.resources
+G:\Horario Final 7.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmMinimizados_1280x600.FrmMinHorarios.resources
+G:\Horario Final 7.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmMinimizados_1280x600.FrmMinInstructor.resources
+G:\Horario Final 7.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmMinimizados_1280x600.FrmMinProgram.resources
+G:\Horario Final 7.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Properties.Resources.resources
+G:\Horario Final 7.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+G:\Horario Final 7.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+E:\Estudios\Horario Final 8.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Gestion_de_horarios.csproj.ResolveComReference.cache
+E:\Estudios\Horario Final 8.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.exe
+E:\Estudios\Horario Final 8.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.pdb
+E:\Estudios\Horario Final 8.0\GESTOR DE HORARIOS\Gestion_de_horarios\bin\Debug\Ej_Interfaz_Proyecto.exe
+E:\Estudios\Horario Final 8.0\GESTOR DE HORARIOS\Gestion_de_horarios\bin\Debug\Ej_Interfaz_Proyecto.pdb
+E:\Estudios\Horario Final 8.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Estudios\Horario Final 8.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmAmbientes_1280x1024.resources
+E:\Estudios\Horario Final 8.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmArea_1280x1024.resources
+E:\Estudios\Horario Final 8.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmCompetenciasTecnicas_1280x1024.resources
+E:\Estudios\Horario Final 8.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmCompetenciasTransversales_1280x1024.resources
+E:\Estudios\Horario Final 8.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmConsultarHorario_1280x1024.resources
+E:\Estudios\Horario Final 8.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmDetallesHorario_1280x1024.resources
+E:\Estudios\Horario Final 8.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmDetallesHorasTrabajadas.resources
+E:\Estudios\Horario Final 8.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmGenerarHorario_1280x1024.resources
+E:\Estudios\Horario Final 8.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmGrupos_1280x1024.resources
+E:\Estudios\Horario Final 8.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmInicioSesion_1280x1024.resources
+E:\Estudios\Horario Final 8.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmInstructor_1280x1024.resources
+E:\Estudios\Horario Final 8.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmNiveles_1280x1024.resources
+E:\Estudios\Horario Final 8.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmPrincipal_1280x1024.resources
+E:\Estudios\Horario Final 8.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmProfesion_1280x1024.resources
+E:\Estudios\Horario Final 8.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.Programa_1280x1024.resources
+E:\Estudios\Horario Final 8.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmRegistroCompetencias_1280x1024.resources
+E:\Estudios\Horario Final 8.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmRegistroResultados_1280x1024.resources
+E:\Estudios\Horario Final 8.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmResultados_Instructor_1280x1024.resources
+E:\Estudios\Horario Final 8.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.VentanaMsjes.resources
+E:\Estudios\Horario Final 8.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x600.FrmAmbientes_1280x600.resources
+E:\Estudios\Horario Final 8.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x600.FrmArea_1280x600.resources
+E:\Estudios\Horario Final 8.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x600.FrmCompetenciasTecnicas_1280x600.resources
+E:\Estudios\Horario Final 8.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x600.FrmCompetenciasTransversales_1280x600.resources
+E:\Estudios\Horario Final 8.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x600.FrmDetallesHorario_1280x600.resources
+E:\Estudios\Horario Final 8.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x600.FrmGrupos_1280x600.resources
+E:\Estudios\Horario Final 8.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x600.FrmInicioSesion_1280x600.resources
+E:\Estudios\Horario Final 8.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x600.FrmResultados_Instructor_1280x600.resources
+E:\Estudios\Horario Final 8.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x600.FrmInstructor_1280x600.resources
+E:\Estudios\Horario Final 8.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x600.FrmNiveles_1280x600.resources
+E:\Estudios\Horario Final 8.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x600.FrmPrincipal_1280x600.resources
+E:\Estudios\Horario Final 8.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x600.FrmGenerarHorario_1280x600.resources
+E:\Estudios\Horario Final 8.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x600.FrmConsultarHorario_1280x600.resources
+E:\Estudios\Horario Final 8.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x600.FrmProfesion_1280x600.resources
+E:\Estudios\Horario Final 8.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Programa_1280x600.resources
+E:\Estudios\Horario Final 8.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x600.FrmRegistroCompetencias_1280x600.resources
+E:\Estudios\Horario Final 8.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x600.FrmRegistroResultados_1280x600.resources
+E:\Estudios\Horario Final 8.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x600.VentanaMsjes.resources
+E:\Estudios\Horario Final 8.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmMinimizados_1280x1024.FrmMinAreas.resources
+E:\Estudios\Horario Final 8.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmMinimizados_1280x1024.FrmMinHorarios.resources
+E:\Estudios\Horario Final 8.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmMinimizados_1280x1024.FrmMinInstructor.resources
+E:\Estudios\Horario Final 8.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmMinimizados_1280x1024.FrmMinProgram.resources
+E:\Estudios\Horario Final 8.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmMinimizados_1280x1024.FrmMinAmbiente.resources
+E:\Estudios\Horario Final 8.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmMinimizados_1280x600.FrmMinAmbiente.resources
+E:\Estudios\Horario Final 8.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmMinimizados_1280x600.FrmMinAreas.resources
+E:\Estudios\Horario Final 8.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmMinimizados_1280x600.FrmMinHorarios.resources
+E:\Estudios\Horario Final 8.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmMinimizados_1280x600.FrmMinInstructor.resources
+E:\Estudios\Horario Final 8.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmMinimizados_1280x600.FrmMinProgram.resources
+E:\Estudios\Horario Final 8.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Properties.Resources.resources
+E:\Estudios\Horario Final 8.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+E:\Estudios\Horario Final 8.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\jeiicor\Desktop\Gestor De Horarios\Gestor De Horarios\Codigo Fuente\Horario Final 8.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Gestion_de_horarios.csproj.ResolveComReference.cache
+C:\Users\jeiicor\Desktop\Gestor De Horarios\Gestor De Horarios\Codigo Fuente\Horario Final 8.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.exe
+C:\Users\jeiicor\Desktop\Gestor De Horarios\Gestor De Horarios\Codigo Fuente\Horario Final 8.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.pdb
+F:\Gestor De Horarios\Gestor De Horarios\Codigo Fuente\Horario Final 8.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Gestion_de_horarios.csproj.ResolveComReference.cache
+F:\Gestor De Horarios\Gestor De Horarios\Codigo Fuente\Horario Final 8.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.exe
+F:\Gestor De Horarios\Gestor De Horarios\Codigo Fuente\Horario Final 8.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.pdb
+F:\Gestor De Horarios\Gestor De Horarios\Codigo Fuente\Horario Final 8.0\GESTOR DE HORARIOS\Gestion_de_horarios\bin\Debug\Ej_Interfaz_Proyecto.exe
+F:\Gestor De Horarios\Gestor De Horarios\Codigo Fuente\Horario Final 8.0\GESTOR DE HORARIOS\Gestion_de_horarios\bin\Debug\Ej_Interfaz_Proyecto.pdb
+F:\Gestor De Horarios\Gestor De Horarios\Codigo Fuente\Horario Final 8.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Gestor De Horarios\Gestor De Horarios\Codigo Fuente\Horario Final 8.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmAmbientes_1280x1024.resources
+F:\Gestor De Horarios\Gestor De Horarios\Codigo Fuente\Horario Final 8.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmArea_1280x1024.resources
+F:\Gestor De Horarios\Gestor De Horarios\Codigo Fuente\Horario Final 8.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmCompetenciasTecnicas_1280x1024.resources
+F:\Gestor De Horarios\Gestor De Horarios\Codigo Fuente\Horario Final 8.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmCompetenciasTransversales_1280x1024.resources
+F:\Gestor De Horarios\Gestor De Horarios\Codigo Fuente\Horario Final 8.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmConsultarHorario_1280x1024.resources
+F:\Gestor De Horarios\Gestor De Horarios\Codigo Fuente\Horario Final 8.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmDetallesHorario_1280x1024.resources
+F:\Gestor De Horarios\Gestor De Horarios\Codigo Fuente\Horario Final 8.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmDetallesHorasTrabajadas.resources
+F:\Gestor De Horarios\Gestor De Horarios\Codigo Fuente\Horario Final 8.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmGenerarHorario_1280x1024.resources
+F:\Gestor De Horarios\Gestor De Horarios\Codigo Fuente\Horario Final 8.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmGrupos_1280x1024.resources
+F:\Gestor De Horarios\Gestor De Horarios\Codigo Fuente\Horario Final 8.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmInicioSesion_1280x1024.resources
+F:\Gestor De Horarios\Gestor De Horarios\Codigo Fuente\Horario Final 8.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmInstructor_1280x1024.resources
+F:\Gestor De Horarios\Gestor De Horarios\Codigo Fuente\Horario Final 8.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmNiveles_1280x1024.resources
+F:\Gestor De Horarios\Gestor De Horarios\Codigo Fuente\Horario Final 8.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmPrincipal_1280x1024.resources
+F:\Gestor De Horarios\Gestor De Horarios\Codigo Fuente\Horario Final 8.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmProfesion_1280x1024.resources
+F:\Gestor De Horarios\Gestor De Horarios\Codigo Fuente\Horario Final 8.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.Programa_1280x1024.resources
+F:\Gestor De Horarios\Gestor De Horarios\Codigo Fuente\Horario Final 8.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmRegistroCompetencias_1280x1024.resources
+F:\Gestor De Horarios\Gestor De Horarios\Codigo Fuente\Horario Final 8.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmRegistroResultados_1280x1024.resources
+F:\Gestor De Horarios\Gestor De Horarios\Codigo Fuente\Horario Final 8.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmResultados_Instructor_1280x1024.resources
+F:\Gestor De Horarios\Gestor De Horarios\Codigo Fuente\Horario Final 8.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.VentanaMsjes.resources
+F:\Gestor De Horarios\Gestor De Horarios\Codigo Fuente\Horario Final 8.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x600.FrmAmbientes_1280x600.resources
+F:\Gestor De Horarios\Gestor De Horarios\Codigo Fuente\Horario Final 8.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x600.FrmArea_1280x600.resources
+F:\Gestor De Horarios\Gestor De Horarios\Codigo Fuente\Horario Final 8.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x600.FrmCompetenciasTecnicas_1280x600.resources
+F:\Gestor De Horarios\Gestor De Horarios\Codigo Fuente\Horario Final 8.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x600.FrmCompetenciasTransversales_1280x600.resources
+F:\Gestor De Horarios\Gestor De Horarios\Codigo Fuente\Horario Final 8.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x600.FrmDetallesHorario_1280x600.resources
+F:\Gestor De Horarios\Gestor De Horarios\Codigo Fuente\Horario Final 8.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x600.FrmGrupos_1280x600.resources
+F:\Gestor De Horarios\Gestor De Horarios\Codigo Fuente\Horario Final 8.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x600.FrmInicioSesion_1280x600.resources
+F:\Gestor De Horarios\Gestor De Horarios\Codigo Fuente\Horario Final 8.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x600.FrmResultados_Instructor_1280x600.resources
+F:\Gestor De Horarios\Gestor De Horarios\Codigo Fuente\Horario Final 8.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x600.FrmInstructor_1280x600.resources
+F:\Gestor De Horarios\Gestor De Horarios\Codigo Fuente\Horario Final 8.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x600.FrmNiveles_1280x600.resources
+F:\Gestor De Horarios\Gestor De Horarios\Codigo Fuente\Horario Final 8.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x600.FrmPrincipal_1280x600.resources
+F:\Gestor De Horarios\Gestor De Horarios\Codigo Fuente\Horario Final 8.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x600.FrmGenerarHorario_1280x600.resources
+F:\Gestor De Horarios\Gestor De Horarios\Codigo Fuente\Horario Final 8.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x600.FrmConsultarHorario_1280x600.resources
+F:\Gestor De Horarios\Gestor De Horarios\Codigo Fuente\Horario Final 8.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x600.FrmProfesion_1280x600.resources
+F:\Gestor De Horarios\Gestor De Horarios\Codigo Fuente\Horario Final 8.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Programa_1280x600.resources
+F:\Gestor De Horarios\Gestor De Horarios\Codigo Fuente\Horario Final 8.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x600.FrmRegistroCompetencias_1280x600.resources
+F:\Gestor De Horarios\Gestor De Horarios\Codigo Fuente\Horario Final 8.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x600.FrmRegistroResultados_1280x600.resources
+F:\Gestor De Horarios\Gestor De Horarios\Codigo Fuente\Horario Final 8.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x600.VentanaMsjes.resources
+F:\Gestor De Horarios\Gestor De Horarios\Codigo Fuente\Horario Final 8.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmMinimizados_1280x1024.FrmMinAreas.resources
+F:\Gestor De Horarios\Gestor De Horarios\Codigo Fuente\Horario Final 8.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmMinimizados_1280x1024.FrmMinHorarios.resources
+F:\Gestor De Horarios\Gestor De Horarios\Codigo Fuente\Horario Final 8.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmMinimizados_1280x1024.FrmMinInstructor.resources
+F:\Gestor De Horarios\Gestor De Horarios\Codigo Fuente\Horario Final 8.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmMinimizados_1280x1024.FrmMinProgram.resources
+F:\Gestor De Horarios\Gestor De Horarios\Codigo Fuente\Horario Final 8.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmMinimizados_1280x1024.FrmMinAmbiente.resources
+F:\Gestor De Horarios\Gestor De Horarios\Codigo Fuente\Horario Final 8.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmMinimizados_1280x600.FrmMinAmbiente.resources
+F:\Gestor De Horarios\Gestor De Horarios\Codigo Fuente\Horario Final 8.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmMinimizados_1280x600.FrmMinAreas.resources
+F:\Gestor De Horarios\Gestor De Horarios\Codigo Fuente\Horario Final 8.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmMinimizados_1280x600.FrmMinHorarios.resources
+F:\Gestor De Horarios\Gestor De Horarios\Codigo Fuente\Horario Final 8.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmMinimizados_1280x600.FrmMinInstructor.resources
+F:\Gestor De Horarios\Gestor De Horarios\Codigo Fuente\Horario Final 8.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmMinimizados_1280x600.FrmMinProgram.resources
+F:\Gestor De Horarios\Gestor De Horarios\Codigo Fuente\Horario Final 8.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Properties.Resources.resources
+F:\Gestor De Horarios\Gestor De Horarios\Codigo Fuente\Horario Final 8.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+F:\Gestor De Horarios\Gestor De Horarios\Codigo Fuente\Horario Final 8.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\ResGen.read.1.tlog
+F:\Gestor De Horarios\Gestor De Horarios\Codigo Fuente\Horario Final 8.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+F:\Gestor De Horarios\Gestor De Horarios\Codigo Fuente\Horario Final 8.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\sena\Desktop\Gestor De Horarios\Gestor De Horarios\Codigo Fuente\Horario Final 8.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Gestion_de_horarios.csproj.ResolveComReference.cache
+C:\Users\sena\Desktop\Gestor De Horarios\Gestor De Horarios\Codigo Fuente\Horario Final 8.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.exe
+C:\Users\sena\Desktop\Gestor De Horarios\Gestor De Horarios\Codigo Fuente\Horario Final 8.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.pdb
+C:\Users\sena\Desktop\Gestor De Horarios\Gestor De Horarios\Codigo Fuente\Horario Final 8.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmAmbientes_1280x1024.resources
+C:\Users\sena\Desktop\Gestor De Horarios\Gestor De Horarios\Codigo Fuente\Horario Final 8.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmArea_1280x1024.resources
+C:\Users\sena\Desktop\Gestor De Horarios\Gestor De Horarios\Codigo Fuente\Horario Final 8.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmCompetenciasTecnicas_1280x1024.resources
+C:\Users\sena\Desktop\Gestor De Horarios\Gestor De Horarios\Codigo Fuente\Horario Final 8.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmCompetenciasTransversales_1280x1024.resources
+C:\Users\sena\Desktop\Gestor De Horarios\Gestor De Horarios\Codigo Fuente\Horario Final 8.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmConsultarHorario_1280x1024.resources
+C:\Users\sena\Desktop\Gestor De Horarios\Gestor De Horarios\Codigo Fuente\Horario Final 8.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmDetallesHorario_1280x1024.resources
+C:\Users\sena\Desktop\Gestor De Horarios\Gestor De Horarios\Codigo Fuente\Horario Final 8.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmDetallesHorasTrabajadas.resources
+C:\Users\sena\Desktop\Gestor De Horarios\Gestor De Horarios\Codigo Fuente\Horario Final 8.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmGenerarHorario_1280x1024.resources
+C:\Users\sena\Desktop\Gestor De Horarios\Gestor De Horarios\Codigo Fuente\Horario Final 8.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmGrupos_1280x1024.resources
+C:\Users\sena\Desktop\Gestor De Horarios\Gestor De Horarios\Codigo Fuente\Horario Final 8.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmInicioSesion_1280x1024.resources
+C:\Users\sena\Desktop\Gestor De Horarios\Gestor De Horarios\Codigo Fuente\Horario Final 8.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmInstructor_1280x1024.resources
+C:\Users\sena\Desktop\Gestor De Horarios\Gestor De Horarios\Codigo Fuente\Horario Final 8.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmNiveles_1280x1024.resources
+C:\Users\sena\Desktop\Gestor De Horarios\Gestor De Horarios\Codigo Fuente\Horario Final 8.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmPrincipal_1280x1024.resources
+C:\Users\sena\Desktop\Gestor De Horarios\Gestor De Horarios\Codigo Fuente\Horario Final 8.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmProfesion_1280x1024.resources
+C:\Users\sena\Desktop\Gestor De Horarios\Gestor De Horarios\Codigo Fuente\Horario Final 8.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.Programa_1280x1024.resources
+C:\Users\sena\Desktop\Gestor De Horarios\Gestor De Horarios\Codigo Fuente\Horario Final 8.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmRegistroCompetencias_1280x1024.resources
+C:\Users\sena\Desktop\Gestor De Horarios\Gestor De Horarios\Codigo Fuente\Horario Final 8.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmRegistroResultados_1280x1024.resources
+C:\Users\sena\Desktop\Gestor De Horarios\Gestor De Horarios\Codigo Fuente\Horario Final 8.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmResultados_Instructor_1280x1024.resources
+C:\Users\sena\Desktop\Gestor De Horarios\Gestor De Horarios\Codigo Fuente\Horario Final 8.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.VentanaMsjes.resources
+C:\Users\sena\Desktop\Gestor De Horarios\Gestor De Horarios\Codigo Fuente\Horario Final 8.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmMinimizados_1280x1024.FrmMinAreas.resources
+C:\Users\sena\Desktop\Gestor De Horarios\Gestor De Horarios\Codigo Fuente\Horario Final 8.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmMinimizados_1280x1024.FrmMinHorarios.resources
+C:\Users\sena\Desktop\Gestor De Horarios\Gestor De Horarios\Codigo Fuente\Horario Final 8.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmMinimizados_1280x1024.FrmMinInstructor.resources
+C:\Users\sena\Desktop\Gestor De Horarios\Gestor De Horarios\Codigo Fuente\Horario Final 8.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmMinimizados_1280x1024.FrmMinProgram.resources
+C:\Users\sena\Desktop\Gestor De Horarios\Gestor De Horarios\Codigo Fuente\Horario Final 8.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmMinimizados_1280x1024.FrmMinAmbiente.resources
+C:\Users\sena\Desktop\Gestor De Horarios\Gestor De Horarios\Codigo Fuente\Horario Final 8.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Properties.Resources.resources
+C:\Users\sena\Desktop\Gestor De Horarios\Gestor De Horarios\Codigo Fuente\Horario Final 8.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Gestion_de_horarios.csproj.GenerateResource.Cache
+C:\Users\sena\Desktop\Gestor De Horarios\Gestor De Horarios\Codigo Fuente\Horario Final 8.0\GESTOR DE HORARIOS\Gestion_de_horarios\bin\Debug\Ej_Interfaz_Proyecto.exe
+C:\Users\sena\Desktop\Gestor De Horarios\Gestor De Horarios\Codigo Fuente\Horario Final 8.0\GESTOR DE HORARIOS\Gestion_de_horarios\bin\Debug\Ej_Interfaz_Proyecto.pdb
+C:\Users\sena\Desktop\Gestor De Horarios\Gestor De Horarios\Codigo Fuente\Horario Final 8.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Gestion_de_horarios.csprojResolveAssemblyReference.cache
+C:\Users\sena\Desktop\Gestor De Horarios\Gestor De Horarios\Codigo Fuente\Horario Final 8.0\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.GestionHorario.GenerarHorario.resources
+E:\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Gestion_de_horarios.csproj.ResolveComReference.cache
+E:\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.exe
+E:\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.pdb
+E:\GESTOR DE HORARIOS\Gestion_de_horarios\bin\Debug\Ej_Interfaz_Proyecto.exe
+E:\GESTOR DE HORARIOS\Gestion_de_horarios\bin\Debug\Ej_Interfaz_Proyecto.pdb
+E:\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Gestion_de_horarios.csprojResolveAssemblyReference.cache
+E:\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmAmbientes_1280x1024.resources
+E:\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmArea_1280x1024.resources
+E:\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmCompetenciasTecnicas_1280x1024.resources
+E:\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmCompetenciasTransversales_1280x1024.resources
+E:\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmConsultarHorario_1280x1024.resources
+E:\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmDetallesHorario_1280x1024.resources
+E:\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmDetallesHorasTrabajadas.resources
+E:\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmGenerarHorario_1280x1024.resources
+E:\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmGrupos_1280x1024.resources
+E:\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmInicioSesion_1280x1024.resources
+E:\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmInstructor_1280x1024.resources
+E:\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmNiveles_1280x1024.resources
+E:\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmPrincipal_1280x1024.resources
+E:\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmProfesion_1280x1024.resources
+E:\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.Programa_1280x1024.resources
+E:\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmRegistroCompetencias_1280x1024.resources
+E:\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmRegistroResultados_1280x1024.resources
+E:\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmResultados_Instructor_1280x1024.resources
+E:\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.VentanaMsjes.resources
+E:\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmMinimizados_1280x1024.FrmMinAreas.resources
+E:\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmMinimizados_1280x1024.FrmMinHorarios.resources
+E:\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmMinimizados_1280x1024.FrmMinInstructor.resources
+E:\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmMinimizados_1280x1024.FrmMinProgram.resources
+E:\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmMinimizados_1280x1024.FrmMinAmbiente.resources
+E:\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.GestionHorario.GenerarHorario.resources
+E:\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Properties.Resources.resources
+E:\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Gestion_de_horarios.csproj.GenerateResource.Cache
+F:\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Gestion_de_horarios.csproj.ResolveComReference.cache
+F:\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.exe
+F:\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.pdb
+F:\GESTOR DE HORARIOS\Gestion_de_horarios\bin\Debug\Ej_Interfaz_Proyecto.exe
+F:\GESTOR DE HORARIOS\Gestion_de_horarios\bin\Debug\Ej_Interfaz_Proyecto.pdb
+F:\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Gestion_de_horarios.csprojResolveAssemblyReference.cache
+F:\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmAmbientes_1280x1024.resources
+F:\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmArea_1280x1024.resources
+F:\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmCompetenciasTecnicas_1280x1024.resources
+F:\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmCompetenciasTransversales_1280x1024.resources
+F:\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmConsultarHorario_1280x1024.resources
+F:\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmDetallesHorario_1280x1024.resources
+F:\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmDetallesHorasTrabajadas.resources
+F:\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmGenerarHorario_1280x1024.resources
+F:\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmGrupos_1280x1024.resources
+F:\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmInicioSesion_1280x1024.resources
+F:\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmInstructor_1280x1024.resources
+F:\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmNiveles_1280x1024.resources
+F:\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmPrincipal_1280x1024.resources
+F:\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmProfesion_1280x1024.resources
+F:\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.Programa_1280x1024.resources
+F:\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmRegistroCompetencias_1280x1024.resources
+F:\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmRegistroResultados_1280x1024.resources
+F:\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmResultados_Instructor_1280x1024.resources
+F:\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.VentanaMsjes.resources
+F:\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmMinimizados_1280x1024.FrmMinAreas.resources
+F:\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmMinimizados_1280x1024.FrmMinHorarios.resources
+F:\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmMinimizados_1280x1024.FrmMinInstructor.resources
+F:\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmMinimizados_1280x1024.FrmMinProgram.resources
+F:\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmMinimizados_1280x1024.FrmMinAmbiente.resources
+F:\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.GestionHorario.GenerarHorario.resources
+F:\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Properties.Resources.resources
+F:\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Gestion_de_horarios.csproj.GenerateResource.Cache
+C:\Users\jeiicor\Desktop\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Gestion_de_horarios.csproj.ResolveComReference.cache
+C:\Users\jeiicor\Desktop\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.exe
+C:\Users\jeiicor\Desktop\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.pdb
+C:\Users\jeiicor\Desktop\GESTOR DE HORARIOS\Gestion_de_horarios\bin\Debug\Ej_Interfaz_Proyecto.exe
+C:\Users\jeiicor\Desktop\GESTOR DE HORARIOS\Gestion_de_horarios\bin\Debug\Ej_Interfaz_Proyecto.pdb
+C:\Users\jeiicor\Desktop\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Gestion_de_horarios.csprojResolveAssemblyReference.cache
+C:\Users\jeiicor\Desktop\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmAmbientes_1280x1024.resources
+C:\Users\jeiicor\Desktop\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmArea_1280x1024.resources
+C:\Users\jeiicor\Desktop\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmCompetenciasTecnicas_1280x1024.resources
+C:\Users\jeiicor\Desktop\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmCompetenciasTransversales_1280x1024.resources
+C:\Users\jeiicor\Desktop\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmConsultarHorario_1280x1024.resources
+C:\Users\jeiicor\Desktop\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmDetallesHorario_1280x1024.resources
+C:\Users\jeiicor\Desktop\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmDetallesHorasTrabajadas.resources
+C:\Users\jeiicor\Desktop\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmGrupos_1280x1024.resources
+C:\Users\jeiicor\Desktop\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmInicioSesion_1280x1024.resources
+C:\Users\jeiicor\Desktop\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmInstructor_1280x1024.resources
+C:\Users\jeiicor\Desktop\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmNiveles_1280x1024.resources
+C:\Users\jeiicor\Desktop\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmPrincipal_1280x1024.resources
+C:\Users\jeiicor\Desktop\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmProfesion_1280x1024.resources
+C:\Users\jeiicor\Desktop\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.Programa_1280x1024.resources
+C:\Users\jeiicor\Desktop\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmRegistroCompetencias_1280x1024.resources
+C:\Users\jeiicor\Desktop\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmRegistroResultados_1280x1024.resources
+C:\Users\jeiicor\Desktop\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmResultados_Instructor_1280x1024.resources
+C:\Users\jeiicor\Desktop\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.VentanaMsjes.resources
+C:\Users\jeiicor\Desktop\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmMinimizados_1280x1024.FrmMinAreas.resources
+C:\Users\jeiicor\Desktop\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmMinimizados_1280x1024.FrmMinHorarios.resources
+C:\Users\jeiicor\Desktop\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmMinimizados_1280x1024.FrmMinInstructor.resources
+C:\Users\jeiicor\Desktop\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmMinimizados_1280x1024.FrmMinProgram.resources
+C:\Users\jeiicor\Desktop\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmMinimizados_1280x1024.FrmMinAmbiente.resources
+C:\Users\jeiicor\Desktop\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.GestionHorario.GenerarHorario.resources
+C:\Users\jeiicor\Desktop\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Properties.Resources.resources
+C:\Users\jeiicor\Desktop\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Gestion_de_horarios.csproj.GenerateResource.Cache
+C:\Users\sena\Desktop\GESTOR DE HORARIOS - FUNCIONANDO 100% BY JEIICOR\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Gestion_de_horarios.csproj.ResolveComReference.cache
+C:\Users\sena\Desktop\GESTOR DE HORARIOS - FUNCIONANDO 100% BY JEIICOR\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.exe
+C:\Users\sena\Desktop\GESTOR DE HORARIOS - FUNCIONANDO 100% BY JEIICOR\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.pdb
+C:\Users\sena\Desktop\GESTOR DE HORARIOS - FUNCIONANDO 100% BY JEIICOR\GESTOR DE HORARIOS\Gestion_de_horarios\bin\Debug\Ej_Interfaz_Proyecto.exe
+C:\Users\sena\Desktop\GESTOR DE HORARIOS - FUNCIONANDO 100% BY JEIICOR\GESTOR DE HORARIOS\Gestion_de_horarios\bin\Debug\Ej_Interfaz_Proyecto.pdb
+C:\Users\sena\Desktop\GESTOR DE HORARIOS - FUNCIONANDO 100% BY JEIICOR\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Gestion_de_horarios.csprojResolveAssemblyReference.cache
+C:\Users\sena\Desktop\GESTOR DE HORARIOS - FUNCIONANDO 100% BY JEIICOR\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmAmbientes_1280x1024.resources
+C:\Users\sena\Desktop\GESTOR DE HORARIOS - FUNCIONANDO 100% BY JEIICOR\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmArea_1280x1024.resources
+C:\Users\sena\Desktop\GESTOR DE HORARIOS - FUNCIONANDO 100% BY JEIICOR\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmCompetenciasTecnicas_1280x1024.resources
+C:\Users\sena\Desktop\GESTOR DE HORARIOS - FUNCIONANDO 100% BY JEIICOR\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmCompetenciasTransversales_1280x1024.resources
+C:\Users\sena\Desktop\GESTOR DE HORARIOS - FUNCIONANDO 100% BY JEIICOR\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmConsultarHorario_1280x1024.resources
+C:\Users\sena\Desktop\GESTOR DE HORARIOS - FUNCIONANDO 100% BY JEIICOR\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmDetallesHorario_1280x1024.resources
+C:\Users\sena\Desktop\GESTOR DE HORARIOS - FUNCIONANDO 100% BY JEIICOR\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmDetallesHorasTrabajadas.resources
+C:\Users\sena\Desktop\GESTOR DE HORARIOS - FUNCIONANDO 100% BY JEIICOR\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmGrupos_1280x1024.resources
+C:\Users\sena\Desktop\GESTOR DE HORARIOS - FUNCIONANDO 100% BY JEIICOR\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmInicioSesion_1280x1024.resources
+C:\Users\sena\Desktop\GESTOR DE HORARIOS - FUNCIONANDO 100% BY JEIICOR\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmInstructor_1280x1024.resources
+C:\Users\sena\Desktop\GESTOR DE HORARIOS - FUNCIONANDO 100% BY JEIICOR\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmNiveles_1280x1024.resources
+C:\Users\sena\Desktop\GESTOR DE HORARIOS - FUNCIONANDO 100% BY JEIICOR\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmPrincipal_1280x1024.resources
+C:\Users\sena\Desktop\GESTOR DE HORARIOS - FUNCIONANDO 100% BY JEIICOR\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmProfesion_1280x1024.resources
+C:\Users\sena\Desktop\GESTOR DE HORARIOS - FUNCIONANDO 100% BY JEIICOR\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.Programa_1280x1024.resources
+C:\Users\sena\Desktop\GESTOR DE HORARIOS - FUNCIONANDO 100% BY JEIICOR\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmRegistroCompetencias_1280x1024.resources
+C:\Users\sena\Desktop\GESTOR DE HORARIOS - FUNCIONANDO 100% BY JEIICOR\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmRegistroResultados_1280x1024.resources
+C:\Users\sena\Desktop\GESTOR DE HORARIOS - FUNCIONANDO 100% BY JEIICOR\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmResultados_Instructor_1280x1024.resources
+C:\Users\sena\Desktop\GESTOR DE HORARIOS - FUNCIONANDO 100% BY JEIICOR\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.VentanaMsjes.resources
+C:\Users\sena\Desktop\GESTOR DE HORARIOS - FUNCIONANDO 100% BY JEIICOR\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmMinimizados_1280x1024.FrmMinAreas.resources
+C:\Users\sena\Desktop\GESTOR DE HORARIOS - FUNCIONANDO 100% BY JEIICOR\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmMinimizados_1280x1024.FrmMinHorarios.resources
+C:\Users\sena\Desktop\GESTOR DE HORARIOS - FUNCIONANDO 100% BY JEIICOR\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmMinimizados_1280x1024.FrmMinInstructor.resources
+C:\Users\sena\Desktop\GESTOR DE HORARIOS - FUNCIONANDO 100% BY JEIICOR\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmMinimizados_1280x1024.FrmMinProgram.resources
+C:\Users\sena\Desktop\GESTOR DE HORARIOS - FUNCIONANDO 100% BY JEIICOR\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmMinimizados_1280x1024.FrmMinAmbiente.resources
+C:\Users\sena\Desktop\GESTOR DE HORARIOS - FUNCIONANDO 100% BY JEIICOR\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.GestionHorario.GenerarHorario.resources
+C:\Users\sena\Desktop\GESTOR DE HORARIOS - FUNCIONANDO 100% BY JEIICOR\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Properties.Resources.resources
+C:\Users\sena\Desktop\GESTOR DE HORARIOS - FUNCIONANDO 100% BY JEIICOR\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Gestion_de_horarios.csproj.GenerateResource.Cache
+C:\Users\jeiicor\Documents\Visual Studio 2010\Projects\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Gestion_de_horarios.csproj.ResolveComReference.cache
+C:\Users\jeiicor\Documents\Visual Studio 2010\Projects\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.exe
+C:\Users\jeiicor\Documents\Visual Studio 2010\Projects\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.pdb
+C:\Users\jeiicor\Documents\Visual Studio 2010\Projects\GESTOR DE HORARIOS\Gestion_de_horarios\bin\Debug\Ej_Interfaz_Proyecto.exe
+C:\Users\jeiicor\Documents\Visual Studio 2010\Projects\GESTOR DE HORARIOS\Gestion_de_horarios\bin\Debug\Ej_Interfaz_Proyecto.pdb
+C:\Users\jeiicor\Documents\Visual Studio 2010\Projects\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Gestion_de_horarios.csprojResolveAssemblyReference.cache
+C:\Users\jeiicor\Documents\Visual Studio 2010\Projects\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmAmbientes_1280x1024.resources
+C:\Users\jeiicor\Documents\Visual Studio 2010\Projects\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmArea_1280x1024.resources
+C:\Users\jeiicor\Documents\Visual Studio 2010\Projects\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmCompetenciasTecnicas_1280x1024.resources
+C:\Users\jeiicor\Documents\Visual Studio 2010\Projects\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmCompetenciasTransversales_1280x1024.resources
+C:\Users\jeiicor\Documents\Visual Studio 2010\Projects\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmConsultarHorario_1280x1024.resources
+C:\Users\jeiicor\Documents\Visual Studio 2010\Projects\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmDetallesHorario_1280x1024.resources
+C:\Users\jeiicor\Documents\Visual Studio 2010\Projects\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmDetallesHorasTrabajadas.resources
+C:\Users\jeiicor\Documents\Visual Studio 2010\Projects\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmGrupos_1280x1024.resources
+C:\Users\jeiicor\Documents\Visual Studio 2010\Projects\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmInicioSesion_1280x1024.resources
+C:\Users\jeiicor\Documents\Visual Studio 2010\Projects\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmInstructor_1280x1024.resources
+C:\Users\jeiicor\Documents\Visual Studio 2010\Projects\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmNiveles_1280x1024.resources
+C:\Users\jeiicor\Documents\Visual Studio 2010\Projects\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmPrincipal_1280x1024.resources
+C:\Users\jeiicor\Documents\Visual Studio 2010\Projects\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmProfesion_1280x1024.resources
+C:\Users\jeiicor\Documents\Visual Studio 2010\Projects\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.Programa_1280x1024.resources
+C:\Users\jeiicor\Documents\Visual Studio 2010\Projects\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmRegistroCompetencias_1280x1024.resources
+C:\Users\jeiicor\Documents\Visual Studio 2010\Projects\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmRegistroResultados_1280x1024.resources
+C:\Users\jeiicor\Documents\Visual Studio 2010\Projects\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmResultados_Instructor_1280x1024.resources
+C:\Users\jeiicor\Documents\Visual Studio 2010\Projects\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.VentanaMsjes.resources
+C:\Users\jeiicor\Documents\Visual Studio 2010\Projects\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmMinimizados_1280x1024.FrmMinAreas.resources
+C:\Users\jeiicor\Documents\Visual Studio 2010\Projects\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmMinimizados_1280x1024.FrmMinHorarios.resources
+C:\Users\jeiicor\Documents\Visual Studio 2010\Projects\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmMinimizados_1280x1024.FrmMinInstructor.resources
+C:\Users\jeiicor\Documents\Visual Studio 2010\Projects\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmMinimizados_1280x1024.FrmMinProgram.resources
+C:\Users\jeiicor\Documents\Visual Studio 2010\Projects\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmMinimizados_1280x1024.FrmMinAmbiente.resources
+C:\Users\jeiicor\Documents\Visual Studio 2010\Projects\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.GestionHorario.GenerarHorario.resources
+C:\Users\jeiicor\Documents\Visual Studio 2010\Projects\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Properties.Resources.resources
+C:\Users\jeiicor\Documents\Visual Studio 2010\Projects\GESTOR DE HORARIOS\Gestion_de_horarios\obj\x86\Debug\Gestion_de_horarios.csproj.GenerateResource.Cache
+D:\GESTOR DE HORARIOS - actualizacion\Gestion_de_horarios\obj\x86\Debug\Gestion_de_horarios.csproj.ResolveComReference.cache
+D:\GESTOR DE HORARIOS - actualizacion\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.exe
+D:\GESTOR DE HORARIOS - actualizacion\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.pdb
+D:\GESTOR DE HORARIOS - actualizacion\Gestion_de_horarios\bin\Debug\Ej_Interfaz_Proyecto.exe
+D:\GESTOR DE HORARIOS - actualizacion\Gestion_de_horarios\bin\Debug\Ej_Interfaz_Proyecto.pdb
+D:\GESTOR DE HORARIOS - actualizacion\Gestion_de_horarios\obj\x86\Debug\Gestion_de_horarios.csprojResolveAssemblyReference.cache
+D:\GESTOR DE HORARIOS - actualizacion\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmAmbientes_1280x1024.resources
+D:\GESTOR DE HORARIOS - actualizacion\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmArea_1280x1024.resources
+D:\GESTOR DE HORARIOS - actualizacion\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmCompetenciasTecnicas_1280x1024.resources
+D:\GESTOR DE HORARIOS - actualizacion\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmCompetenciasTransversales_1280x1024.resources
+D:\GESTOR DE HORARIOS - actualizacion\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmConsultarHorario_1280x1024.resources
+D:\GESTOR DE HORARIOS - actualizacion\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmDetallesHorario_1280x1024.resources
+D:\GESTOR DE HORARIOS - actualizacion\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmDetallesHorasTrabajadas.resources
+D:\GESTOR DE HORARIOS - actualizacion\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmGrupos_1280x1024.resources
+D:\GESTOR DE HORARIOS - actualizacion\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmInicioSesion_1280x1024.resources
+D:\GESTOR DE HORARIOS - actualizacion\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmInstructor_1280x1024.resources
+D:\GESTOR DE HORARIOS - actualizacion\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmNiveles_1280x1024.resources
+D:\GESTOR DE HORARIOS - actualizacion\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmPrincipal_1280x1024.resources
+D:\GESTOR DE HORARIOS - actualizacion\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmProfesion_1280x1024.resources
+D:\GESTOR DE HORARIOS - actualizacion\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.Programa_1280x1024.resources
+D:\GESTOR DE HORARIOS - actualizacion\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmRegistroCompetencias_1280x1024.resources
+D:\GESTOR DE HORARIOS - actualizacion\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmRegistroResultados_1280x1024.resources
+D:\GESTOR DE HORARIOS - actualizacion\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmResultados_Instructor_1280x1024.resources
+D:\GESTOR DE HORARIOS - actualizacion\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.VentanaMsjes.resources
+D:\GESTOR DE HORARIOS - actualizacion\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmMinimizados_1280x1024.FrmMinAreas.resources
+D:\GESTOR DE HORARIOS - actualizacion\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmMinimizados_1280x1024.FrmMinHorarios.resources
+D:\GESTOR DE HORARIOS - actualizacion\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmMinimizados_1280x1024.FrmMinInstructor.resources
+D:\GESTOR DE HORARIOS - actualizacion\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmMinimizados_1280x1024.FrmMinProgram.resources
+D:\GESTOR DE HORARIOS - actualizacion\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmMinimizados_1280x1024.FrmMinAmbiente.resources
+D:\GESTOR DE HORARIOS - actualizacion\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.GestionHorario.GenerarHorario.resources
+D:\GESTOR DE HORARIOS - actualizacion\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Properties.Resources.resources
+D:\GESTOR DE HORARIOS - actualizacion\Gestion_de_horarios\obj\x86\Debug\Gestion_de_horarios.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\GESTOR DE HORARIOS - actualizacion\Gestion_de_horarios\obj\x86\Debug\Gestion_de_horarios.csproj.ResolveComReference.cache
+C:\Users\User\Desktop\GESTOR DE HORARIOS - actualizacion\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.exe
+C:\Users\User\Desktop\GESTOR DE HORARIOS - actualizacion\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.pdb
+C:\Users\User\Desktop\GESTOR DE HORARIOS - actualizacion\Gestion_de_horarios\bin\Debug\Ej_Interfaz_Proyecto.exe
+C:\Users\User\Desktop\GESTOR DE HORARIOS - actualizacion\Gestion_de_horarios\bin\Debug\Ej_Interfaz_Proyecto.pdb
+C:\Users\User\Desktop\GESTOR DE HORARIOS - actualizacion\Gestion_de_horarios\obj\x86\Debug\Gestion_de_horarios.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\GESTOR DE HORARIOS - actualizacion\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmAmbientes_1280x1024.resources
+C:\Users\User\Desktop\GESTOR DE HORARIOS - actualizacion\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmArea_1280x1024.resources
+C:\Users\User\Desktop\GESTOR DE HORARIOS - actualizacion\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmCompetenciasTecnicas_1280x1024.resources
+C:\Users\User\Desktop\GESTOR DE HORARIOS - actualizacion\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmCompetenciasTransversales_1280x1024.resources
+C:\Users\User\Desktop\GESTOR DE HORARIOS - actualizacion\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmConsultarHorario_1280x1024.resources
+C:\Users\User\Desktop\GESTOR DE HORARIOS - actualizacion\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmDetallesHorario_1280x1024.resources
+C:\Users\User\Desktop\GESTOR DE HORARIOS - actualizacion\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmDetallesHorasTrabajadas.resources
+C:\Users\User\Desktop\GESTOR DE HORARIOS - actualizacion\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmGrupos_1280x1024.resources
+C:\Users\User\Desktop\GESTOR DE HORARIOS - actualizacion\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmInicioSesion_1280x1024.resources
+C:\Users\User\Desktop\GESTOR DE HORARIOS - actualizacion\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmInstructor_1280x1024.resources
+C:\Users\User\Desktop\GESTOR DE HORARIOS - actualizacion\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmNiveles_1280x1024.resources
+C:\Users\User\Desktop\GESTOR DE HORARIOS - actualizacion\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmPrincipal_1280x1024.resources
+C:\Users\User\Desktop\GESTOR DE HORARIOS - actualizacion\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmProfesion_1280x1024.resources
+C:\Users\User\Desktop\GESTOR DE HORARIOS - actualizacion\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.Programa_1280x1024.resources
+C:\Users\User\Desktop\GESTOR DE HORARIOS - actualizacion\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmRegistroCompetencias_1280x1024.resources
+C:\Users\User\Desktop\GESTOR DE HORARIOS - actualizacion\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmRegistroResultados_1280x1024.resources
+C:\Users\User\Desktop\GESTOR DE HORARIOS - actualizacion\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmResultados_Instructor_1280x1024.resources
+C:\Users\User\Desktop\GESTOR DE HORARIOS - actualizacion\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.VentanaMsjes.resources
+C:\Users\User\Desktop\GESTOR DE HORARIOS - actualizacion\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmMinimizados_1280x1024.FrmMinAreas.resources
+C:\Users\User\Desktop\GESTOR DE HORARIOS - actualizacion\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmMinimizados_1280x1024.FrmMinHorarios.resources
+C:\Users\User\Desktop\GESTOR DE HORARIOS - actualizacion\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmMinimizados_1280x1024.FrmMinInstructor.resources
+C:\Users\User\Desktop\GESTOR DE HORARIOS - actualizacion\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmMinimizados_1280x1024.FrmMinProgram.resources
+C:\Users\User\Desktop\GESTOR DE HORARIOS - actualizacion\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmMinimizados_1280x1024.FrmMinAmbiente.resources
+C:\Users\User\Desktop\GESTOR DE HORARIOS - actualizacion\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.GestionHorario.GenerarHorario.resources
+C:\Users\User\Desktop\GESTOR DE HORARIOS - actualizacion\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Properties.Resources.resources
+C:\Users\User\Desktop\GESTOR DE HORARIOS - actualizacion\Gestion_de_horarios\obj\x86\Debug\Gestion_de_horarios.csproj.GenerateResource.Cache
+C:\Users\User\Documents\GESTOR DE HORARIOS - actualizacion\Gestion_de_horarios\obj\x86\Debug\Gestion_de_horarios.csproj.ResolveComReference.cache
+C:\Users\User\Documents\GESTOR DE HORARIOS - actualizacion\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.exe
+C:\Users\User\Documents\GESTOR DE HORARIOS - actualizacion\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.pdb
+C:\Users\User\Documents\GESTOR DE HORARIOS - actualizacion\Gestion_de_horarios\bin\Debug\Ej_Interfaz_Proyecto.exe
+C:\Users\User\Documents\GESTOR DE HORARIOS - actualizacion\Gestion_de_horarios\bin\Debug\Ej_Interfaz_Proyecto.pdb
+C:\Users\User\Documents\GESTOR DE HORARIOS - actualizacion\Gestion_de_horarios\obj\x86\Debug\Gestion_de_horarios.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\GESTOR DE HORARIOS - actualizacion\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmAmbientes_1280x1024.resources
+C:\Users\User\Documents\GESTOR DE HORARIOS - actualizacion\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmArea_1280x1024.resources
+C:\Users\User\Documents\GESTOR DE HORARIOS - actualizacion\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmCompetenciasTecnicas_1280x1024.resources
+C:\Users\User\Documents\GESTOR DE HORARIOS - actualizacion\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmCompetenciasTransversales_1280x1024.resources
+C:\Users\User\Documents\GESTOR DE HORARIOS - actualizacion\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmConsultarHorario_1280x1024.resources
+C:\Users\User\Documents\GESTOR DE HORARIOS - actualizacion\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmDetallesHorario_1280x1024.resources
+C:\Users\User\Documents\GESTOR DE HORARIOS - actualizacion\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmDetallesHorasTrabajadas.resources
+C:\Users\User\Documents\GESTOR DE HORARIOS - actualizacion\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmGrupos_1280x1024.resources
+C:\Users\User\Documents\GESTOR DE HORARIOS - actualizacion\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmInicioSesion_1280x1024.resources
+C:\Users\User\Documents\GESTOR DE HORARIOS - actualizacion\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmInstructor_1280x1024.resources
+C:\Users\User\Documents\GESTOR DE HORARIOS - actualizacion\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmNiveles_1280x1024.resources
+C:\Users\User\Documents\GESTOR DE HORARIOS - actualizacion\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmPrincipal_1280x1024.resources
+C:\Users\User\Documents\GESTOR DE HORARIOS - actualizacion\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmProfesion_1280x1024.resources
+C:\Users\User\Documents\GESTOR DE HORARIOS - actualizacion\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.Programa_1280x1024.resources
+C:\Users\User\Documents\GESTOR DE HORARIOS - actualizacion\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmRegistroCompetencias_1280x1024.resources
+C:\Users\User\Documents\GESTOR DE HORARIOS - actualizacion\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmRegistroResultados_1280x1024.resources
+C:\Users\User\Documents\GESTOR DE HORARIOS - actualizacion\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmResultados_Instructor_1280x1024.resources
+C:\Users\User\Documents\GESTOR DE HORARIOS - actualizacion\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.VentanaMsjes.resources
+C:\Users\User\Documents\GESTOR DE HORARIOS - actualizacion\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmMinimizados_1280x1024.FrmMinAreas.resources
+C:\Users\User\Documents\GESTOR DE HORARIOS - actualizacion\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmMinimizados_1280x1024.FrmMinHorarios.resources
+C:\Users\User\Documents\GESTOR DE HORARIOS - actualizacion\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmMinimizados_1280x1024.FrmMinInstructor.resources
+C:\Users\User\Documents\GESTOR DE HORARIOS - actualizacion\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmMinimizados_1280x1024.FrmMinProgram.resources
+C:\Users\User\Documents\GESTOR DE HORARIOS - actualizacion\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmMinimizados_1280x1024.FrmMinAmbiente.resources
+C:\Users\User\Documents\GESTOR DE HORARIOS - actualizacion\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.GestionHorario.GenerarHorario.resources
+C:\Users\User\Documents\GESTOR DE HORARIOS - actualizacion\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Properties.Resources.resources
+C:\Users\User\Documents\GESTOR DE HORARIOS - actualizacion\Gestion_de_horarios\obj\x86\Debug\Gestion_de_horarios.csproj.GenerateResource.Cache
+C:\Users\Rosiris Echenique\Videos\GESTOR DE HORARIOS - actualizacion\Gestion_de_horarios\obj\x86\Debug\Gestion_de_horarios.csproj.ResolveComReference.cache
+C:\Users\Rosiris Echenique\Videos\GESTOR DE HORARIOS - actualizacion\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.exe
+C:\Users\Rosiris Echenique\Videos\GESTOR DE HORARIOS - actualizacion\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.pdb
+C:\Users\Rosiris Echenique\Videos\GESTOR DE HORARIOS - actualizacion\Gestion_de_horarios\bin\Debug\Ej_Interfaz_Proyecto.exe
+C:\Users\Rosiris Echenique\Videos\GESTOR DE HORARIOS - actualizacion\Gestion_de_horarios\bin\Debug\Ej_Interfaz_Proyecto.pdb
+C:\Users\Rosiris Echenique\Videos\GESTOR DE HORARIOS - actualizacion\Gestion_de_horarios\obj\x86\Debug\Gestion_de_horarios.csprojResolveAssemblyReference.cache
+C:\Users\Rosiris Echenique\Videos\GESTOR DE HORARIOS - actualizacion\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmAmbientes_1280x1024.resources
+C:\Users\Rosiris Echenique\Videos\GESTOR DE HORARIOS - actualizacion\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmArea_1280x1024.resources
+C:\Users\Rosiris Echenique\Videos\GESTOR DE HORARIOS - actualizacion\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmCompetenciasTecnicas_1280x1024.resources
+C:\Users\Rosiris Echenique\Videos\GESTOR DE HORARIOS - actualizacion\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmCompetenciasTransversales_1280x1024.resources
+C:\Users\Rosiris Echenique\Videos\GESTOR DE HORARIOS - actualizacion\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmConsultarHorario_1280x1024.resources
+C:\Users\Rosiris Echenique\Videos\GESTOR DE HORARIOS - actualizacion\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmDetallesHorario_1280x1024.resources
+C:\Users\Rosiris Echenique\Videos\GESTOR DE HORARIOS - actualizacion\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmDetallesHorasTrabajadas.resources
+C:\Users\Rosiris Echenique\Videos\GESTOR DE HORARIOS - actualizacion\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmGrupos_1280x1024.resources
+C:\Users\Rosiris Echenique\Videos\GESTOR DE HORARIOS - actualizacion\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmInicioSesion_1280x1024.resources
+C:\Users\Rosiris Echenique\Videos\GESTOR DE HORARIOS - actualizacion\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmInstructor_1280x1024.resources
+C:\Users\Rosiris Echenique\Videos\GESTOR DE HORARIOS - actualizacion\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmNiveles_1280x1024.resources
+C:\Users\Rosiris Echenique\Videos\GESTOR DE HORARIOS - actualizacion\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmPrincipal_1280x1024.resources
+C:\Users\Rosiris Echenique\Videos\GESTOR DE HORARIOS - actualizacion\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmProfesion_1280x1024.resources
+C:\Users\Rosiris Echenique\Videos\GESTOR DE HORARIOS - actualizacion\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.Programa_1280x1024.resources
+C:\Users\Rosiris Echenique\Videos\GESTOR DE HORARIOS - actualizacion\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmRegistroCompetencias_1280x1024.resources
+C:\Users\Rosiris Echenique\Videos\GESTOR DE HORARIOS - actualizacion\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmRegistroResultados_1280x1024.resources
+C:\Users\Rosiris Echenique\Videos\GESTOR DE HORARIOS - actualizacion\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmResultados_Instructor_1280x1024.resources
+C:\Users\Rosiris Echenique\Videos\GESTOR DE HORARIOS - actualizacion\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.VentanaMsjes.resources
+C:\Users\Rosiris Echenique\Videos\GESTOR DE HORARIOS - actualizacion\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmMinimizados_1280x1024.FrmMinAreas.resources
+C:\Users\Rosiris Echenique\Videos\GESTOR DE HORARIOS - actualizacion\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmMinimizados_1280x1024.FrmMinHorarios.resources
+C:\Users\Rosiris Echenique\Videos\GESTOR DE HORARIOS - actualizacion\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmMinimizados_1280x1024.FrmMinInstructor.resources
+C:\Users\Rosiris Echenique\Videos\GESTOR DE HORARIOS - actualizacion\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmMinimizados_1280x1024.FrmMinProgram.resources
+C:\Users\Rosiris Echenique\Videos\GESTOR DE HORARIOS - actualizacion\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmMinimizados_1280x1024.FrmMinAmbiente.resources
+C:\Users\Rosiris Echenique\Videos\GESTOR DE HORARIOS - actualizacion\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.GestionHorario.GenerarHorario.resources
+C:\Users\Rosiris Echenique\Videos\GESTOR DE HORARIOS - actualizacion\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Properties.Resources.resources
+C:\Users\Rosiris Echenique\Videos\GESTOR DE HORARIOS - actualizacion\Gestion_de_horarios\obj\x86\Debug\Gestion_de_horarios.csproj.GenerateResource.Cache
+C:\Users\Rosiris Echenique\Videos\Carpeta Pruebas\GESTOR DE HORARIOS - actualizacion\Gestion_de_horarios\obj\x86\Debug\Gestion_de_horarios.csproj.ResolveComReference.cache
+C:\Users\Rosiris Echenique\Videos\Carpeta Pruebas\GESTOR DE HORARIOS - actualizacion\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.exe
+C:\Users\Rosiris Echenique\Videos\Carpeta Pruebas\GESTOR DE HORARIOS - actualizacion\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.pdb
+C:\Users\Rosiris Echenique\Videos\Carpeta Pruebas\GESTOR DE HORARIOS - actualizacion\Gestion_de_horarios\bin\Debug\Ej_Interfaz_Proyecto.exe
+C:\Users\Rosiris Echenique\Videos\Carpeta Pruebas\GESTOR DE HORARIOS - actualizacion\Gestion_de_horarios\bin\Debug\Ej_Interfaz_Proyecto.pdb
+C:\Users\Rosiris Echenique\Videos\Carpeta Pruebas\GESTOR DE HORARIOS - actualizacion\Gestion_de_horarios\obj\x86\Debug\Gestion_de_horarios.csprojResolveAssemblyReference.cache
+C:\Users\Rosiris Echenique\Videos\Carpeta Pruebas\GESTOR DE HORARIOS - actualizacion\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmAmbientes_1280x1024.resources
+C:\Users\Rosiris Echenique\Videos\Carpeta Pruebas\GESTOR DE HORARIOS - actualizacion\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmArea_1280x1024.resources
+C:\Users\Rosiris Echenique\Videos\Carpeta Pruebas\GESTOR DE HORARIOS - actualizacion\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmCompetenciasTecnicas_1280x1024.resources
+C:\Users\Rosiris Echenique\Videos\Carpeta Pruebas\GESTOR DE HORARIOS - actualizacion\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmCompetenciasTransversales_1280x1024.resources
+C:\Users\Rosiris Echenique\Videos\Carpeta Pruebas\GESTOR DE HORARIOS - actualizacion\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmConsultarHorario_1280x1024.resources
+C:\Users\Rosiris Echenique\Videos\Carpeta Pruebas\GESTOR DE HORARIOS - actualizacion\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmDetallesHorario_1280x1024.resources
+C:\Users\Rosiris Echenique\Videos\Carpeta Pruebas\GESTOR DE HORARIOS - actualizacion\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmDetallesHorasTrabajadas.resources
+C:\Users\Rosiris Echenique\Videos\Carpeta Pruebas\GESTOR DE HORARIOS - actualizacion\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmGrupos_1280x1024.resources
+C:\Users\Rosiris Echenique\Videos\Carpeta Pruebas\GESTOR DE HORARIOS - actualizacion\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmInicioSesion_1280x1024.resources
+C:\Users\Rosiris Echenique\Videos\Carpeta Pruebas\GESTOR DE HORARIOS - actualizacion\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmInstructor_1280x1024.resources
+C:\Users\Rosiris Echenique\Videos\Carpeta Pruebas\GESTOR DE HORARIOS - actualizacion\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmNiveles_1280x1024.resources
+C:\Users\Rosiris Echenique\Videos\Carpeta Pruebas\GESTOR DE HORARIOS - actualizacion\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmPrincipal_1280x1024.resources
+C:\Users\Rosiris Echenique\Videos\Carpeta Pruebas\GESTOR DE HORARIOS - actualizacion\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmProfesion_1280x1024.resources
+C:\Users\Rosiris Echenique\Videos\Carpeta Pruebas\GESTOR DE HORARIOS - actualizacion\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.Programa_1280x1024.resources
+C:\Users\Rosiris Echenique\Videos\Carpeta Pruebas\GESTOR DE HORARIOS - actualizacion\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmRegistroCompetencias_1280x1024.resources
+C:\Users\Rosiris Echenique\Videos\Carpeta Pruebas\GESTOR DE HORARIOS - actualizacion\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmRegistroResultados_1280x1024.resources
+C:\Users\Rosiris Echenique\Videos\Carpeta Pruebas\GESTOR DE HORARIOS - actualizacion\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmResultados_Instructor_1280x1024.resources
+C:\Users\Rosiris Echenique\Videos\Carpeta Pruebas\GESTOR DE HORARIOS - actualizacion\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.VentanaMsjes.resources
+C:\Users\Rosiris Echenique\Videos\Carpeta Pruebas\GESTOR DE HORARIOS - actualizacion\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmMinimizados_1280x1024.FrmMinAreas.resources
+C:\Users\Rosiris Echenique\Videos\Carpeta Pruebas\GESTOR DE HORARIOS - actualizacion\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmMinimizados_1280x1024.FrmMinHorarios.resources
+C:\Users\Rosiris Echenique\Videos\Carpeta Pruebas\GESTOR DE HORARIOS - actualizacion\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmMinimizados_1280x1024.FrmMinInstructor.resources
+C:\Users\Rosiris Echenique\Videos\Carpeta Pruebas\GESTOR DE HORARIOS - actualizacion\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmMinimizados_1280x1024.FrmMinProgram.resources
+C:\Users\Rosiris Echenique\Videos\Carpeta Pruebas\GESTOR DE HORARIOS - actualizacion\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmMinimizados_1280x1024.FrmMinAmbiente.resources
+C:\Users\Rosiris Echenique\Videos\Carpeta Pruebas\GESTOR DE HORARIOS - actualizacion\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.GestionHorario.GenerarHorario.resources
+C:\Users\Rosiris Echenique\Videos\Carpeta Pruebas\GESTOR DE HORARIOS - actualizacion\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Properties.Resources.resources
+C:\Users\Rosiris Echenique\Videos\Carpeta Pruebas\GESTOR DE HORARIOS - actualizacion\Gestion_de_horarios\obj\x86\Debug\Gestion_de_horarios.csproj.GenerateResource.Cache
+C:\Users\Rosiris Echenique\Videos\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Gestion_de_horarios.csproj.ResolveComReference.cache
+C:\Users\Rosiris Echenique\Videos\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.exe
+C:\Users\Rosiris Echenique\Videos\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.pdb
+C:\Users\Rosiris Echenique\Videos\Carpeta Pruebas\Try\mio\Gestion_de_horarios\bin\Debug\Ej_Interfaz_Proyecto.exe
+C:\Users\Rosiris Echenique\Videos\Carpeta Pruebas\Try\mio\Gestion_de_horarios\bin\Debug\Ej_Interfaz_Proyecto.pdb
+C:\Users\Rosiris Echenique\Videos\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Gestion_de_horarios.csprojResolveAssemblyReference.cache
+C:\Users\Rosiris Echenique\Videos\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmAmbientes_1280x1024.resources
+C:\Users\Rosiris Echenique\Videos\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmArea_1280x1024.resources
+C:\Users\Rosiris Echenique\Videos\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmCompetenciasTecnicas_1280x1024.resources
+C:\Users\Rosiris Echenique\Videos\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmCompetenciasTransversales_1280x1024.resources
+C:\Users\Rosiris Echenique\Videos\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmConsultarHorario_1280x1024.resources
+C:\Users\Rosiris Echenique\Videos\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmDetallesHorario_1280x1024.resources
+C:\Users\Rosiris Echenique\Videos\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmDetallesHorasTrabajadas.resources
+C:\Users\Rosiris Echenique\Videos\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmGrupos_1280x1024.resources
+C:\Users\Rosiris Echenique\Videos\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmInicioSesion_1280x1024.resources
+C:\Users\Rosiris Echenique\Videos\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmInstructor_1280x1024.resources
+C:\Users\Rosiris Echenique\Videos\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmNiveles_1280x1024.resources
+C:\Users\Rosiris Echenique\Videos\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmPrincipal_1280x1024.resources
+C:\Users\Rosiris Echenique\Videos\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmProfesion_1280x1024.resources
+C:\Users\Rosiris Echenique\Videos\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.Programa_1280x1024.resources
+C:\Users\Rosiris Echenique\Videos\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmRegistroCompetencias_1280x1024.resources
+C:\Users\Rosiris Echenique\Videos\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmRegistroResultados_1280x1024.resources
+C:\Users\Rosiris Echenique\Videos\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmResultados_Instructor_1280x1024.resources
+C:\Users\Rosiris Echenique\Videos\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.VentanaMsjes.resources
+C:\Users\Rosiris Echenique\Videos\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmMinimizados_1280x1024.FrmMinAreas.resources
+C:\Users\Rosiris Echenique\Videos\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmMinimizados_1280x1024.FrmMinHorarios.resources
+C:\Users\Rosiris Echenique\Videos\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmMinimizados_1280x1024.FrmMinInstructor.resources
+C:\Users\Rosiris Echenique\Videos\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmMinimizados_1280x1024.FrmMinProgram.resources
+C:\Users\Rosiris Echenique\Videos\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmMinimizados_1280x1024.FrmMinAmbiente.resources
+C:\Users\Rosiris Echenique\Videos\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.GestionHorario.GenerarHorario.resources
+C:\Users\Rosiris Echenique\Videos\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Properties.Resources.resources
+C:\Users\Rosiris Echenique\Videos\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Gestion_de_horarios.csproj.GenerateResource.Cache
+C:\Users\Rosiris Echenique\Videos\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Gestion_de_horarios.csproj.ResolveComReference.cache
+C:\Users\Rosiris Echenique\Videos\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.exe
+C:\Users\Rosiris Echenique\Videos\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.pdb
+C:\Users\Rosiris Echenique\Videos\Proyectos\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Gestion_de_horarios.csproj.ResolveComReference.cache
+C:\Users\Rosiris Echenique\Videos\Proyectos\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.exe
+C:\Users\Rosiris Echenique\Videos\Proyectos\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.pdb
+C:\Users\Rosiris Echenique\Videos\Proyectos\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\bin\Debug\Ej_Interfaz_Proyecto.exe
+C:\Users\Rosiris Echenique\Videos\Proyectos\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\bin\Debug\Ej_Interfaz_Proyecto.pdb
+C:\Users\Rosiris Echenique\Videos\Proyectos\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmAmbientes_1280x1024.resources
+C:\Users\Rosiris Echenique\Videos\Proyectos\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmArea_1280x1024.resources
+C:\Users\Rosiris Echenique\Videos\Proyectos\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmCompetenciasTecnicas_1280x1024.resources
+C:\Users\Rosiris Echenique\Videos\Proyectos\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmCompetenciasTransversales_1280x1024.resources
+C:\Users\Rosiris Echenique\Videos\Proyectos\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmConsultarHorario_1280x1024.resources
+C:\Users\Rosiris Echenique\Videos\Proyectos\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmDetallesHorario_1280x1024.resources
+C:\Users\Rosiris Echenique\Videos\Proyectos\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmDetallesHorasTrabajadas.resources
+C:\Users\Rosiris Echenique\Videos\Proyectos\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmGrupos_1280x1024.resources
+C:\Users\Rosiris Echenique\Videos\Proyectos\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmInicioSesion_1280x1024.resources
+C:\Users\Rosiris Echenique\Videos\Proyectos\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmInstructor_1280x1024.resources
+C:\Users\Rosiris Echenique\Videos\Proyectos\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmNiveles_1280x1024.resources
+C:\Users\Rosiris Echenique\Videos\Proyectos\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmPrincipal_1280x1024.resources
+C:\Users\Rosiris Echenique\Videos\Proyectos\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmProfesion_1280x1024.resources
+C:\Users\Rosiris Echenique\Videos\Proyectos\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.Programa_1280x1024.resources
+C:\Users\Rosiris Echenique\Videos\Proyectos\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmRegistroCompetencias_1280x1024.resources
+C:\Users\Rosiris Echenique\Videos\Proyectos\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmRegistroResultados_1280x1024.resources
+C:\Users\Rosiris Echenique\Videos\Proyectos\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmResultados_Instructor_1280x1024.resources
+C:\Users\Rosiris Echenique\Videos\Proyectos\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.VentanaMsjes.resources
+C:\Users\Rosiris Echenique\Videos\Proyectos\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmMinimizados_1280x1024.FrmMinAreas.resources
+C:\Users\Rosiris Echenique\Videos\Proyectos\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmMinimizados_1280x1024.FrmMinHorarios.resources
+C:\Users\Rosiris Echenique\Videos\Proyectos\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmMinimizados_1280x1024.FrmMinInstructor.resources
+C:\Users\Rosiris Echenique\Videos\Proyectos\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmMinimizados_1280x1024.FrmMinProgram.resources
+C:\Users\Rosiris Echenique\Videos\Proyectos\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmMinimizados_1280x1024.FrmMinAmbiente.resources
+C:\Users\Rosiris Echenique\Videos\Proyectos\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.GestionHorario.GenerarHorario.resources
+C:\Users\Rosiris Echenique\Videos\Proyectos\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Properties.Resources.resources
+C:\Users\Rosiris Echenique\Videos\Proyectos\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Gestion_de_horarios.csproj.GenerateResource.Cache
+C:\Users\Rosiris Echenique\Videos\Proyectos\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.Frmtrimestre_1280x1024.resources
+C:\Users\Public\Pictures\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Gestion_de_horarios.csproj.ResolveComReference.cache
+C:\Users\Public\Pictures\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.exe
+C:\Users\Public\Pictures\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.pdb
+C:\Users\Public\Pictures\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\bin\Debug\Ej_Interfaz_Proyecto.exe
+C:\Users\Public\Pictures\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\bin\Debug\Ej_Interfaz_Proyecto.pdb
+C:\Users\Public\Pictures\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Gestion_de_horarios.csprojResolveAssemblyReference.cache
+C:\Users\Public\Pictures\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmAmbientes_1280x1024.resources
+C:\Users\Public\Pictures\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmArea_1280x1024.resources
+C:\Users\Public\Pictures\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmCompetenciasTecnicas_1280x1024.resources
+C:\Users\Public\Pictures\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmCompetenciasTransversales_1280x1024.resources
+C:\Users\Public\Pictures\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmConsultarHorario_1280x1024.resources
+C:\Users\Public\Pictures\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmDetallesHorario_1280x1024.resources
+C:\Users\Public\Pictures\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmDetallesHorasTrabajadas.resources
+C:\Users\Public\Pictures\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmGrupos_1280x1024.resources
+C:\Users\Public\Pictures\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmInicioSesion_1280x1024.resources
+C:\Users\Public\Pictures\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmInstructor_1280x1024.resources
+C:\Users\Public\Pictures\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmNiveles_1280x1024.resources
+C:\Users\Public\Pictures\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmPrincipal_1280x1024.resources
+C:\Users\Public\Pictures\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmProfesion_1280x1024.resources
+C:\Users\Public\Pictures\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.Programa_1280x1024.resources
+C:\Users\Public\Pictures\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmRegistroCompetencias_1280x1024.resources
+C:\Users\Public\Pictures\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmRegistroResultados_1280x1024.resources
+C:\Users\Public\Pictures\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmResultados_Instructor_1280x1024.resources
+C:\Users\Public\Pictures\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.Frmtrimestre_1280x1024.resources
+C:\Users\Public\Pictures\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.VentanaMsjes.resources
+C:\Users\Public\Pictures\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmMinimizados_1280x1024.FrmMinAreas.resources
+C:\Users\Public\Pictures\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmMinimizados_1280x1024.FrmMinHorarios.resources
+C:\Users\Public\Pictures\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmMinimizados_1280x1024.FrmMinInstructor.resources
+C:\Users\Public\Pictures\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmMinimizados_1280x1024.FrmMinProgram.resources
+C:\Users\Public\Pictures\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmMinimizados_1280x1024.FrmMinAmbiente.resources
+C:\Users\Public\Pictures\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.GestionHorario.GenerarHorario.resources
+C:\Users\Public\Pictures\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Properties.Resources.resources
+C:\Users\Public\Pictures\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Gestion_de_horarios.csproj.GenerateResource.Cache
+C:\Users\Rosiris Echenique\Videos\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\bin\Debug\Ej_Interfaz_Proyecto.exe
+C:\Users\Rosiris Echenique\Videos\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\bin\Debug\Ej_Interfaz_Proyecto.pdb
+C:\Users\Rosiris Echenique\Videos\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Gestion_de_horarios.csprojResolveAssemblyReference.cache
+C:\Users\Rosiris Echenique\Videos\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmAmbientes_1280x1024.resources
+C:\Users\Rosiris Echenique\Videos\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmArea_1280x1024.resources
+C:\Users\Rosiris Echenique\Videos\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmCompetenciasTecnicas_1280x1024.resources
+C:\Users\Rosiris Echenique\Videos\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmCompetenciasTransversales_1280x1024.resources
+C:\Users\Rosiris Echenique\Videos\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmConsultarHorario_1280x1024.resources
+C:\Users\Rosiris Echenique\Videos\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmDetallesHorario_1280x1024.resources
+C:\Users\Rosiris Echenique\Videos\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmDetallesHorasTrabajadas.resources
+C:\Users\Rosiris Echenique\Videos\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmGrupos_1280x1024.resources
+C:\Users\Rosiris Echenique\Videos\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmInicioSesion_1280x1024.resources
+C:\Users\Rosiris Echenique\Videos\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmInstructor_1280x1024.resources
+C:\Users\Rosiris Echenique\Videos\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmNiveles_1280x1024.resources
+C:\Users\Rosiris Echenique\Videos\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmPrincipal_1280x1024.resources
+C:\Users\Rosiris Echenique\Videos\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmProfesion_1280x1024.resources
+C:\Users\Rosiris Echenique\Videos\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.Programa_1280x1024.resources
+C:\Users\Rosiris Echenique\Videos\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmRegistroCompetencias_1280x1024.resources
+C:\Users\Rosiris Echenique\Videos\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmRegistroResultados_1280x1024.resources
+C:\Users\Rosiris Echenique\Videos\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmResultados_Instructor_1280x1024.resources
+C:\Users\Rosiris Echenique\Videos\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.Frmtrimestre_1280x1024.resources
+C:\Users\Rosiris Echenique\Videos\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.VentanaMsjes.resources
+C:\Users\Rosiris Echenique\Videos\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmMinimizados_1280x1024.FrmMinAreas.resources
+C:\Users\Rosiris Echenique\Videos\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmMinimizados_1280x1024.FrmMinHorarios.resources
+C:\Users\Rosiris Echenique\Videos\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmMinimizados_1280x1024.FrmMinInstructor.resources
+C:\Users\Rosiris Echenique\Videos\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmMinimizados_1280x1024.FrmMinProgram.resources
+C:\Users\Rosiris Echenique\Videos\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmMinimizados_1280x1024.FrmMinAmbiente.resources
+C:\Users\Rosiris Echenique\Videos\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.GestionHorario.GenerarHorario.resources
+C:\Users\Rosiris Echenique\Videos\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Properties.Resources.resources
+C:\Users\Rosiris Echenique\Videos\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Gestion_de_horarios.csproj.GenerateResource.Cache
+C:\Users\Rosiris Echenique\Videos\Proyectos\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Gestion_de_horarios.csprojResolveAssemblyReference.cache
+D:\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Gestion_de_horarios.csproj.ResolveComReference.cache
+D:\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.exe
+D:\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.pdb
+D:\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Gestion_de_horarios.csprojResolveAssemblyReference.cache
+D:\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmAmbientes_1280x1024.resources
+D:\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmArea_1280x1024.resources
+D:\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmCompetenciasTecnicas_1280x1024.resources
+D:\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmCompetenciasTransversales_1280x1024.resources
+D:\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmConsultarHorario_1280x1024.resources
+D:\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmDetallesHorario_1280x1024.resources
+D:\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmDetallesHorasTrabajadas.resources
+D:\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmGrupos_1280x1024.resources
+D:\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmInicioSesion_1280x1024.resources
+D:\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmInstructor_1280x1024.resources
+D:\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmNiveles_1280x1024.resources
+D:\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmPrincipal_1280x1024.resources
+D:\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmProfesion_1280x1024.resources
+D:\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.Programa_1280x1024.resources
+D:\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmRegistroCompetencias_1280x1024.resources
+D:\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmRegistroResultados_1280x1024.resources
+D:\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmResultados_Instructor_1280x1024.resources
+D:\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.Frmtrimestre_1280x1024.resources
+D:\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.VentanaMsjes.resources
+D:\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmMinimizados_1280x1024.FrmMinAreas.resources
+D:\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmMinimizados_1280x1024.FrmMinHorarios.resources
+D:\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmMinimizados_1280x1024.FrmMinInstructor.resources
+D:\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmMinimizados_1280x1024.FrmMinProgram.resources
+D:\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmMinimizados_1280x1024.FrmMinAmbiente.resources
+D:\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.GestionHorario.GenerarHorario.resources
+D:\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Properties.Resources.resources
+D:\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Gestion_de_horarios.csproj.GenerateResource.Cache
+D:\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\bin\Debug\Ej_Interfaz_Proyecto.exe
+D:\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\bin\Debug\Ej_Interfaz_Proyecto.pdb
+C:\Users\Rosiris Echenique\Videos\Proyectos\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmAdmin_1280x1024.resources
+D:\Proyecto Horarios\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Gestion_de_horarios.csproj.ResolveComReference.cache
+D:\Proyecto Horarios\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.exe
+D:\Proyecto Horarios\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.pdb
+D:\Proyecto Horarios\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Gestion_de_horarios.csprojResolveAssemblyReference.cache
+D:\Proyecto Horarios\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmAdmin_1280x1024.resources
+D:\Proyecto Horarios\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmAmbientes_1280x1024.resources
+D:\Proyecto Horarios\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmArea_1280x1024.resources
+D:\Proyecto Horarios\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmCompetenciasTecnicas_1280x1024.resources
+D:\Proyecto Horarios\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmCompetenciasTransversales_1280x1024.resources
+D:\Proyecto Horarios\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmConsultarHorario_1280x1024.resources
+D:\Proyecto Horarios\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmDetallesHorario_1280x1024.resources
+D:\Proyecto Horarios\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmDetallesHorasTrabajadas.resources
+D:\Proyecto Horarios\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmGrupos_1280x1024.resources
+D:\Proyecto Horarios\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmInicioSesion_1280x1024.resources
+D:\Proyecto Horarios\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmInstructor_1280x1024.resources
+D:\Proyecto Horarios\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmNiveles_1280x1024.resources
+D:\Proyecto Horarios\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmPrincipal_1280x1024.resources
+D:\Proyecto Horarios\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmProfesion_1280x1024.resources
+D:\Proyecto Horarios\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.Programa_1280x1024.resources
+D:\Proyecto Horarios\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmRegistroCompetencias_1280x1024.resources
+D:\Proyecto Horarios\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmRegistroResultados_1280x1024.resources
+D:\Proyecto Horarios\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmResultados_Instructor_1280x1024.resources
+D:\Proyecto Horarios\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.Frmtrimestre_1280x1024.resources
+D:\Proyecto Horarios\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.VentanaMsjes.resources
+D:\Proyecto Horarios\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmMinimizados_1280x1024.FrmMinAreas.resources
+D:\Proyecto Horarios\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmMinimizados_1280x1024.FrmMinHorarios.resources
+D:\Proyecto Horarios\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmMinimizados_1280x1024.FrmMinInstructor.resources
+D:\Proyecto Horarios\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmMinimizados_1280x1024.FrmMinProgram.resources
+D:\Proyecto Horarios\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmMinimizados_1280x1024.FrmMinAmbiente.resources
+D:\Proyecto Horarios\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.GestionHorario.GenerarHorario.resources
+D:\Proyecto Horarios\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Properties.Resources.resources
+D:\Proyecto Horarios\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Gestion_de_horarios.csproj.GenerateResource.Cache
+D:\Proyecto Horarios\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\bin\Debug\Ej_Interfaz_Proyecto.exe
+D:\Proyecto Horarios\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\bin\Debug\Ej_Interfaz_Proyecto.pdb
+D:\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmAdmin_1280x1024.resources
+C:\Users\Rosiris Echenique\Videos\Proyectos\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmBusqueda_1280x1024.resources
+D:\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmBusqueda_1280x1024.resources
+C:\Users\Rosiris Echenique\Videos\Proyectos\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmPDF_1280x1024.resources
+C:\Users\Rosiris Echenique\Videos\Proyectos\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\bin\Debug\Ej_Interfaz_Proyecto.exe.config
+C:\Users\Rosiris Echenique\Videos\Proyectos\ajenciaTrasporte\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\bin\Debug\Ej_Interfaz_Proyecto.exe.config
+C:\Users\Rosiris Echenique\Videos\Proyectos\ajenciaTrasporte\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Gestion_de_horarios.csproj.ResolveComReference.cache
+C:\Users\Rosiris Echenique\Videos\Proyectos\ajenciaTrasporte\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.exe
+C:\Users\Rosiris Echenique\Videos\Proyectos\ajenciaTrasporte\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.pdb
+C:\Users\Rosiris Echenique\Videos\Proyectos\ajenciaTrasporte\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Gestion_de_horarios.csprojResolveAssemblyReference.cache
+C:\Users\Rosiris Echenique\Videos\Proyectos\ajenciaTrasporte\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmAdmin_1280x1024.resources
+C:\Users\Rosiris Echenique\Videos\Proyectos\ajenciaTrasporte\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmAmbientes_1280x1024.resources
+C:\Users\Rosiris Echenique\Videos\Proyectos\ajenciaTrasporte\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmArea_1280x1024.resources
+C:\Users\Rosiris Echenique\Videos\Proyectos\ajenciaTrasporte\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmBusqueda_1280x1024.resources
+C:\Users\Rosiris Echenique\Videos\Proyectos\ajenciaTrasporte\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmCompetenciasTecnicas_1280x1024.resources
+C:\Users\Rosiris Echenique\Videos\Proyectos\ajenciaTrasporte\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmCompetenciasTransversales_1280x1024.resources
+C:\Users\Rosiris Echenique\Videos\Proyectos\ajenciaTrasporte\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmConsultarHorario_1280x1024.resources
+C:\Users\Rosiris Echenique\Videos\Proyectos\ajenciaTrasporte\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmDetallesHorario_1280x1024.resources
+C:\Users\Rosiris Echenique\Videos\Proyectos\ajenciaTrasporte\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmDetallesHorasTrabajadas.resources
+C:\Users\Rosiris Echenique\Videos\Proyectos\ajenciaTrasporte\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmGrupos_1280x1024.resources
+C:\Users\Rosiris Echenique\Videos\Proyectos\ajenciaTrasporte\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmInicioSesion_1280x1024.resources
+C:\Users\Rosiris Echenique\Videos\Proyectos\ajenciaTrasporte\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmInstructor_1280x1024.resources
+C:\Users\Rosiris Echenique\Videos\Proyectos\ajenciaTrasporte\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmNiveles_1280x1024.resources
+C:\Users\Rosiris Echenique\Videos\Proyectos\ajenciaTrasporte\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmPDF_1280x1024.resources
+C:\Users\Rosiris Echenique\Videos\Proyectos\ajenciaTrasporte\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmPrincipal_1280x1024.resources
+C:\Users\Rosiris Echenique\Videos\Proyectos\ajenciaTrasporte\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmProfesion_1280x1024.resources
+C:\Users\Rosiris Echenique\Videos\Proyectos\ajenciaTrasporte\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.Programa_1280x1024.resources
+C:\Users\Rosiris Echenique\Videos\Proyectos\ajenciaTrasporte\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmRegistroCompetencias_1280x1024.resources
+C:\Users\Rosiris Echenique\Videos\Proyectos\ajenciaTrasporte\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmRegistroResultados_1280x1024.resources
+C:\Users\Rosiris Echenique\Videos\Proyectos\ajenciaTrasporte\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmResultados_Instructor_1280x1024.resources
+C:\Users\Rosiris Echenique\Videos\Proyectos\ajenciaTrasporte\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.Frmtrimestre_1280x1024.resources
+C:\Users\Rosiris Echenique\Videos\Proyectos\ajenciaTrasporte\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.VentanaMsjes.resources
+C:\Users\Rosiris Echenique\Videos\Proyectos\ajenciaTrasporte\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmMinimizados_1280x1024.FrmMinAreas.resources
+C:\Users\Rosiris Echenique\Videos\Proyectos\ajenciaTrasporte\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmMinimizados_1280x1024.FrmMinHorarios.resources
+C:\Users\Rosiris Echenique\Videos\Proyectos\ajenciaTrasporte\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmMinimizados_1280x1024.FrmMinInstructor.resources
+C:\Users\Rosiris Echenique\Videos\Proyectos\ajenciaTrasporte\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmMinimizados_1280x1024.FrmMinProgram.resources
+C:\Users\Rosiris Echenique\Videos\Proyectos\ajenciaTrasporte\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmMinimizados_1280x1024.FrmMinAmbiente.resources
+C:\Users\Rosiris Echenique\Videos\Proyectos\ajenciaTrasporte\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.GestionHorario.GenerarHorario.resources
+C:\Users\Rosiris Echenique\Videos\Proyectos\ajenciaTrasporte\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Properties.Resources.resources
+C:\Users\Rosiris Echenique\Videos\Proyectos\ajenciaTrasporte\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Gestion_de_horarios.csproj.GenerateResource.Cache
+C:\Users\Rosiris Echenique\Videos\Proyectos\ajenciaTrasporte\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\RdlCompile.cache
+C:\Users\Rosiris Echenique\Videos\Proyectos\ajenciaTrasporte\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Rosiris Echenique\Videos\Proyectos\ajenciaTrasporte\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\bin\Debug\Ej_Interfaz_Proyecto.exe
+C:\Users\Rosiris Echenique\Videos\Proyectos\ajenciaTrasporte\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\bin\Debug\Ej_Interfaz_Proyecto.pdb
+D:\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\bin\Debug\Ej_Interfaz_Proyecto.exe.config
+D:\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios_1280x1024.FrmPDF_1280x1024.resources
+D:\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\RdlCompile.cache
+D:\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Rosiris Echenique\Videos\Proyectos\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmMinimizados_1280x1024.FrmMinAdmin.resources
+C:\Users\Rosiris Echenique\Videos\Proyectos\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\RdlCompile.cache
+C:\Users\Rosiris Echenique\Videos\Proyectos\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\RdlCompile.compiled

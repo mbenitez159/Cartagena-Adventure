@@ -1,0 +1,100 @@
+USE [master]
+GO
+/****** Object:  Database [cartagena]    Script Date: 24/04/2016 1:01:17 p. m. ******/
+CREATE DATABASE [cartagena] ON  PRIMARY 
+( NAME = N'cartagena', FILENAME = N'C:\Program Files (x86)\Microsoft SQL Server\MSSQL12.SQLFULL\MSSQL\DATA\cartagena.mdf' , SIZE = 4288KB , MAXSIZE = UNLIMITED, FILEGROWTH = 1024KB )
+ LOG ON 
+( NAME = N'cartagena_log', FILENAME = N'C:\Program Files (x86)\Microsoft SQL Server\MSSQL12.SQLFULL\MSSQL\DATA\cartagena_log.ldf' , SIZE = 1072KB , MAXSIZE = 2048GB , FILEGROWTH = 10%)
+GO
+IF (1 = FULLTEXTSERVICEPROPERTY('IsFullTextInstalled'))
+begin
+EXEC [cartagena].[dbo].[sp_fulltext_database] @action = 'enable'
+end
+GO
+ALTER DATABASE [cartagena] SET ANSI_NULL_DEFAULT OFF 
+GO
+ALTER DATABASE [cartagena] SET ANSI_NULLS OFF 
+GO
+ALTER DATABASE [cartagena] SET ANSI_PADDING OFF 
+GO
+ALTER DATABASE [cartagena] SET ANSI_WARNINGS OFF 
+GO
+ALTER DATABASE [cartagena] SET ARITHABORT OFF 
+GO
+ALTER DATABASE [cartagena] SET AUTO_CLOSE OFF 
+GO
+ALTER DATABASE [cartagena] SET AUTO_SHRINK OFF 
+GO
+ALTER DATABASE [cartagena] SET AUTO_UPDATE_STATISTICS ON 
+GO
+ALTER DATABASE [cartagena] SET CURSOR_CLOSE_ON_COMMIT OFF 
+GO
+ALTER DATABASE [cartagena] SET CURSOR_DEFAULT  GLOBAL 
+GO
+ALTER DATABASE [cartagena] SET CONCAT_NULL_YIELDS_NULL OFF 
+GO
+ALTER DATABASE [cartagena] SET NUMERIC_ROUNDABORT OFF 
+GO
+ALTER DATABASE [cartagena] SET QUOTED_IDENTIFIER OFF 
+GO
+ALTER DATABASE [cartagena] SET RECURSIVE_TRIGGERS OFF 
+GO
+ALTER DATABASE [cartagena] SET  ENABLE_BROKER 
+GO
+ALTER DATABASE [cartagena] SET AUTO_UPDATE_STATISTICS_ASYNC OFF 
+GO
+ALTER DATABASE [cartagena] SET DATE_CORRELATION_OPTIMIZATION OFF 
+GO
+ALTER DATABASE [cartagena] SET TRUSTWORTHY OFF 
+GO
+ALTER DATABASE [cartagena] SET ALLOW_SNAPSHOT_ISOLATION OFF 
+GO
+ALTER DATABASE [cartagena] SET PARAMETERIZATION SIMPLE 
+GO
+ALTER DATABASE [cartagena] SET READ_COMMITTED_SNAPSHOT OFF 
+GO
+ALTER DATABASE [cartagena] SET HONOR_BROKER_PRIORITY OFF 
+GO
+ALTER DATABASE [cartagena] SET RECOVERY FULL 
+GO
+ALTER DATABASE [cartagena] SET  MULTI_USER 
+GO
+ALTER DATABASE [cartagena] SET PAGE_VERIFY CHECKSUM  
+GO
+ALTER DATABASE [cartagena] SET DB_CHAINING OFF 
+GO
+USE [cartagena]
+GO
+/****** Object:  Table [dbo].[Barrios]    Script Date: 24/04/2016 1:01:18 p. m. ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+SET ANSI_PADDING ON
+GO
+CREATE TABLE [dbo].[Barrios](
+	[codigo] [int] IDENTITY(1,1) NOT NULL,
+	[nombre] [varchar](max) NOT NULL,
+	[DirImg] [varchar](max) NOT NULL,
+	[DirGoo] [varchar](max) NOT NULL,
+	[texto] [text] NULL,
+PRIMARY KEY CLUSTERED 
+(
+	[codigo] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
+) ON [PRIMARY] TEXTIMAGE_ON [PRIMARY]
+
+GO
+SET ANSI_PADDING OFF
+GO
+SET IDENTITY_INSERT [dbo].[Barrios] ON 
+
+GO
+INSERT [dbo].[Barrios] ([codigo], [nombre], [DirImg], [DirGoo], [texto]) VALUES (1, N'Manga', N'../../Imagenes/img-Barrio/manga.jpg', N'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15696.48385917657!2d-75.54338693195594!3d10.411966335579772!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8ef62f7b45deac25%3A0x4dc3e7d26e6b1695!2sManga%2C+Cartagena%2C+Bol%C3%ADvar!5e0!3m2!1ses-419!2sco!4v1461513302015', N'Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T. persona que se dedica a la imprenta) desconocido usó una galería de textos y los mezcló de tal manera que logró hacer un libro de textos especimen. No sólo sobrevivió 500 años, sino que tambien ingresó como texto de relleno en documentos electrónicos, quedando esencialmente igual al original. Fue popularizado en los 60s con la creación de las hojas "Letraset", las cuales contenian pasajes de Lorem Ipsum, y más recientemente con software de autoedición, como por ejemplo Aldus PageMaker, el cual incluye versiones de Lorem Ipsum.')
+GO
+SET IDENTITY_INSERT [dbo].[Barrios] OFF
+GO
+USE [master]
+GO
+ALTER DATABASE [cartagena] SET  READ_WRITE 
+GO

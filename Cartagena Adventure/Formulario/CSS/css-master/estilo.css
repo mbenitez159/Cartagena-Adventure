@@ -1,0 +1,71 @@
+﻿
+body{
+    background:#fff;
+}
+
+nav ul li{
+    z-index:1;
+    display:inline;
+    text-decoration:none;
+    }
+footer {
+    text-align:center;
+}
+.lista {
+    text-align: center;
+    margin-left: 5%;
+    margin-right:5%;
+
+}
+nav ul{
+    z-index:1;
+    text-align:center;  
+}
+.listarIzquierda{
+    margin-left:8%;
+}
+header{
+    padding:0;
+    margin-bottom:2%;
+    }
+@font-face {
+    font-family: 'Mochary_PERSONAL_USE_ONLY';
+    src: url('../../../bootstrap-3.3.6-dist/fonts/Mochary_PERSONAL_USE_ONLY.ttf') format('truetype');
+}
+.myfuente{
+    font: bold 3em Mochary_PERSONAL_USE_ONLY;
+    text-align:center;    
+    }
+nav{
+    z-index:1;
+}
+.ubicarLogin{
+    margin-top:15%;
+    }
+.interno{
+    color:black;
+    padding:3% 1% 3% 0%;
+    margin-left:33%;
+    background:#fff;
+    width:30%;
+    text-align:center;
+    border:2px solid red;
+}
+.ventana {
+    display:none;
+    left:0;
+    top:0;
+    z-index:9999;
+    float:left;
+    width: 100%;
+    height: 100%;
+    color: red;
+    position: fixed;
+    background-image: url('../../../Imagenes/transparente.png');
+}
+.botoncerrra{
+    float:right;    
+    height:24px;
+    width:24px;
+    
+}

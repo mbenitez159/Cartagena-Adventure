@@ -1,0 +1,599 @@
+USE [master]
+GO
+/****** Object:  Database [Generar_horario]    Script Date: 08/05/2016 1:23:27 p. m. ******/
+CREATE DATABASE [Generar_horario] ON  PRIMARY 
+( NAME = N'Generar_horario', FILENAME = N'C:\Program Files (x86)\Microsoft SQL Server\MSSQL12.SQLFULL\MSSQL\DATA\Generar_horario.mdf' , SIZE = 4096KB , MAXSIZE = UNLIMITED, FILEGROWTH = 1024KB )
+ LOG ON 
+( NAME = N'Generar_horario_log', FILENAME = N'C:\Program Files (x86)\Microsoft SQL Server\MSSQL12.SQLFULL\MSSQL\DATA\Generar_horario_log.ldf' , SIZE = 43264KB , MAXSIZE = 2048GB , FILEGROWTH = 10%)
+GO
+ALTER DATABASE [Generar_horario] SET COMPATIBILITY_LEVEL = 100
+GO
+IF (1 = FULLTEXTSERVICEPROPERTY('IsFullTextInstalled'))
+begin
+EXEC [Generar_horario].[dbo].[sp_fulltext_database] @action = 'disable'
+end
+GO
+ALTER DATABASE [Generar_horario] SET ANSI_NULL_DEFAULT OFF 
+GO
+ALTER DATABASE [Generar_horario] SET ANSI_NULLS OFF 
+GO
+ALTER DATABASE [Generar_horario] SET ANSI_PADDING OFF 
+GO
+ALTER DATABASE [Generar_horario] SET ANSI_WARNINGS OFF 
+GO
+ALTER DATABASE [Generar_horario] SET ARITHABORT OFF 
+GO
+ALTER DATABASE [Generar_horario] SET AUTO_CLOSE ON 
+GO
+ALTER DATABASE [Generar_horario] SET AUTO_SHRINK OFF 
+GO
+ALTER DATABASE [Generar_horario] SET AUTO_UPDATE_STATISTICS ON 
+GO
+ALTER DATABASE [Generar_horario] SET CURSOR_CLOSE_ON_COMMIT OFF 
+GO
+ALTER DATABASE [Generar_horario] SET CURSOR_DEFAULT  GLOBAL 
+GO
+ALTER DATABASE [Generar_horario] SET CONCAT_NULL_YIELDS_NULL OFF 
+GO
+ALTER DATABASE [Generar_horario] SET NUMERIC_ROUNDABORT OFF 
+GO
+ALTER DATABASE [Generar_horario] SET QUOTED_IDENTIFIER OFF 
+GO
+ALTER DATABASE [Generar_horario] SET RECURSIVE_TRIGGERS OFF 
+GO
+ALTER DATABASE [Generar_horario] SET  DISABLE_BROKER 
+GO
+ALTER DATABASE [Generar_horario] SET AUTO_UPDATE_STATISTICS_ASYNC OFF 
+GO
+ALTER DATABASE [Generar_horario] SET DATE_CORRELATION_OPTIMIZATION OFF 
+GO
+ALTER DATABASE [Generar_horario] SET TRUSTWORTHY OFF 
+GO
+ALTER DATABASE [Generar_horario] SET ALLOW_SNAPSHOT_ISOLATION OFF 
+GO
+ALTER DATABASE [Generar_horario] SET PARAMETERIZATION SIMPLE 
+GO
+ALTER DATABASE [Generar_horario] SET READ_COMMITTED_SNAPSHOT OFF 
+GO
+ALTER DATABASE [Generar_horario] SET HONOR_BROKER_PRIORITY OFF 
+GO
+ALTER DATABASE [Generar_horario] SET RECOVERY FULL 
+GO
+ALTER DATABASE [Generar_horario] SET  MULTI_USER 
+GO
+ALTER DATABASE [Generar_horario] SET PAGE_VERIFY CHECKSUM  
+GO
+ALTER DATABASE [Generar_horario] SET DB_CHAINING OFF 
+GO
+USE [Generar_horario]
+GO
+/****** Object:  Table [dbo].[AMBIENTE]    Script Date: 08/05/2016 1:23:27 p. m. ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+CREATE TABLE [dbo].[AMBIENTE](
+	[ID_AMBIENTE] [int] IDENTITY(5,1) NOT NULL,
+	[NOMBRE_AMBIENTE] [nvarchar](50) NULL,
+	[DESCRIPCION] [nvarchar](50) NULL,
+	[CAPACIDAD] [int] NULL,
+	[AREA] [int] NULL,
+	[ID_AREA] [int] NULL,
+ CONSTRAINT [AMBIENTE PK] PRIMARY KEY CLUSTERED 
+(
+	[ID_AMBIENTE] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
+) ON [PRIMARY]
+
+GO
+/****** Object:  Table [dbo].[AREAS]    Script Date: 08/05/2016 1:23:27 p. m. ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+SET ANSI_PADDING ON
+GO
+CREATE TABLE [dbo].[AREAS](
+	[ID] [int] IDENTITY(1,1) NOT NULL,
+	[NOMBRE] [varchar](150) NULL,
+ CONSTRAINT [PK_AREAS] PRIMARY KEY CLUSTERED 
+(
+	[ID] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
+) ON [PRIMARY]
+
+GO
+SET ANSI_PADDING OFF
+GO
+/****** Object:  Table [dbo].[COMPETENCIAS]    Script Date: 08/05/2016 1:23:27 p. m. ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+SET ANSI_PADDING ON
+GO
+CREATE TABLE [dbo].[COMPETENCIAS](
+	[ID] [nvarchar](50) NOT NULL,
+	[DESCRIPCION] [varchar](max) NULL,
+	[ID_PROGRAMA] [nvarchar](50) NULL,
+	[DURACION] [int] NULL,
+	[TIPO] [int] NULL,
+ CONSTRAINT [COMPETENCIA PK] PRIMARY KEY CLUSTERED 
+(
+	[ID] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
+) ON [PRIMARY] TEXTIMAGE_ON [PRIMARY]
+
+GO
+SET ANSI_PADDING OFF
+GO
+/****** Object:  Table [dbo].[ESTADOGRUPOS]    Script Date: 08/05/2016 1:23:27 p. m. ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+CREATE TABLE [dbo].[ESTADOGRUPOS](
+	[ID_ESTADO] [int] NOT NULL,
+	[ESTADO] [nvarchar](20) NULL,
+ CONSTRAINT [PK_ESTADO] PRIMARY KEY CLUSTERED 
+(
+	[ID_ESTADO] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
+) ON [PRIMARY]
+
+GO
+/****** Object:  Table [dbo].[GRUPO]    Script Date: 08/05/2016 1:23:27 p. m. ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+SET ANSI_PADDING ON
+GO
+CREATE TABLE [dbo].[GRUPO](
+	[ID_GRUPO] [nvarchar](50) NOT NULL,
+	[JORNADA] [varchar](20) NOT NULL,
+	[ID_PROGRAMA] [nvarchar](50) NULL,
+	[TRIMESTRE_ACTUAL] [varchar](50) NULL,
+	[ID_AMBIENTE] [int] NULL,
+	[ID_ESTADO] [int] NULL,
+	[INICIO] [varchar](50) NULL,
+	[FECHA_FINAL] [nchar](50) NULL,
+	[CANTIDAD_ALUMNOS] [int] NULL,
+	[INSTRUCTOR_LIDER] [nchar](50) NULL,
+ CONSTRAINT [GRUPO PK] PRIMARY KEY CLUSTERED 
+(
+	[ID_GRUPO] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
+) ON [PRIMARY]
+
+GO
+SET ANSI_PADDING OFF
+GO
+/****** Object:  Table [dbo].[hora]    Script Date: 08/05/2016 1:23:27 p. m. ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+SET ANSI_PADDING ON
+GO
+CREATE TABLE [dbo].[hora](
+	[Hora] [varchar](40) NULL,
+	[Lunes] [text] NULL,
+	[Martes] [text] NULL,
+	[Miercoles] [text] NULL,
+	[Jueves] [text] NULL,
+	[Viernes] [text] NULL,
+	[Sabado] [text] NULL
+) ON [PRIMARY] TEXTIMAGE_ON [PRIMARY]
+
+GO
+SET ANSI_PADDING OFF
+GO
+/****** Object:  Table [dbo].[HORARIO]    Script Date: 08/05/2016 1:23:27 p. m. ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+SET ANSI_PADDING ON
+GO
+CREATE TABLE [dbo].[HORARIO](
+	[ID_HORARIO] [int] IDENTITY(1,1) NOT NULL,
+	[PERIODO] [varchar](15) NOT NULL,
+	[DIA] [varchar](15) NOT NULL,
+	[ID_AMBIENTE] [nvarchar](50) NULL,
+	[ID_GRUPO] [nvarchar](50) NULL,
+	[ID_AREA] [int] NULL,
+	[ID_INSTRUCTOR] [nvarchar](50) NULL,
+	[ESTADO] [nvarchar](50) NULL,
+	[TRIMESTRE] [nvarchar](50) NULL,
+	[ID_RESULTADO] [int] NULL,
+	[TRIMESTRE_ANIO] [varchar](50) NULL,
+ CONSTRAINT [HORARIO PK] PRIMARY KEY CLUSTERED 
+(
+	[ID_HORARIO] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
+) ON [PRIMARY]
+
+GO
+SET ANSI_PADDING OFF
+GO
+/****** Object:  Table [dbo].[INSTRUCTOR]    Script Date: 08/05/2016 1:23:27 p. m. ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+SET ANSI_PADDING ON
+GO
+CREATE TABLE [dbo].[INSTRUCTOR](
+	[ID_INSTRUCTOR] [nvarchar](50) NOT NULL,
+	[NOMBRE] [varchar](150) NOT NULL,
+	[DIRECCION] [nvarchar](300) NULL,
+	[TELEFONO] [nchar](10) NULL,
+	[CELULAR] [nchar](10) NULL,
+	[EMAIL] [nvarchar](150) NULL,
+	[TIPO] [varchar](12) NOT NULL,
+	[ID_PROFESION] [int] NULL,
+	[TIPO_COMPETENCIA] [nvarchar](50) NULL,
+	[EXP_CONTRATO] [varchar](50) NULL,
+ CONSTRAINT [INSTRUCTOR PK] PRIMARY KEY CLUSTERED 
+(
+	[ID_INSTRUCTOR] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
+) ON [PRIMARY]
+
+GO
+SET ANSI_PADDING OFF
+GO
+/****** Object:  Table [dbo].[INSTRUCTOR_RESULTADOS]    Script Date: 08/05/2016 1:23:27 p. m. ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+CREATE TABLE [dbo].[INSTRUCTOR_RESULTADOS](
+	[ID_INSTRUCTOR] [nvarchar](50) NULL,
+	[ID_RESULTADO] [int] NULL
+) ON [PRIMARY]
+
+GO
+/****** Object:  Table [dbo].[NIVELPROGRAMA]    Script Date: 08/05/2016 1:23:27 p. m. ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+CREATE TABLE [dbo].[NIVELPROGRAMA](
+	[ID] [int] IDENTITY(1013,1) NOT NULL,
+	[NOMBRE_NIVEL] [nvarchar](150) NULL,
+ CONSTRAINT [PK_NIVELES] PRIMARY KEY CLUSTERED 
+(
+	[ID] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
+) ON [PRIMARY]
+
+GO
+/****** Object:  Table [dbo].[PROFESION]    Script Date: 08/05/2016 1:23:27 p. m. ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+CREATE TABLE [dbo].[PROFESION](
+	[ID_PROFESION] [int] IDENTITY(1137,1) NOT NULL,
+	[NOMBRE_PROFESION] [nvarchar](100) NOT NULL,
+ CONSTRAINT [PK_PROFESION] PRIMARY KEY CLUSTERED 
+(
+	[ID_PROFESION] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
+) ON [PRIMARY]
+
+GO
+/****** Object:  Table [dbo].[PROGRAMA]    Script Date: 08/05/2016 1:23:27 p. m. ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+SET ANSI_PADDING ON
+GO
+CREATE TABLE [dbo].[PROGRAMA](
+	[ID_PROGRAMA] [nvarchar](50) NOT NULL,
+	[NOMBRE_PROGRAMA] [varchar](150) NULL,
+	[DURACION_PROGRAMA] [varchar](50) NULL,
+	[ID_NIVEL] [int] NULL,
+ CONSTRAINT [PROGRAMA PK] PRIMARY KEY CLUSTERED 
+(
+	[ID_PROGRAMA] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
+) ON [PRIMARY]
+
+GO
+SET ANSI_PADDING OFF
+GO
+/****** Object:  Table [dbo].[RESULTADOS]    Script Date: 08/05/2016 1:23:27 p. m. ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+SET ANSI_PADDING ON
+GO
+CREATE TABLE [dbo].[RESULTADOS](
+	[ID] [int] IDENTITY(1,1) NOT NULL,
+	[DESCRIPCION] [varchar](max) NOT NULL,
+	[ID_COMPETENCIA] [nvarchar](50) NULL,
+	[DURACION] [int] NULL,
+ CONSTRAINT [RESULTADOS PK] PRIMARY KEY CLUSTERED 
+(
+	[ID] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
+) ON [PRIMARY] TEXTIMAGE_ON [PRIMARY]
+
+GO
+SET ANSI_PADDING OFF
+GO
+/****** Object:  Table [dbo].[TIEMPO_RESULTADOS]    Script Date: 08/05/2016 1:23:27 p. m. ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+CREATE TABLE [dbo].[TIEMPO_RESULTADOS](
+	[ID_RESULTADO] [int] NOT NULL,
+	[ID_GRUPO] [int] NULL,
+	[DURACION] [int] NULL
+) ON [PRIMARY]
+
+GO
+/****** Object:  Table [dbo].[TRIMESTRE]    Script Date: 08/05/2016 1:23:27 p. m. ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+SET ANSI_PADDING ON
+GO
+CREATE TABLE [dbo].[TRIMESTRE](
+	[codigo] [int] IDENTITY(1,1) NOT NULL,
+	[idResultado] [int] NOT NULL,
+	[trimestre] [int] NOT NULL,
+	[duracion] [int] NOT NULL,
+	[jornada] [varchar](40) NULL,
+PRIMARY KEY CLUSTERED 
+(
+	[codigo] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
+) ON [PRIMARY]
+
+GO
+SET ANSI_PADDING OFF
+GO
+/****** Object:  Table [dbo].[Usuarios]    Script Date: 08/05/2016 1:23:27 p. m. ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+SET ANSI_PADDING ON
+GO
+CREATE TABLE [dbo].[Usuarios](
+	[usuario] [varchar](50) NOT NULL,
+	[Contraseña] [varchar](50) NULL,
+	[TIPO_USUARIO] [varchar](50) NULL,
+ CONSTRAINT [PK_Usuarios] PRIMARY KEY CLUSTERED 
+(
+	[usuario] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
+) ON [PRIMARY]
+
+GO
+SET ANSI_PADDING OFF
+GO
+ALTER TABLE [dbo].[AMBIENTE]  WITH CHECK ADD  CONSTRAINT [FK_AMBIENTE_AREAS1] FOREIGN KEY([ID_AREA])
+REFERENCES [dbo].[AREAS] ([ID])
+GO
+ALTER TABLE [dbo].[AMBIENTE] CHECK CONSTRAINT [FK_AMBIENTE_AREAS1]
+GO
+ALTER TABLE [dbo].[COMPETENCIAS]  WITH CHECK ADD  CONSTRAINT [FK_COMPETENCIAS_TECNICAS_PROGRAMA] FOREIGN KEY([ID_PROGRAMA])
+REFERENCES [dbo].[PROGRAMA] ([ID_PROGRAMA])
+GO
+ALTER TABLE [dbo].[COMPETENCIAS] CHECK CONSTRAINT [FK_COMPETENCIAS_TECNICAS_PROGRAMA]
+GO
+ALTER TABLE [dbo].[GRUPO]  WITH CHECK ADD  CONSTRAINT [FK_GRUPO_AMBIENTE] FOREIGN KEY([ID_AMBIENTE])
+REFERENCES [dbo].[AMBIENTE] ([ID_AMBIENTE])
+ON UPDATE CASCADE
+ON DELETE SET NULL
+GO
+ALTER TABLE [dbo].[GRUPO] CHECK CONSTRAINT [FK_GRUPO_AMBIENTE]
+GO
+ALTER TABLE [dbo].[GRUPO]  WITH CHECK ADD  CONSTRAINT [FK_GRUPO_ESTADO] FOREIGN KEY([ID_ESTADO])
+REFERENCES [dbo].[ESTADOGRUPOS] ([ID_ESTADO])
+GO
+ALTER TABLE [dbo].[GRUPO] CHECK CONSTRAINT [FK_GRUPO_ESTADO]
+GO
+ALTER TABLE [dbo].[GRUPO]  WITH CHECK ADD  CONSTRAINT [FK_GRUPO_PROGRAMA] FOREIGN KEY([ID_PROGRAMA])
+REFERENCES [dbo].[PROGRAMA] ([ID_PROGRAMA])
+ON UPDATE CASCADE
+ON DELETE CASCADE
+GO
+ALTER TABLE [dbo].[GRUPO] CHECK CONSTRAINT [FK_GRUPO_PROGRAMA]
+GO
+ALTER TABLE [dbo].[HORARIO]  WITH CHECK ADD  CONSTRAINT [FK_HORARIO_GRUPO] FOREIGN KEY([ID_GRUPO])
+REFERENCES [dbo].[GRUPO] ([ID_GRUPO])
+ON UPDATE CASCADE
+GO
+ALTER TABLE [dbo].[HORARIO] CHECK CONSTRAINT [FK_HORARIO_GRUPO]
+GO
+ALTER TABLE [dbo].[INSTRUCTOR]  WITH CHECK ADD  CONSTRAINT [FK_INSTRUCTOR_PROFESION] FOREIGN KEY([ID_PROFESION])
+REFERENCES [dbo].[PROFESION] ([ID_PROFESION])
+ON UPDATE CASCADE
+ON DELETE SET NULL
+GO
+ALTER TABLE [dbo].[INSTRUCTOR] CHECK CONSTRAINT [FK_INSTRUCTOR_PROFESION]
+GO
+ALTER TABLE [dbo].[INSTRUCTOR_RESULTADOS]  WITH CHECK ADD  CONSTRAINT [FK_INSTRUCTOR_RESULTADOS_INSTRUCTOR] FOREIGN KEY([ID_INSTRUCTOR])
+REFERENCES [dbo].[INSTRUCTOR] ([ID_INSTRUCTOR])
+GO
+ALTER TABLE [dbo].[INSTRUCTOR_RESULTADOS] CHECK CONSTRAINT [FK_INSTRUCTOR_RESULTADOS_INSTRUCTOR]
+GO
+ALTER TABLE [dbo].[INSTRUCTOR_RESULTADOS]  WITH CHECK ADD  CONSTRAINT [FK_INSTRUCTOR_RESULTADOS_RESULTADOS_TECNICOS] FOREIGN KEY([ID_RESULTADO])
+REFERENCES [dbo].[RESULTADOS] ([ID])
+GO
+ALTER TABLE [dbo].[INSTRUCTOR_RESULTADOS] CHECK CONSTRAINT [FK_INSTRUCTOR_RESULTADOS_RESULTADOS_TECNICOS]
+GO
+ALTER TABLE [dbo].[PROGRAMA]  WITH CHECK ADD  CONSTRAINT [FK_PROGRAMA_NIVELES] FOREIGN KEY([ID_NIVEL])
+REFERENCES [dbo].[NIVELPROGRAMA] ([ID])
+ON UPDATE CASCADE
+ON DELETE SET NULL
+GO
+ALTER TABLE [dbo].[PROGRAMA] CHECK CONSTRAINT [FK_PROGRAMA_NIVELES]
+GO
+ALTER TABLE [dbo].[RESULTADOS]  WITH CHECK ADD  CONSTRAINT [FK_RESULTADOS_TECNICOS_COMPETENCIAS_TECNICAS] FOREIGN KEY([ID_COMPETENCIA])
+REFERENCES [dbo].[COMPETENCIAS] ([ID])
+GO
+ALTER TABLE [dbo].[RESULTADOS] CHECK CONSTRAINT [FK_RESULTADOS_TECNICOS_COMPETENCIAS_TECNICAS]
+GO
+ALTER TABLE [dbo].[TRIMESTRE]  WITH CHECK ADD  CONSTRAINT [FK_RESULTADO_TRIMESTRE] FOREIGN KEY([idResultado])
+REFERENCES [dbo].[RESULTADOS] ([ID])
+ON UPDATE CASCADE
+ON DELETE CASCADE
+GO
+ALTER TABLE [dbo].[TRIMESTRE] CHECK CONSTRAINT [FK_RESULTADO_TRIMESTRE]
+GO
+/****** Object:  StoredProcedure [dbo].[informe]    Script Date: 08/05/2016 1:23:27 p. m. ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+
+---consulta para instructo
+CREATE proc [dbo].[informe] (@iden int,@tipo varchar(max), @anio varchar(40), @jorM varchar(20),@jorT varchar(20),@jorN varchar(20))
+as 
+begin 
+if(@iden=1)
+begin
+select top 1 'CC: '+RTRIM(h.ID_INSTRUCTOR)+'   INSTRUCTOR: '+i.NOMBRE as NOMBRE, h.TRIMESTRE_ANIO, (select count(ID_HORARIO) from HORARIO where ID_INSTRUCTOR=@tipo and TRIMESTRE_ANIO=@anio) as Cantidad,@jorM as Mañana, @jorT as Tarde, @jorN as Noche from HORARIO h, INSTRUCTOR i
+where i.ID_INSTRUCTOR=h.ID_INSTRUCTOR and h.ID_INSTRUCTOR=@tipo and TRIMESTRE_ANIO=@anio
+end
+else if(@iden=2)
+begin
+select top 1 CAST('FICHA: '+RTRIM(h.ID_GRUPO)+'  PROGRAMA:'+p.NOMBRE_PROGRAMA AS varchar(MAX)) AS NOMBRE, h.TRIMESTRE_ANIO, (select count(ID_HORARIO) from HORARIO where ID_GRUPO=@tipo and TRIMESTRE_ANIO=@anio) as Cantidad,@jorM as Mañana, @jorT as Tarde, @jorN as Noche from HORARIO h, GRUPO i,PROGRAMA p
+where h.ID_GRUPO=i.ID_GRUPO and p.ID_PROGRAMA=i.ID_PROGRAMA and h.ID_GRUPO=@tipo and TRIMESTRE_ANIO=@anio
+end
+else 
+begin
+select top 1 'AMBIENTE: '+RTRIM(i.NOMBRE_AMBIENTE) AS NOMBRE, h.TRIMESTRE_ANIO, (select count(ID_HORARIO) from HORARIO where ID_AMBIENTE=@tipo and TRIMESTRE_ANIO=@anio) as Cantidad,@jorM as Mañana, @jorT as Tarde, @jorN as Noche from HORARIO h, AMBIENTE i
+where i.ID_AMBIENTE=h.ID_AMBIENTE and i.ID_AMBIENTE=@tipo and TRIMESTRE_ANIO=@anio
+end
+
+
+end
+
+
+
+
+
+GO
+/****** Object:  StoredProcedure [dbo].[ModificarTrimestre]    Script Date: 08/05/2016 1:23:27 p. m. ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+CREATE proc [dbo].[ModificarTrimestre]
+(@codigo varchar(40),@idComp varchar(50),@trimes varchar(40), @duracion varchar(40), @jornada varchar(40))
+as
+begin
+if((select r.DURACION from RESULTADOS r where r.ID=cast(@idComp as int))<CAST(@duracion as int) )
+begin
+select 'La duración ingresada es superior a del resultado de aprendizaje'
+end
+else IF((select count(t.codigo) from TRIMESTRE t where t.idResultado=cast(@idComp as int) and t.trimestre=cast(@trimes as int) and t.codigo!=cast(@codigo as int) and jornada=@jornada)>0)
+begin
+select 'Ya existe horas programadas para ese trimestre'
+end
+else if(((select SUM(t.duracion)  from TRIMESTRE t where t.codigo!= CAST(@codigo as int) and t.idResultado=CAST(@idComp as int) and jornada=@jornada) =null) )-- si es igual anull muestra que solo existe un registro
+begin
+update TRIMESTRE set trimestre=cast(@trimes as int), duracion=cast(@duracion as int), jornada=@jornada  where codigo=cast(@codigo as int)
+select '¡Registro exitoso!'
+end
+else  if(((select SUM(t.duracion) from TRIMESTRE t where t.idResultado=cast(@idComp as int) and t.codigo!=cast(@codigo as int) and jornada=@jornada )+cast(@duracion as int))>(select c.DURACION from RESULTADOS c where c.ID=CAST(@idComp as int)))
+begin
+select 'la duración ingresada es mayor a la disponible'
+end
+
+else
+begin
+Update trimestre set trimestre=cast(@trimes as int), duracion=cast(@duracion as int), jornada=@jornada where codigo=cast(@codigo as int)
+select '¡Modificación Exitosa!'
+end
+end
+GO
+/****** Object:  StoredProcedure [dbo].[modificarUser]    Script Date: 08/05/2016 1:23:27 p. m. ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+create proc [dbo].[modificarUser](@Anuser varchar(40),@user varchar(50), @pass varchar(50), @tipo varchar(50))
+as 
+begin
+if((select count(u.usuario) from Usuarios u where u.usuario=@user and u.usuario!=@Anuser)>0)
+begin 
+select 'El usuario a modificar, ya fue registrado'
+end
+else
+begin
+Update Usuarios set usuario=@user, Contraseña=@pass, TIPO_USUARIO=@tipo where usuario=@Anuser
+select '¡Modificación Exitosa!'
+end
+end
+GO
+/****** Object:  StoredProcedure [dbo].[registroTrimestre]    Script Date: 08/05/2016 1:23:27 p. m. ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+
+CREATE proc [dbo].[registroTrimestre]
+(@idComp varchar(50),@trimes varchar(40), @duracion varchar(40), @jornada varchar(40))
+as
+begin
+if((select r.DURACION from RESULTADOS r where r.ID=cast(@idComp as int))<CAST(@duracion as int) )
+begin
+select 'La duración ingresada es superior a del resultado de aprendizaje'
+end
+else IF((select count(t.codigo) from TRIMESTRE t where t.idResultado=cast(@idComp as int) and t.trimestre=cast(@trimes as int) and jornada=@jornada)>0)
+begin
+select 'Ya existe horas programadas para ese trimestre'
+end
+else if(((select SUM(t.duracion) from TRIMESTRE t where t.idResultado=cast(@idComp as int) and jornada=@jornada )+cast(@duracion as int))>(select c.DURACION from RESULTADOS c where c.ID=CAST(@idComp as int)))
+begin
+select 'la duración ingresada es mayor a la disponible'
+end
+else
+begin
+insert into trimestre values(CAST(@idComp as int),CAST(@trimes as int),CAST(@duracion as int),@jornada)
+select '¡Registro Exitoso!'
+end
+end
+GO
+/****** Object:  StoredProcedure [dbo].[registroUser]    Script Date: 08/05/2016 1:23:27 p. m. ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+CREATE proc [dbo].[registroUser](@user varchar(50), @pass varchar(50), @tipo varchar(50))
+as 
+begin
+if(exists(select u.usuario from Usuarios u where u.usuario=@user))
+begin 
+select 'Usuario ingresado ya existe'
+end
+else
+begin
+insert into Usuarios values(@user,@pass,@tipo)
+select '¡Registro Exitoso!'
+end
+end
+
+
+
+
+
+
+GO
+USE [master]
+GO
+ALTER DATABASE [Generar_horario] SET  READ_WRITE 
+GO

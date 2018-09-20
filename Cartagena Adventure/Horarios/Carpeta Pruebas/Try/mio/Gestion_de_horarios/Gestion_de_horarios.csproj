@@ -1,0 +1,576 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{701ECB80-D531-471F-B44C-E4F3B746BD59}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Ej_Interfaz_Proyecto</RootNamespace>
+    <AssemblyName>Ej_Interfaz_Proyecto</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Gestón de Horarios - SENA CIP.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject />
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Clases_1280x1024\Ambientes.cs" />
+    <Compile Include="Clases_1280x1024\Area.cs" />
+    <Compile Include="Clases_1280x1024\Competencias_tecnicas.cs" />
+    <Compile Include="Clases_1280x1024\Competencias_transversales.cs" />
+    <Compile Include="Clases_1280x1024\Conexion.cs" />
+    <Compile Include="Clases_1280x1024\Enumeraciones.cs" />
+    <Compile Include="Clases_1280x1024\Grupos.cs" />
+    <Compile Include="Clases_1280x1024\Instructor.cs" />
+    <Compile Include="Clases_1280x1024\Niveles.cs" />
+    <Compile Include="Clases_1280x1024\Profesion.cs" />
+    <Compile Include="Clases_1280x1024\Programa_Formacion.cs" />
+    <Compile Include="Clases_1280x1024\ResultadosTecnicos.cs" />
+    <Compile Include="Clases_1280x1024\ResultadosTransversales.cs" />
+    <Compile Include="Clases_1280x1024\Usuarios.cs" />
+    <Compile Include="Formularios_1280x1024\FrmAdmin_1280x1024.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios_1280x1024\FrmAdmin_1280x1024.Designer.cs">
+      <DependentUpon>FrmAdmin_1280x1024.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios_1280x1024\FrmAmbientes_1280x1024.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios_1280x1024\FrmAmbientes_1280x1024.designer.cs">
+      <DependentUpon>FrmAmbientes_1280x1024.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios_1280x1024\FrmArea_1280x1024.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios_1280x1024\FrmArea_1280x1024.designer.cs">
+      <DependentUpon>FrmArea_1280x1024.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios_1280x1024\FrmBusqueda_1280x1024.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios_1280x1024\FrmBusqueda_1280x1024.Designer.cs">
+      <DependentUpon>FrmBusqueda_1280x1024.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios_1280x1024\FrmCompetenciasTecnicas_1280x1024.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios_1280x1024\FrmCompetenciasTecnicas_1280x1024.designer.cs">
+      <DependentUpon>FrmCompetenciasTecnicas_1280x1024.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios_1280x1024\FrmCompetenciasTransversales_1280x1024.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios_1280x1024\FrmCompetenciasTransversales_1280x1024.designer.cs">
+      <DependentUpon>FrmCompetenciasTransversales_1280x1024.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios_1280x1024\FrmConsultarHorario_1280x1024.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios_1280x1024\FrmConsultarHorario_1280x1024.designer.cs">
+      <DependentUpon>FrmConsultarHorario_1280x1024.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios_1280x1024\FrmDetallesHorario_1280x1024.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios_1280x1024\FrmDetallesHorario_1280x1024.designer.cs">
+      <DependentUpon>FrmDetallesHorario_1280x1024.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios_1280x1024\FrmDetallesHorasTrabajadas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios_1280x1024\FrmDetallesHorasTrabajadas.Designer.cs">
+      <DependentUpon>FrmDetallesHorasTrabajadas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios_1280x1024\FrmGrupos_1280x1024.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios_1280x1024\FrmGrupos_1280x1024.designer.cs">
+      <DependentUpon>FrmGrupos_1280x1024.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios_1280x1024\FrmInicioSesion_1280x1024.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios_1280x1024\FrmInicioSesion_1280x1024.designer.cs">
+      <DependentUpon>FrmInicioSesion_1280x1024.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios_1280x1024\FrmInstructor_1280x1024.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios_1280x1024\FrmInstructor_1280x1024.designer.cs">
+      <DependentUpon>FrmInstructor_1280x1024.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios_1280x1024\FrmNiveles_1280x1024.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios_1280x1024\FrmNiveles_1280x1024.designer.cs">
+      <DependentUpon>FrmNiveles_1280x1024.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmMinimizados_1280x1024\FrmMinAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmMinimizados_1280x1024\FrmMinAdmin.Designer.cs">
+      <DependentUpon>FrmMinAdmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Generar_horarioDataSet.Designer.cs">
+      <DependentUpon>Generar_horarioDataSet.xsd</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="GestionHorario\ControlHorario.cs" />
+    <Compile Include="GestionHorario\Informe\FrmPDF_1280x1024.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GestionHorario\Informe\FrmPDF_1280x1024.Designer.cs">
+      <DependentUpon>FrmPDF_1280x1024.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios_1280x1024\FrmPrincipal_1280x1024.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios_1280x1024\FrmPrincipal_1280x1024.designer.cs">
+      <DependentUpon>FrmPrincipal_1280x1024.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios_1280x1024\FrmProfesion_1280x1024.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios_1280x1024\FrmProfesion_1280x1024.designer.cs">
+      <DependentUpon>FrmProfesion_1280x1024.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios_1280x1024\FrmPrograma_1280x1024.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios_1280x1024\FrmPrograma_1280x1024.designer.cs">
+      <DependentUpon>FrmPrograma_1280x1024.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios_1280x1024\FrmRegistroCompetencias_1280x1024.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios_1280x1024\FrmRegistroCompetencias_1280x1024.designer.cs">
+      <DependentUpon>FrmRegistroCompetencias_1280x1024.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios_1280x1024\FrmRegistroResultados_1280x1024.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios_1280x1024\FrmRegistroResultados_1280x1024.designer.cs">
+      <DependentUpon>FrmRegistroResultados_1280x1024.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios_1280x1024\FrmResultados_Instructor_1280x1024.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios_1280x1024\FrmResultados_Instructor_1280x1024.designer.cs">
+      <DependentUpon>FrmResultados_Instructor_1280x1024.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios_1280x1024\Frmtrimestre_1280x1024.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios_1280x1024\Frmtrimestre_1280x1024.designer.cs">
+      <DependentUpon>Frmtrimestre_1280x1024.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios_1280x1024\FrmVentanaMsjes_1280x1024.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios_1280x1024\FrmVentanaMsjes_1280x1024.designer.cs">
+      <DependentUpon>FrmVentanaMsjes_1280x1024.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmMinimizados_1280x1024\FrmMinAreas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmMinimizados_1280x1024\FrmMinAreas.Designer.cs">
+      <DependentUpon>FrmMinAreas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmMinimizados_1280x1024\FrmMinHorarios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmMinimizados_1280x1024\FrmMinHorarios.Designer.cs">
+      <DependentUpon>FrmMinHorarios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmMinimizados_1280x1024\FrmMinInstructor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmMinimizados_1280x1024\FrmMinInstructor.Designer.cs">
+      <DependentUpon>FrmMinInstructor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmMinimizados_1280x1024\FrmMinProgram.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmMinimizados_1280x1024\FrmMinProgram.Designer.cs">
+      <DependentUpon>FrmMinProgram.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmMinimizados_1280x1024\FrmMinAmbiente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmMinimizados_1280x1024\FrmMinAmbiente.Designer.cs">
+      <DependentUpon>FrmMinAmbiente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GestionHorario\Competencias.cs" />
+    <Compile Include="GestionHorario\Conexion.cs" />
+    <Compile Include="GestionHorario\GenerarHorario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GestionHorario\GenerarHorario.Designer.cs">
+      <DependentUpon>GenerarHorario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GestionHorario\Instructor.cs" />
+    <Compile Include="GestionHorario\Resultados.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Formularios_1280x1024\FrmAdmin_1280x1024.resx">
+      <DependentUpon>FrmAdmin_1280x1024.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios_1280x1024\FrmAmbientes_1280x1024.resx">
+      <DependentUpon>FrmAmbientes_1280x1024.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios_1280x1024\FrmArea_1280x1024.resx">
+      <DependentUpon>FrmArea_1280x1024.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios_1280x1024\FrmBusqueda_1280x1024.resx">
+      <DependentUpon>FrmBusqueda_1280x1024.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios_1280x1024\FrmCompetenciasTecnicas_1280x1024.resx">
+      <DependentUpon>FrmCompetenciasTecnicas_1280x1024.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios_1280x1024\FrmCompetenciasTransversales_1280x1024.resx">
+      <DependentUpon>FrmCompetenciasTransversales_1280x1024.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios_1280x1024\FrmConsultarHorario_1280x1024.resx">
+      <DependentUpon>FrmConsultarHorario_1280x1024.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios_1280x1024\FrmDetallesHorario_1280x1024.resx">
+      <DependentUpon>FrmDetallesHorario_1280x1024.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios_1280x1024\FrmDetallesHorasTrabajadas.resx">
+      <DependentUpon>FrmDetallesHorasTrabajadas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios_1280x1024\FrmGrupos_1280x1024.resx">
+      <DependentUpon>FrmGrupos_1280x1024.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios_1280x1024\FrmInicioSesion_1280x1024.resx">
+      <DependentUpon>FrmInicioSesion_1280x1024.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios_1280x1024\FrmInstructor_1280x1024.resx">
+      <DependentUpon>FrmInstructor_1280x1024.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios_1280x1024\FrmNiveles_1280x1024.resx">
+      <DependentUpon>FrmNiveles_1280x1024.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmMinimizados_1280x1024\FrmMinAdmin.resx">
+      <DependentUpon>FrmMinAdmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GestionHorario\Informe\FrmPDF_1280x1024.resx">
+      <DependentUpon>FrmPDF_1280x1024.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios_1280x1024\FrmPrincipal_1280x1024.resx">
+      <DependentUpon>FrmPrincipal_1280x1024.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios_1280x1024\FrmProfesion_1280x1024.resx">
+      <DependentUpon>FrmProfesion_1280x1024.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios_1280x1024\FrmPrograma_1280x1024.resx">
+      <DependentUpon>FrmPrograma_1280x1024.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios_1280x1024\FrmRegistroCompetencias_1280x1024.resx">
+      <DependentUpon>FrmRegistroCompetencias_1280x1024.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios_1280x1024\FrmRegistroResultados_1280x1024.resx">
+      <DependentUpon>FrmRegistroResultados_1280x1024.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios_1280x1024\FrmResultados_Instructor_1280x1024.resx">
+      <DependentUpon>FrmResultados_Instructor_1280x1024.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios_1280x1024\Frmtrimestre_1280x1024.resx">
+      <DependentUpon>Frmtrimestre_1280x1024.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios_1280x1024\FrmVentanaMsjes_1280x1024.resx">
+      <DependentUpon>FrmVentanaMsjes_1280x1024.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmMinimizados_1280x1024\FrmMinAreas.resx">
+      <DependentUpon>FrmMinAreas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmMinimizados_1280x1024\FrmMinHorarios.resx">
+      <DependentUpon>FrmMinHorarios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmMinimizados_1280x1024\FrmMinInstructor.resx">
+      <DependentUpon>FrmMinInstructor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmMinimizados_1280x1024\FrmMinProgram.resx">
+      <DependentUpon>FrmMinProgram.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmMinimizados_1280x1024\FrmMinAmbiente.resx">
+      <DependentUpon>FrmMinAmbiente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GestionHorario\GenerarHorario.resx">
+      <DependentUpon>GenerarHorario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Reporte.rdlc">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <None Include="app.config" />
+    <None Include="Generar_horarioDataSet.xsc">
+      <DependentUpon>Generar_horarioDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Generar_horarioDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Generar_horarioDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Generar_horarioDataSet.xss">
+      <DependentUpon>Generar_horarioDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\login1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sync.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Create.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\log_sena.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btn_min_normal.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btn_max_normal.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btn_cer_normal.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btn_amb_normal.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btn_pdf_normal.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btn_ins_normal.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btn_are_normal.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btn_hor_normal.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btn_amb_focus.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btn_are_focus.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btn_cer_focus.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btn_hor_focus.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btn_ins_focus.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btn_max_focus.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btn_min_focus.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btn_pdf_focus.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bg_inp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icn_use_normal.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\img_imp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icn_can_normal.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icn_use_focus.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icn_can_focus.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\thumbs_up_48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bg_sme.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icn_amb.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btn_min_normal2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btn_cer_normal2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btn_cer_focus2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btn_min_focus2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="Microsoft.Office.Core">
+      <Guid>{2DF8D04C-5BFA-101B-BDE5-00AA0044DE52}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>5</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="Microsoft.Office.Interop.Excel">
+      <Guid>{00020813-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>7</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="VBIDE">
+      <Guid>{0002E157-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ico_are.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icn_hor.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btn_sel_normal.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btn_sel_focus.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bt_ins_normal2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btn_amb_normal2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btn_are_normal2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btn_amb_focus2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bt_ins_focus2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btn_are_focus2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="FrmMinimizados_1280x1024\fondo.png" />
+    <Content Include="Gestón de Horarios - SENA CIP.ico" />
+    <Content Include="Horario.ico" />
+    <None Include="Resources\tool %281%291.png" />
+    <None Include="Resources\tool %281%29.png" />
+    <None Include="Resources\delete.png" />
+    <None Include="Resources\delete1.png" />
+    <None Include="Resources\icn_inf.png" />
+    <None Include="Resources\icn_err.png" />
+    <None Include="Resources\icn_pre.png" />
+    <None Include="Resources\btn_gru_normal.png" />
+    <None Include="Resources\btn_gru_focus.png" />
+    <None Include="Resources\icn_pdf-39.png" />
+    <None Include="Resources\ico_int.png" />
+    <None Include="Resources\btn_mas_focus.png" />
+    <None Include="Resources\btn_mas_normal.png" />
+    <None Include="Resources\btn_act_focus.png" />
+    <None Include="Resources\btn_act_normal.png" />
+    <None Include="Resources\lup.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="FrmMinimizados_1280x1024\Reportes\" />
+    <Folder Include="Modelo\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

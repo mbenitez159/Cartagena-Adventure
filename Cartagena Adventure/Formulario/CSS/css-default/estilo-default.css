@@ -1,0 +1,173 @@
+﻿.slider{
+    width:100%;
+    height:auto;   
+    padding:0px;
+}
+p{
+    text-align:justify;
+}
+h4{
+    text-align:center;
+}
+.i1{
+    width:100%;
+    height:auto;
+       
+}
+.borrar{
+    display:none;
+}
+.izquierdaL{
+    margin-left:30%;
+}
+.circulo
+{
+    height:100%;
+    border:1px solid #B3B3AE;
+    background-color:#FFFFF2;
+}
+.iconodeHotel{
+    height:45px;
+    width:75px;
+    }
+
+.h5A{
+    text-align:left;
+    }
+
+img{
+    width:100%;
+    height:auto;
+    }
+nav{
+    z-index:1;
+    background:#fff;
+    }
+.fondo {
+    
+    width: 100%;
+    background: #8ba987 url('../../../Imagenes/fondo2.jpg') no-repeat center center fixed;
+    background-size: 100% 100%;
+}
+.imagenesCuadro{
+   margin:0,01%;
+}
+.iconos{
+    height:50px;
+    width:50px;
+}
+.iconosFacebook{
+background:url('../../../Imagenes/Sigenos/facebook-logo-button (1).png');
+background-size:50px 50px;
+}
+.iconosTwie{
+background:url('../../../Imagenes/Sigenos/twitter.png');
+background-size:50px 50px;
+}
+.iconosGoogleplus{
+background:url('../../../Imagenes/Sigenos/google-plus.png');
+background-size:50px 50px;
+}
+.iconosInatagra{
+background:url('../../../Imagenes/Sigenos/instagram.png');
+background-size:50px 50px;
+}
+.iconosWordPress{
+background:url('../../../Imagenes/Sigenos/wordpress.png');
+background-size:50px 50px;
+}
+.iconosyoutobe{
+background:url('../../../Imagenes/Sigenos/youtube (2).png');
+background-size:50px 50px;
+}
+.iconosFacebook:hover{
+background:url('../../../Imagenes/Sigenos/facebook-logo-button (2).png');
+background-size:50px 50px;
+}
+.iconosTwie:hover{
+background:url('../../../Imagenes/Sigenos/twitter (1).png');
+background-size:50px 50px;
+}
+.iconosGoogleplus:hover{
+background:url('../../../Imagenes/Sigenos/google-plus (1).png');
+background-size:50px 50px;
+}
+.iconosInatagra:hover{
+background:url('../../../Imagenes/Sigenos/instagram (1).png');
+background-size:50px 50px;
+}
+.iconosWordPress:hover{
+background:url('../../../Imagenes/Sigenos/wordpress (1).png');
+background-size:50px 50px;
+}
+.iconosyoutobe:hover{
+background:url('../../../Imagenes/Sigenos/youtube (1).png');
+background-size:50px 50px;
+}
+.fondo1 {
+    opacity: 0.3;
+    width: 100%;
+    /*background: #8ba987 url('../../../Imagenes/imagen-co/fondoplaya.jpg') no-repeat center center fixed;
+    
+    background-size: 100% 100%;*/
+}
+/**Esta es estilo para hotel*/
+.izquierda .row{
+    float:left;
+    border:2px solid #ff0;
+}
+/*****************************************INICIO de sesion*/
+.formularioLogR {
+    width:100%;
+    }
+.formularioLogl {
+    margin-left:4%;
+
+        }
+.formLabel{
+    font: bold 1em Arial,Sans-Serif;    
+}
+.formulariocompleto{
+    margin:5%;
+}
+.DropDown1{
+    width:175px;
+    height:27px;
+}
+/*''''*********************************************Hoteles*/
+.BuscadorHotel{
+    padding:1%;
+    height:380px;
+    width:50%;
+    margin:4%;
+    border:#f6f6f6;
+    box-shadow:5px 5px 5px #f6f6f6;
+    background:#f7f7f7;
+    color:#878787;
+}
+.promociones{
+    height:350px;
+    width:95%;
+    margin-left:4%;
+}
+.promociones1{
+    height:350px;
+    width:95%;
+    margin-left:0%;
+}
+
+.BuscadorHotel h3{
+    text-align:center;
+    padding-bottom:2%;
+}
+.orientarDerecha{
+    margin-left:2%;
+}
+.objetobuscador{
+    padding:5% 3% 2% 2%;
+    }
+.DropDown2{
+    width:100px;
+    height:27px;
+}
+/*+++++++++++++++++++++++++++++++********************************************++++++++++++++++++++++++++++Estilo para sitios de INteres*/

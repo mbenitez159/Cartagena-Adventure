@@ -1,0 +1,96 @@
+C:\Users\Tania Sofia\Desktop\Ej_Interfaz_Proyecto\Ej_Interfaz_Proyecto\obj\x86\Debug\Ej_Interfaz_Proyecto.exe
+C:\Users\Tania Sofia\Desktop\Ej_Interfaz_Proyecto\Ej_Interfaz_Proyecto\obj\x86\Debug\Ej_Interfaz_Proyecto.pdb
+C:\Users\Tania Sofia\Desktop\Ej_Interfaz_Proyecto\Ej_Interfaz_Proyecto\bin\Debug\Ej_Interfaz_Proyecto.exe
+C:\Users\Tania Sofia\Desktop\Ej_Interfaz_Proyecto\Ej_Interfaz_Proyecto\bin\Debug\Ej_Interfaz_Proyecto.pdb
+C:\Users\Tania Sofia\Desktop\Ej_Interfaz_Proyecto\Ej_Interfaz_Proyecto\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Tania Sofia\Desktop\Ej_Interfaz_Proyecto\Ej_Interfaz_Proyecto\obj\x86\Debug\Ej_Interfaz_Proyecto.Form1.resources
+C:\Users\Tania Sofia\Desktop\Ej_Interfaz_Proyecto\Ej_Interfaz_Proyecto\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios.FrmInstructor.resources
+C:\Users\Tania Sofia\Desktop\Ej_Interfaz_Proyecto\Ej_Interfaz_Proyecto\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios.FrmProfesion.resources
+C:\Users\Tania Sofia\Desktop\Ej_Interfaz_Proyecto\Ej_Interfaz_Proyecto\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmInicioSesion.resources
+C:\Users\Tania Sofia\Desktop\Ej_Interfaz_Proyecto\Ej_Interfaz_Proyecto\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmPrincipal.resources
+C:\Users\Tania Sofia\Desktop\Ej_Interfaz_Proyecto\Ej_Interfaz_Proyecto\obj\x86\Debug\Ej_Interfaz_Proyecto.Properties.Resources.resources
+C:\Users\Tania Sofia\Desktop\Ej_Interfaz_Proyecto\Ej_Interfaz_Proyecto\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Tania Sofia\Desktop\Ej_Interfaz_Proyecto\Ej_Interfaz_Proyecto\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\Tania Sofia\Desktop\Ej_Interfaz_Proyecto\Ej_Interfaz_Proyecto\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Tania Sofia\Desktop\Ej_Interfaz_Proyecto\Ej_Interfaz_Proyecto\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\ADSI-12\Desktop\GEN HORARIO\Ej_Interfaz_Proyecto\Ej_Interfaz_Proyecto\bin\Debug\Ej_Interfaz_Proyecto.exe
+C:\Users\ADSI-12\Desktop\GEN HORARIO\Ej_Interfaz_Proyecto\Ej_Interfaz_Proyecto\bin\Debug\Ej_Interfaz_Proyecto.pdb
+C:\Users\ADSI-12\Desktop\GEN HORARIO\Ej_Interfaz_Proyecto\Ej_Interfaz_Proyecto\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ADSI-12\Desktop\GEN HORARIO\Ej_Interfaz_Proyecto\Ej_Interfaz_Proyecto\obj\x86\Debug\Ej_Interfaz_Proyecto.Form1.resources
+C:\Users\ADSI-12\Desktop\GEN HORARIO\Ej_Interfaz_Proyecto\Ej_Interfaz_Proyecto\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios.FrmAmbientes.resources
+C:\Users\ADSI-12\Desktop\GEN HORARIO\Ej_Interfaz_Proyecto\Ej_Interfaz_Proyecto\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios.FrmInstructor.resources
+C:\Users\ADSI-12\Desktop\GEN HORARIO\Ej_Interfaz_Proyecto\Ej_Interfaz_Proyecto\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios.FrmProfesion.resources
+C:\Users\ADSI-12\Desktop\GEN HORARIO\Ej_Interfaz_Proyecto\Ej_Interfaz_Proyecto\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmInicioSesion.resources
+C:\Users\ADSI-12\Desktop\GEN HORARIO\Ej_Interfaz_Proyecto\Ej_Interfaz_Proyecto\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmPrincipal.resources
+C:\Users\ADSI-12\Desktop\GEN HORARIO\Ej_Interfaz_Proyecto\Ej_Interfaz_Proyecto\obj\x86\Debug\Ej_Interfaz_Proyecto.Properties.Resources.resources
+C:\Users\ADSI-12\Desktop\GEN HORARIO\Ej_Interfaz_Proyecto\Ej_Interfaz_Proyecto\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\ADSI-12\Desktop\GEN HORARIO\Ej_Interfaz_Proyecto\Ej_Interfaz_Proyecto\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\ADSI-12\Desktop\GEN HORARIO\Ej_Interfaz_Proyecto\Ej_Interfaz_Proyecto\obj\x86\Debug\Ej_Interfaz_Proyecto.exe
+C:\Users\ADSI-12\Desktop\GEN HORARIO\Ej_Interfaz_Proyecto\Ej_Interfaz_Proyecto\obj\x86\Debug\Ej_Interfaz_Proyecto.pdb
+C:\Users\Dionisio Carmona\Desktop\GEN HORARIO NUEVO\Ej_Interfaz_Proyecto\Ej_Interfaz_Proyecto\obj\x86\Debug\Ej_Interfaz_Proyecto.exe
+C:\Users\Dionisio Carmona\Desktop\GEN HORARIO NUEVO\Ej_Interfaz_Proyecto\Ej_Interfaz_Proyecto\obj\x86\Debug\Ej_Interfaz_Proyecto.pdb
+C:\Users\Dionisio Carmona\Desktop\GEN HORARIO NUEVO\Ej_Interfaz_Proyecto\Ej_Interfaz_Proyecto\bin\Debug\Ej_Interfaz_Proyecto.exe
+C:\Users\Dionisio Carmona\Desktop\GEN HORARIO NUEVO\Ej_Interfaz_Proyecto\Ej_Interfaz_Proyecto\bin\Debug\Ej_Interfaz_Proyecto.pdb
+C:\Users\Dionisio Carmona\Desktop\GEN HORARIO NUEVO\Ej_Interfaz_Proyecto\Ej_Interfaz_Proyecto\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Dionisio Carmona\Desktop\GEN HORARIO NUEVO\Ej_Interfaz_Proyecto\Ej_Interfaz_Proyecto\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios.FrmAmbientes.resources
+C:\Users\Dionisio Carmona\Desktop\GEN HORARIO NUEVO\Ej_Interfaz_Proyecto\Ej_Interfaz_Proyecto\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios.FrmInstructor.resources
+C:\Users\Dionisio Carmona\Desktop\GEN HORARIO NUEVO\Ej_Interfaz_Proyecto\Ej_Interfaz_Proyecto\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios.FrmProfesion.resources
+C:\Users\Dionisio Carmona\Desktop\GEN HORARIO NUEVO\Ej_Interfaz_Proyecto\Ej_Interfaz_Proyecto\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmInicioSesion.resources
+C:\Users\Dionisio Carmona\Desktop\GEN HORARIO NUEVO\Ej_Interfaz_Proyecto\Ej_Interfaz_Proyecto\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmPrincipal.resources
+C:\Users\Dionisio Carmona\Desktop\GEN HORARIO NUEVO\Ej_Interfaz_Proyecto\Ej_Interfaz_Proyecto\obj\x86\Debug\Ej_Interfaz_Proyecto.Properties.Resources.resources
+C:\Users\Dionisio Carmona\Desktop\GEN HORARIO NUEVO\Ej_Interfaz_Proyecto\Ej_Interfaz_Proyecto\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Dionisio Carmona\Desktop\GEN HORARIO NUEVO\Ej_Interfaz_Proyecto\Ej_Interfaz_Proyecto\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\Dionisio Carmona\Desktop\GEN HORARIO NUEVO\Ej_Interfaz_Proyecto\Ej_Interfaz_Proyecto\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Dionisio Carmona\Desktop\GEN HORARIO NUEVO\Ej_Interfaz_Proyecto\Ej_Interfaz_Proyecto\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\ADSI-12\Desktop\GEN HORARIO NUEVO\Ej_Interfaz_Proyecto\Ej_Interfaz_Proyecto\obj\x86\Debug\Ej_Interfaz_Proyecto.exe
+C:\Users\ADSI-12\Desktop\GEN HORARIO NUEVO\Ej_Interfaz_Proyecto\Ej_Interfaz_Proyecto\obj\x86\Debug\Ej_Interfaz_Proyecto.pdb
+C:\Users\ADSI-12\Desktop\GEN HORARIO NUEVO\Ej_Interfaz_Proyecto\Ej_Interfaz_Proyecto\bin\Debug\Ej_Interfaz_Proyecto.exe
+C:\Users\ADSI-12\Desktop\GEN HORARIO NUEVO\Ej_Interfaz_Proyecto\Ej_Interfaz_Proyecto\bin\Debug\Ej_Interfaz_Proyecto.pdb
+C:\Users\ADSI-12\Desktop\GEN HORARIO NUEVO\Ej_Interfaz_Proyecto\Ej_Interfaz_Proyecto\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ADSI-12\Desktop\GEN HORARIO NUEVO\Ej_Interfaz_Proyecto\Ej_Interfaz_Proyecto\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios.FrmAmbientes.resources
+C:\Users\ADSI-12\Desktop\GEN HORARIO NUEVO\Ej_Interfaz_Proyecto\Ej_Interfaz_Proyecto\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios.FrmInstructor.resources
+C:\Users\ADSI-12\Desktop\GEN HORARIO NUEVO\Ej_Interfaz_Proyecto\Ej_Interfaz_Proyecto\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios.FrmProfesion.resources
+C:\Users\ADSI-12\Desktop\GEN HORARIO NUEVO\Ej_Interfaz_Proyecto\Ej_Interfaz_Proyecto\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmInicioSesion.resources
+C:\Users\ADSI-12\Desktop\GEN HORARIO NUEVO\Ej_Interfaz_Proyecto\Ej_Interfaz_Proyecto\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmPrincipal.resources
+C:\Users\ADSI-12\Desktop\GEN HORARIO NUEVO\Ej_Interfaz_Proyecto\Ej_Interfaz_Proyecto\obj\x86\Debug\Ej_Interfaz_Proyecto.Properties.Resources.resources
+C:\Users\ADSI-12\Desktop\GEN HORARIO NUEVO\Ej_Interfaz_Proyecto\Ej_Interfaz_Proyecto\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\ADSI-12\Desktop\GEN HORARIO NUEVO\Ej_Interfaz_Proyecto\Ej_Interfaz_Proyecto\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\ADSI-12\Desktop\GEN HORARIO NUEVO\Ej_Interfaz_Proyecto\Ej_Interfaz_Proyecto\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\ADSI-12\Desktop\GEN HORARIO NUEVO\Ej_Interfaz_Proyecto\Ej_Interfaz_Proyecto\obj\x86\Debug\ResGen.write.1.tlog
+H:\GESTION DE HORARIO\GEN HORARIO NUEVO\Ej_Interfaz_Proyecto\Ej_Interfaz_Proyecto\obj\x86\Debug\Ej_Interfaz_Proyecto.exe
+H:\GESTION DE HORARIO\GEN HORARIO NUEVO\Ej_Interfaz_Proyecto\Ej_Interfaz_Proyecto\obj\x86\Debug\Ej_Interfaz_Proyecto.pdb
+L:\GESTION DE HORARIO\GEN HORARIO NUEVO\Ej_Interfaz_Proyecto\Ej_Interfaz_Proyecto\obj\x86\Debug\Ej_Interfaz_Proyecto.exe
+L:\GESTION DE HORARIO\GEN HORARIO NUEVO\Ej_Interfaz_Proyecto\Ej_Interfaz_Proyecto\obj\x86\Debug\Ej_Interfaz_Proyecto.pdb
+L:\GESTION DE HORARIO\GEN HORARIO NUEVO\Ej_Interfaz_Proyecto\Ej_Interfaz_Proyecto\obj\x86\Debug\ResolveAssemblyReference.cache
+L:\GESTION DE HORARIO\GEN HORARIO NUEVO\Ej_Interfaz_Proyecto\Ej_Interfaz_Proyecto\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios.FrmAmbientes.resources
+L:\GESTION DE HORARIO\GEN HORARIO NUEVO\Ej_Interfaz_Proyecto\Ej_Interfaz_Proyecto\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios.FrmGestionarResultados.resources
+L:\GESTION DE HORARIO\GEN HORARIO NUEVO\Ej_Interfaz_Proyecto\Ej_Interfaz_Proyecto\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios.FrmInstructor.resources
+L:\GESTION DE HORARIO\GEN HORARIO NUEVO\Ej_Interfaz_Proyecto\Ej_Interfaz_Proyecto\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios.FrmProfesion.resources
+L:\GESTION DE HORARIO\GEN HORARIO NUEVO\Ej_Interfaz_Proyecto\Ej_Interfaz_Proyecto\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmInicioSesion.resources
+L:\GESTION DE HORARIO\GEN HORARIO NUEVO\Ej_Interfaz_Proyecto\Ej_Interfaz_Proyecto\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmPrincipal.resources
+L:\GESTION DE HORARIO\GEN HORARIO NUEVO\Ej_Interfaz_Proyecto\Ej_Interfaz_Proyecto\obj\x86\Debug\Ej_Interfaz_Proyecto.Properties.Resources.resources
+L:\GESTION DE HORARIO\GEN HORARIO NUEVO\Ej_Interfaz_Proyecto\Ej_Interfaz_Proyecto\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+L:\GESTION DE HORARIO\GEN HORARIO NUEVO\Ej_Interfaz_Proyecto\Ej_Interfaz_Proyecto\obj\x86\Debug\ResGen.read.1.tlog
+L:\GESTION DE HORARIO\GEN HORARIO NUEVO\Ej_Interfaz_Proyecto\Ej_Interfaz_Proyecto\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+L:\GESTION DE HORARIO\GEN HORARIO NUEVO\Ej_Interfaz_Proyecto\Ej_Interfaz_Proyecto\obj\x86\Debug\ResGen.write.1.tlog
+L:\GESTION DE HORARIO\GEN HORARIO NUEVO\Ej_Interfaz_Proyecto\Ej_Interfaz_Proyecto\bin\Debug\Ej_Interfaz_Proyecto.exe
+L:\GESTION DE HORARIO\GEN HORARIO NUEVO\Ej_Interfaz_Proyecto\Ej_Interfaz_Proyecto\bin\Debug\Ej_Interfaz_Proyecto.pdb
+C:\Users\ADSI-12\Desktop\Ej_Interfaz_Proyecto\Ej_Interfaz_Proyecto\bin\Debug\Ej_Interfaz_Proyecto.exe
+C:\Users\ADSI-12\Desktop\Ej_Interfaz_Proyecto\Ej_Interfaz_Proyecto\bin\Debug\Ej_Interfaz_Proyecto.pdb
+C:\Users\ADSI-12\Desktop\Ej_Interfaz_Proyecto\Ej_Interfaz_Proyecto\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ADSI-12\Desktop\Ej_Interfaz_Proyecto\Ej_Interfaz_Proyecto\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios.Competencias.resources
+C:\Users\ADSI-12\Desktop\Ej_Interfaz_Proyecto\Ej_Interfaz_Proyecto\obj\x86\Debug\Ej_Interfaz_Proyecto.ConsultarHorarioInstructores.resources
+C:\Users\ADSI-12\Desktop\Ej_Interfaz_Proyecto\Ej_Interfaz_Proyecto\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios.FormInicioSesion.resources
+C:\Users\ADSI-12\Desktop\Ej_Interfaz_Proyecto\Ej_Interfaz_Proyecto\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios.FrmAmbientes.resources
+C:\Users\ADSI-12\Desktop\Ej_Interfaz_Proyecto\Ej_Interfaz_Proyecto\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios.FrmGestionarResultados.resources
+C:\Users\ADSI-12\Desktop\Ej_Interfaz_Proyecto\Ej_Interfaz_Proyecto\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios.FrmInstructor.resources
+C:\Users\ADSI-12\Desktop\Ej_Interfaz_Proyecto\Ej_Interfaz_Proyecto\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios.FrmNiveles.resources
+C:\Users\ADSI-12\Desktop\Ej_Interfaz_Proyecto\Ej_Interfaz_Proyecto\obj\x86\Debug\Ej_Interfaz_Proyecto.Formularios.FrmProfesion.resources
+C:\Users\ADSI-12\Desktop\Ej_Interfaz_Proyecto\Ej_Interfaz_Proyecto\obj\x86\Debug\Ej_Interfaz_Proyecto.Horarios.resources
+C:\Users\ADSI-12\Desktop\Ej_Interfaz_Proyecto\Ej_Interfaz_Proyecto\obj\x86\Debug\Ej_Interfaz_Proyecto.Programa.resources
+C:\Users\ADSI-12\Desktop\Ej_Interfaz_Proyecto\Ej_Interfaz_Proyecto\obj\x86\Debug\Ej_Interfaz_Proyecto.FrmPrincipal.resources
+C:\Users\ADSI-12\Desktop\Ej_Interfaz_Proyecto\Ej_Interfaz_Proyecto\obj\x86\Debug\Ej_Interfaz_Proyecto.Properties.Resources.resources
+C:\Users\ADSI-12\Desktop\Ej_Interfaz_Proyecto\Ej_Interfaz_Proyecto\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\ADSI-12\Desktop\Ej_Interfaz_Proyecto\Ej_Interfaz_Proyecto\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\ADSI-12\Desktop\Ej_Interfaz_Proyecto\Ej_Interfaz_Proyecto\obj\x86\Debug\Ej_Interfaz_Proyecto.exe
+C:\Users\ADSI-12\Desktop\Ej_Interfaz_Proyecto\Ej_Interfaz_Proyecto\obj\x86\Debug\Ej_Interfaz_Proyecto.pdb

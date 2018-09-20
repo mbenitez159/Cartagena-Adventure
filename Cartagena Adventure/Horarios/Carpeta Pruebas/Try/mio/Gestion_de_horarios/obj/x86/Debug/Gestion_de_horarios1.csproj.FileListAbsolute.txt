@@ -1,0 +1,3 @@
+C:\Users\Rosiris Echenique\Videos\Proyectos\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Gestion_de_horarios1.csproj.ResolveComReference.cache
+C:\Users\Rosiris Echenique\Videos\Proyectos\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.exe
+C:\Users\Rosiris Echenique\Videos\Proyectos\Horarios\Carpeta Pruebas\Try\mio\Gestion_de_horarios\obj\x86\Debug\Ej_Interfaz_Proyecto.pdb

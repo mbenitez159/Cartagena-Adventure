@@ -1,0 +1,2 @@
+falta validar que se muestre el horario 
+falta validar que muestre el horario del docente para la fecha elegida.

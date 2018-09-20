@@ -1,0 +1,8 @@
+select * from GRUPO
+
+select DATEADD(QUARTER,1,'2016-01-01')
+
+declare @a date=(select cast(g.INICIO as date) from GRUPO g where g.ID_GRUPO=1);declare @b date=(select DATEADD(QUARTER,4,@a));select cast(DATEPART(QUARTER,@b) as varchar(max))+'-'
+
+
+select DATEADD(day,1,@b)

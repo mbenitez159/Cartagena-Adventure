@@ -1,0 +1,164 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="maestra.master.cs" Inherits="Formulario_maestra" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title>Cartagena Adventure</title>
+        <link href="../CSS/css-master/estilo.css" rel="stylesheet" />
+        <script src="../../bootstrap-3.3.6-dist/js/jquery.min.js"></script>
+    <script src="../../bootstrap-3.3.6-dist/js/bootstrap.min.js"></script>
+    <link href="../../bootstrap-3.3.6-dist/css/bootstrap.min.css" rel="stylesheet" />
+    <link rel="icon" href="../../Imagenes/icono.ico" type="image/x-icon" />
+    <link rel="shortcut icon" href="../../Imagenes/icono.ico" type="image/x-icon" />
+    <link href="../CSS/css-default/estilo-default.css" rel="stylesheet" /> 
+    <script src="../Javascrip/admincontenido.js"></script>   
+        <asp:ContentPlaceHolder id="head" runat="server">
+        </asp:ContentPlaceHolder>
+
+</head>
+<body >
+    <a href="#" runat="server" onclick="">content</a>
+    <form runat="server" onload="Unnamed_Load" method="post">
+                <div class="ventana">
+                    <div class="container ubicarLogin">        
+                        <div class="interno well well-lg">   
+                           <a href="javascript:cerrar()"><img class="botoncerrra" src="../../Imagenes/error.png" /></a>
+                            <div class="row">
+                                <h4>Iniciar Sesión</h4>
+                            </div>
+                            <div class="row">
+                                <h6>Identificación</h6>
+                               <asp:TextBox ID="TextBox1" CssClass="formularioControl" password="true" runat="server" MaxLength="20"></asp:TextBox>
+                            </div>
+                            <div class="row">
+                                <h6>Contraseña</h6>
+                                <input id="Password1" class="formularioControl" maxlength="20" runat="server"  type="password" />
+                            </div><br />
+                            <div class="row">                            
+                                <asp:Button ID="Button1" CssClass="btn-info" runat="server" Text="Ingresar" OnLoad="Button1_Load" OnClick="Button1_Click" /><br />
+                                
+                                <asp:Label ID="Label1" runat="server" Text=""></asp:Label>
+                            </div>
+                
+                        </div>
+                    </div>
+                </div>
+        
+                <header>      
+                   <nav class="navbar navbar-fixed-top" style="background:#f7f7f7;">
+                      <div class="container-fluid">
+                        <div class="navbar-header">
+                          <a class="navbar-brand myfuente" style="font-size:35px;" href="../form-hereda/Default.aspx">Cartagena Adventure</a>
+                        </div>
+                        <ul class="nav navbar-nav">
+                            <li class="divider"></li>
+                          <li class="active"><a href="../form-hereda/Default.aspx">Inicio</a></li>
+                          <li>
+                                <a  href="../form-hereda/Hotel.aspx">Hoteles
+                                </a>
+                            </li> 
+                            <li class="divider"></li>
+                          <li > <a   href="../form-hereda/sitiosInteres.aspx">Sitios de Interes</a></li> 
+                            <li class="divider"></li>
+                            <li class="active"><a href="../form-hereda/Barrios.aspx">Barrios</a></li>
+                        </ul>
+                        <ul id="uli" class="nav navbar-nav navbar-right">
+                            <li id="controlI1"><a id="controlI11" href="../form-hereda/Registro.aspx"><span class="glyphicon glyphicon-user"></span>Registrate</a></li>
+                            <li id="controlI2"><a id="controlI22" href="javascript:open('');"><span class="glyphicon glyphicon-log-in"></span>Iniciar sesión</a></li>
+              
+                         </ul>
+
+                      </div>
+                    </nav>             
+               </header>
+
+    <div class="container-fluid">
+        <asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server">
+
+         </asp:ContentPlaceHolder>
+    </div>   
+    <footer >
+    <div class="row">
+        <div class="col-lg-4">
+            <h4>Síguenos</h4>
+            <hr />
+        <div class="row container-fluid formularioLogl">
+            <div class="col-lg-3 listarIzquierda"><a class="img-responsive iconos iconosFacebook" href="https://es-la.facebook.com/"></a></div>
+            <div class="col-lg-3 listarIzquierda"><a class="img-responsive iconos iconosTwie" href="https://twitter.com/"></a></div>
+            <div class="col-lg-3 listarIzquierda"><a class="img-responsive iconos iconosGoogleplus" href="https://plus.google.com/explore"></a></div>
+        </div>
+            <br />
+        <div class="row container-fluid formularioLogl">
+            <div class="col-lg-3 listarIzquierda"><a class="img-responsive iconos iconosInatagra" href="https://www.instagram.com/"></a></div>
+            <div class="col-lg-3 listarIzquierda"><a class="img-responsive iconos iconosWordPress" href="https://es.wordpress.com/"></a></div>
+            <div class="col-lg-3 listarIzquierda"><a class="img-responsive iconos iconosyoutobe" href="https://www.youtube.com"></a></div>
+       </div>
+        </div>
+        <div class="col-lg-4">
+                <h4>Legal</h4>
+               <hr />
+                <div class="col-lg-12" style="margin-bottom:0px;">
+                    <a href="#"><h5 class="h5A">Términos generales de uso</h5></a>
+                    <a href="#"><h5 class="h5A">Politica de privacidad</h5></a>
+                    <a href="#"><h5 class="h5A">Proteción de datos</h5></a>
+                </div>                
+        
+            
+        </div>
+            <div class="col-lg-4">
+                <h4>Hoteles</h4>
+                <hr />
+                <div class="row">
+                    <div class="col-lg-3">
+                        <a href="http://www.hiltonhotels.com/"><img class="iconodeHotel" src="../../Imagenes/Icono-hotel/hilton2.jpg" /></a>                        
+                    </div>
+                    <div class="col-lg-3">
+                        <a href="http://www.capilladelmar.com/"><img class="iconodeHotel" src="../../Imagenes/Icono-hotel/capilla%20del%20mar.png" /></a>                        
+                    </div>
+                    <div class="col-lg-3">
+                        <a href="http://www.hotelbahiacartagena.com/es/"><img class="iconodeHotel" src="../../Imagenes/Icono-hotel/Hotel%20Bahia%20Cartagena.png" /></a>                        
+                    </div>
+                    <div class="col-lg-3">
+                        <a href="http://www.despegar.com.co/hoteles/h-330956/hotel-bovedas-de-santa-clara-cartagena+de+indias?gclid=CL6GvLnQgs0CFYomhgodblgGlQ&mktdata=kw%3D_inurl%253Ahoteles%252Fh-%26c%3D88209551787%26mt%3Db%26n%3Dg%26p%3D%26ap%3D1t2%26d%3Dc%26dm%3D%26targetid%3Daud-36562319336%3Adsa-45975501160%26campaignid%3D200032707%26adgroupid%3D17329261707%26locationid%3D%26gclid%3DCL6GvLnQgs0CFYomhgodblgGlQ%26id%3D201605302023231511480024621021%26trackeame_user_id%3DFA163E56AB691463859720286a3f9322c-fb5d-4d49-9b2a-9f635c50d7544443985"><img class="iconodeHotel" src="../../Imagenes/Icono-hotel/santa%20clara.jpg" /></a>                        
+                    </div>
+                </div><br />
+                <div class="row">
+                    <div class="col-lg-3">
+                        <a href="http://www.hotelcaribe.com/"><img class="iconodeHotel" src="../../Imagenes/Icono-hotel/hotel%20caribe.png" /></a>                        
+                    </div>
+                    <div class="col-lg-3">
+                        <a href="http://ghl-corales-de-indias.h-rez.com/index.htm?lbl=ggl-en&gclid=CKuVloTRgs0CFQcfhgodSUIBoA"><img class="iconodeHotel" src="../../Imagenes/Icono-hotel/hotel%20los%20carales.jpg" /></a>                        
+                    </div>
+                    <div class="col-lg-3">
+                        <a href="http://www.hotelalmirantecartagena.com.co/En/"><img class="iconodeHotel" src="../../Imagenes/Icono-hotel/HotelAlmirante.png" /></a>                        
+                    </div>
+                    <div class="col-lg-3">
+                        <a href="http://www.intercontinental.com/hotels/us/es/cali/cloha/hoteldetail?qAdlt=1&qBrs=6c.hi.ex.rs.ic.cp.in.sb.cw.cv.ul.vn&qChld=0&qFRA=1&qGRM=0&qIta=99613953&qPSt=0&qRRSrt=rt&qRef=df&qRms=1&qRpn=1&qRpp=20&qSHp=1&qSmP=3&qSrt=sBR&qWch=0&srb_u=1&icdv=99613953&sicreative=55972334757&siclientid=5038&sitrackingid=724056582&dp=true&glat=SEAR"><img class="iconodeHotel" src="../../Imagenes/Icono-hotel/intercontinenta.jpg" /></a>                        
+                    </div>
+                </div><br />
+                <div class="row">
+                    <div class="col-lg-3">
+                        <a href="http://www.hotelsone.com/cartagena-hotels-co/charleston-santa-teresa-cartagena.es.html?cur=GBP&as=g&aid=7454275718&dsti=123494&dstt=8&label=ggehoeu-ESRI-bh123494&gclid=CP6y8I7Sgs0CFckehgodRbMO5A&akw=hotel%20charleston%20cartagena%20de%20indias&asrc=Search"><img class="iconodeHotel" src="../../Imagenes/Icono-hotel/santa%20teresa.jpg" /></a>                        
+                    </div>
+                    <div class="col-lg-3">
+                        <a href="http://www.hotellasamericas.com.co/?gclid=CLzOvrvSgs0CFQEmhgodtc0JuA"><img class="iconodeHotel" src="../../Imagenes/Icono-hotel/Las_Americas_Resort_Cartagena_Logo.png" /></a>                        
+                    </div>
+
+                </div>
+            </div>
+
+    </div>
+        <h5><strong>Copyright © 2016 Cartagena Adventure</strong></h5> <strong>Todos los derechos reservados.</strong>
+    </footer>
+    </form>
+</body>
+
+</html>
+<style>
+body {overflow-x:hidden;}
+</style>
+
+
+

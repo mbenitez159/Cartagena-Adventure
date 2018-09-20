@@ -1,0 +1,307 @@
+USE [master]
+GO
+/****** Object:  Database [cartagena]    Script Date: 9/06/2016 2:49:59 a. m. ******/
+CREATE DATABASE [cartagena]
+ CONTAINMENT = NONE
+ ON  PRIMARY 
+( NAME = N'cartagena', FILENAME = N'C:\Program Files (x86)\Microsoft SQL Server\MSSQL12.MSSQLSERVER\MSSQL\DATA\cartagena.mdf' , SIZE = 4288KB , MAXSIZE = UNLIMITED, FILEGROWTH = 1024KB )
+ LOG ON 
+( NAME = N'cartagena_log', FILENAME = N'C:\Program Files (x86)\Microsoft SQL Server\MSSQL12.MSSQLSERVER\MSSQL\DATA\cartagena_log.ldf' , SIZE = 1072KB , MAXSIZE = 2048GB , FILEGROWTH = 10%)
+GO
+ALTER DATABASE [cartagena] SET COMPATIBILITY_LEVEL = 120
+GO
+IF (1 = FULLTEXTSERVICEPROPERTY('IsFullTextInstalled'))
+begin
+EXEC [cartagena].[dbo].[sp_fulltext_database] @action = 'enable'
+end
+GO
+ALTER DATABASE [cartagena] SET ANSI_NULL_DEFAULT OFF 
+GO
+ALTER DATABASE [cartagena] SET ANSI_NULLS OFF 
+GO
+ALTER DATABASE [cartagena] SET ANSI_PADDING OFF 
+GO
+ALTER DATABASE [cartagena] SET ANSI_WARNINGS OFF 
+GO
+ALTER DATABASE [cartagena] SET ARITHABORT OFF 
+GO
+ALTER DATABASE [cartagena] SET AUTO_CLOSE OFF 
+GO
+ALTER DATABASE [cartagena] SET AUTO_SHRINK OFF 
+GO
+ALTER DATABASE [cartagena] SET AUTO_UPDATE_STATISTICS ON 
+GO
+ALTER DATABASE [cartagena] SET CURSOR_CLOSE_ON_COMMIT OFF 
+GO
+ALTER DATABASE [cartagena] SET CURSOR_DEFAULT  GLOBAL 
+GO
+ALTER DATABASE [cartagena] SET CONCAT_NULL_YIELDS_NULL OFF 
+GO
+ALTER DATABASE [cartagena] SET NUMERIC_ROUNDABORT OFF 
+GO
+ALTER DATABASE [cartagena] SET QUOTED_IDENTIFIER OFF 
+GO
+ALTER DATABASE [cartagena] SET RECURSIVE_TRIGGERS OFF 
+GO
+ALTER DATABASE [cartagena] SET  ENABLE_BROKER 
+GO
+ALTER DATABASE [cartagena] SET AUTO_UPDATE_STATISTICS_ASYNC OFF 
+GO
+ALTER DATABASE [cartagena] SET DATE_CORRELATION_OPTIMIZATION OFF 
+GO
+ALTER DATABASE [cartagena] SET TRUSTWORTHY OFF 
+GO
+ALTER DATABASE [cartagena] SET ALLOW_SNAPSHOT_ISOLATION OFF 
+GO
+ALTER DATABASE [cartagena] SET PARAMETERIZATION SIMPLE 
+GO
+ALTER DATABASE [cartagena] SET READ_COMMITTED_SNAPSHOT OFF 
+GO
+ALTER DATABASE [cartagena] SET HONOR_BROKER_PRIORITY OFF 
+GO
+ALTER DATABASE [cartagena] SET RECOVERY FULL 
+GO
+ALTER DATABASE [cartagena] SET  MULTI_USER 
+GO
+ALTER DATABASE [cartagena] SET PAGE_VERIFY CHECKSUM  
+GO
+ALTER DATABASE [cartagena] SET DB_CHAINING OFF 
+GO
+ALTER DATABASE [cartagena] SET FILESTREAM( NON_TRANSACTED_ACCESS = OFF ) 
+GO
+ALTER DATABASE [cartagena] SET TARGET_RECOVERY_TIME = 0 SECONDS 
+GO
+ALTER DATABASE [cartagena] SET DELAYED_DURABILITY = DISABLED 
+GO
+EXEC sys.sp_db_vardecimal_storage_format N'cartagena', N'ON'
+GO
+USE [cartagena]
+GO
+/****** Object:  User [remoto]    Script Date: 9/06/2016 2:50:00 a. m. ******/
+CREATE USER [remoto] FOR LOGIN [remoto] WITH DEFAULT_SCHEMA=[dbo]
+GO
+ALTER ROLE [db_owner] ADD MEMBER [remoto]
+GO
+ALTER ROLE [db_securityadmin] ADD MEMBER [remoto]
+GO
+ALTER ROLE [db_ddladmin] ADD MEMBER [remoto]
+GO
+ALTER ROLE [db_backupoperator] ADD MEMBER [remoto]
+GO
+ALTER ROLE [db_datawriter] ADD MEMBER [remoto]
+GO
+ALTER ROLE [db_denydatareader] ADD MEMBER [remoto]
+GO
+ALTER ROLE [db_denydatawriter] ADD MEMBER [remoto]
+GO
+/****** Object:  Table [dbo].[Barrios]    Script Date: 9/06/2016 2:50:00 a. m. ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+SET ANSI_PADDING ON
+GO
+CREATE TABLE [dbo].[Barrios](
+	[codigo] [int] IDENTITY(1,1) NOT NULL,
+	[nombre] [varchar](max) NOT NULL,
+	[DirImg] [varchar](max) NOT NULL,
+	[DirGoo] [varchar](max) NOT NULL,
+	[texto] [text] NULL,
+PRIMARY KEY CLUSTERED 
+(
+	[codigo] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
+) ON [PRIMARY] TEXTIMAGE_ON [PRIMARY]
+
+GO
+SET ANSI_PADDING OFF
+GO
+/****** Object:  Table [dbo].[habitacion]    Script Date: 9/06/2016 2:50:00 a. m. ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+SET ANSI_PADDING ON
+GO
+CREATE TABLE [dbo].[habitacion](
+	[codigo] [int] NOT NULL,
+	[codigoHotel] [int] NOT NULL,
+	[numeroAdultos] [int] NOT NULL,
+	[numeroNiños] [int] NOT NULL,
+	[camasDobles] [int] NOT NULL,
+	[imagenPortada] [varchar](250) NOT NULL,
+	[imagen1] [varchar](250) NULL,
+	[imagen2] [varchar](250) NULL,
+	[imagen3] [varchar](250) NULL,
+	[imagen4] [varchar](250) NULL,
+	[imagen5] [varchar](250) NULL,
+	[Descripcion] [text] NULL,
+	[precio] [money] NULL,
+PRIMARY KEY CLUSTERED 
+(
+	[codigo] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
+) ON [PRIMARY] TEXTIMAGE_ON [PRIMARY]
+
+GO
+SET ANSI_PADDING OFF
+GO
+/****** Object:  Table [dbo].[HOTEL]    Script Date: 9/06/2016 2:50:00 a. m. ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+SET ANSI_PADDING ON
+GO
+CREATE TABLE [dbo].[HOTEL](
+	[codigo] [int] NOT NULL,
+	[nombre] [varchar](40) NOT NULL,
+	[imagenPortada] [varchar](250) NOT NULL,
+	[imagen1] [varchar](250) NULL,
+	[imagen2] [varchar](250) NULL,
+	[imagen3] [varchar](250) NULL,
+	[imagen4] [varchar](250) NULL,
+	[imagen5] [varchar](250) NULL,
+	[DirGoo] [text] NOT NULL,
+	[descripcion] [text] NULL,
+PRIMARY KEY CLUSTERED 
+(
+	[codigo] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
+) ON [PRIMARY] TEXTIMAGE_ON [PRIMARY]
+
+GO
+SET ANSI_PADDING OFF
+GO
+/****** Object:  Table [dbo].[sitiosInteres]    Script Date: 9/06/2016 2:50:00 a. m. ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+SET ANSI_PADDING ON
+GO
+CREATE TABLE [dbo].[sitiosInteres](
+	[id] [bigint] IDENTITY(1,1) NOT NULL,
+	[nombre] [varchar](40) NOT NULL,
+	[Portada] [varchar](max) NOT NULL,
+	[DirGoo] [varchar](max) NOT NULL,
+	[Descripción] [text] NULL,
+PRIMARY KEY CLUSTERED 
+(
+	[id] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
+) ON [PRIMARY] TEXTIMAGE_ON [PRIMARY]
+
+GO
+SET ANSI_PADDING OFF
+GO
+/****** Object:  Table [dbo].[usuario]    Script Date: 9/06/2016 2:50:00 a. m. ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+SET ANSI_PADDING ON
+GO
+CREATE TABLE [dbo].[usuario](
+	[id] [varchar](40) NOT NULL,
+	[nombre] [varchar](70) NOT NULL,
+	[apellido] [varchar](70) NOT NULL,
+	[email] [varchar](70) NOT NULL,
+	[celular] [numeric](18, 0) NULL,
+	[telefono] [numeric](18, 0) NULL,
+	[genero] [varchar](20) NOT NULL,
+	[contraseña] [varchar](40) NOT NULL,
+PRIMARY KEY CLUSTERED 
+(
+	[id] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
+) ON [PRIMARY]
+
+GO
+SET ANSI_PADDING OFF
+GO
+SET IDENTITY_INSERT [dbo].[Barrios] ON 
+
+GO
+INSERT [dbo].[Barrios] ([codigo], [nombre], [DirImg], [DirGoo], [texto]) VALUES (1, N'Manga', N'../../Imagenes/img-barrios/manga.jpg', N'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15696.48385917657!2d-75.54338693195594!3d10.411966335579772!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8ef62f7b45deac25%3A0x4dc3e7d26e6b1695!2sManga%2C+Cartagena%2C+Bol%C3%ADvar!5e0!3m2!1ses-419!2sco!4v1461513302015', N'En Cartagena cuando tocamos le tema de Manga, inmediatamente se nos viene a la imaginación el suntuoso barrio residencial con sus casas palaciegas que todavía encantan a los visitantes. Frecuentemente encontrábamos que, enfrente de uno de esos palacetes se levantaran humildes moradas construidas con ordinarias tablas y cubiertas con techo de zinc. ')
+GO
+INSERT [dbo].[Barrios] ([codigo], [nombre], [DirImg], [DirGoo], [texto]) VALUES (2, N'Bocagrande', N'../../Imagenes/img-barrios/Bocagrande_3.jpg', N'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15696.722569976177!2d-75.5632274800001!3d10.407223235947821!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8ef62f13845a35df%3A0xa8a697c1918d40a6!2sBocagrande%2C+Cartagena%2C+Bol%C3%ADvar%2C+Colombia!5e0!3m2!1ses!2sit!4v1465246119076', N'Bocagrande es un barrio muy turístico y comercial de Cartagena de Indias donde se encuentra un gran número de hoteles de cadenas internacionales, tiendas y restaurantes.  El barrio localizado al sur de la Ciudad Amurallada puede definirse como un centro comercial a puertas abiertas ya que es aquí donde se encuentra la mayor cantidad de tiendas de marcas internacionales.
+En Bocagrande están las playas más frecuentadas de Cartagena. Son playas con muchos vendedores ambulantes, que ofrecen todo tipo de servicios allí.
+')
+GO
+INSERT [dbo].[Barrios] ([codigo], [nombre], [DirImg], [DirGoo], [texto]) VALUES (3, N'Getsemaní', N'../../Imagenes/img-barrios/getsemani.jpg', N'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3924.0190213443516!2d-75.54751778589743!3d10.420063718521101!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8ef62f7358eb65c9%3A0xb9e8d9ec1908859c!2sGetseman%C3%AD%2C+Cartagena%2C+Bol%C3%ADvar%2C+Colombia!5e0!3m2!1ses!2sit!4v1465246586872', N'Getsemaní es uno de los barrios más representativos de la ciudad, dado que allí se dió el Grito de Independencia en 1811. Getsemaní es conocido por recibir gran cantidad de mochileros, por sus tiendas de oficios (modistas, zapateros) y por su Parque Centenario. Era el barrio donde habitaban los esclavos en la época de la Colonia.')
+GO
+INSERT [dbo].[Barrios] ([codigo], [nombre], [DirImg], [DirGoo], [texto]) VALUES (4, N'San Diego', N'../../Imagenes/img-barrios/sandiego.jpg', N'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3923.9087767045626!2d-75.55057063589737!3d10.428813468366855!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8ef62f98de842615%3A0x6fe01a7709e33406!2sSan+Diego%2C+Cartagena%2C+Bol%C3%ADvar%2C+Colombia!5e0!3m2!1ses!2sit!4v1465246861671', N'El barrio de San Diego está inserto en la ciudad vieja de Cartagena y gira alrededor de la preciosa plaza de San Diego. Sus callecitas están flanqueadas por casas más pequeñas que en el resto del casco histórico, todas pintadas con colores intensos y espectaculares balcones floridos. El barrio está impregnado del aire bohemio que le dan los jóvenes que asisten a la Universidad de Bellas Artes y Ciencias de Bolívar, emplazada frente a la plaza de San Diego.')
+GO
+INSERT [dbo].[Barrios] ([codigo], [nombre], [DirImg], [DirGoo], [texto]) VALUES (5, N'Pie del Cerro', N'../../Imagenes/img-barrios/pie%20del%20cerro.jpg', N'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7847.982670061507!2d-75.54287692847913!3d10.422261772105676!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8ef62f82a5732f63%3A0xef8dcf230aa2166!2sPie+Del+Cerro%2C+Cartagena%2C+Bol%C3%ADvar%2C+Colombia!5e0!3m2!1ses!2sit!4v1465247357626', N'El Barrio del Pie del Cerro en Cartagena de Indias, frente al Castillo de San Felipe de Barajas. Cuenta con dos (2) frentes paralelos: Uno a la avenida Pedro de Heredia y otro a la Avenida del Lago.')
+GO
+SET IDENTITY_INSERT [dbo].[Barrios] OFF
+GO
+INSERT [dbo].[habitacion] ([codigo], [codigoHotel], [numeroAdultos], [numeroNiños], [camasDobles], [imagenPortada], [imagen1], [imagen2], [imagen3], [imagen4], [imagen5], [Descripcion], [precio]) VALUES (1, 1, 1, 0, 0, N'../../Imagenes/img-habitacion-hotel/img1.jpg', N'../../Imagenes/img-habitacion-hotel/img2.jpg', N'../../Imagenes/img-habitacion-hotel/img3.jpg', NULL, NULL, NULL, NULL, 225000.0000)
+GO
+INSERT [dbo].[habitacion] ([codigo], [codigoHotel], [numeroAdultos], [numeroNiños], [camasDobles], [imagenPortada], [imagen1], [imagen2], [imagen3], [imagen4], [imagen5], [Descripcion], [precio]) VALUES (2, 1, 2, 0, 1, N'../../Imagenes/img-habitacion-hotel/img4.jpg', N'../../Imagenes/img-habitacion-hotel/img5.jpg', NULL, NULL, NULL, NULL, NULL, 320000.0000)
+GO
+INSERT [dbo].[HOTEL] ([codigo], [nombre], [imagenPortada], [imagen1], [imagen2], [imagen3], [imagen4], [imagen5], [DirGoo], [descripcion]) VALUES (1, N'Hotel Hilton', N'../../Imagenes/img-hotel/Hilton/img1.jpg', N'../../Imagenes/img-hotel/Hilton/img2.jpg', N'../../Imagenes/img-hotel/Hilton/img3.jpg', N'../../Imagenes/img-hotel/Hilton/img4.jpg', N'../../Imagenes/img-hotel/Hilton/img5.jpg', NULL, N'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3924.3462098396712!2d-75.56232968566577!3d10.394052968978162!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8ef62f3b7340f3cd%3A0x24aea05a4a7e6292!2shotel+hilton+cartagena!5e0!3m2!1sen!2sco!4v1464714749022', N'Hilton Hotels & Resorts, uno de nuestros nombres más reconocidos en la industria, ofrece a los viajeros un mundo de experiencias auténticas. La marca continúa siendo el líder mundial en hospitalidad innovadora y visión de futuro.')
+GO
+INSERT [dbo].[HOTEL] ([codigo], [nombre], [imagenPortada], [imagen1], [imagen2], [imagen3], [imagen4], [imagen5], [DirGoo], [descripcion]) VALUES (2, N'Hotel Capilla del mar', N'../../Imagenes/img-hotel/Capilla%20del%20mar/img1.JPEG', N'../../Imagenes/img-hotel/Capilla%20del%20mar/img1.JPEG', N'../../Imagenes/img-hotel/Capilla%20del%20mar/img2.jpg', N'../../Imagenes/img-hotel/Capilla%20del%20mar/img3.jpg', N'../../Imagenes/img-hotel/Capilla%20del%20mar/img4.jpg', N'../../Imagenes/img-hotel/Capilla%20del%20mar/img5.jpg', N'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3924.2178083075064!2d-75.55753268566562!3d10.404268268798594!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8ef62f14460a9983%3A0x5e4a4b643679a2b5!2sHotel+Capilla+del+Mar!5e0!3m2!1sen!2sco!4v1464715772723', N'Ubicados en Cartagena de Indias, Colombia y con el privilegio de estar frente al mar, ofrecemos la mejor experiencia de descanso y relaja­ción en la ciudad. Disfrute de la zona turística y moderna de Bocagrande, uno de los barrios más emble­máticos de la ciudad; en él conviven múltiples restaurantes, bares, discotecas y las más grandes marcas comerciales del mundo.')
+GO
+INSERT [dbo].[HOTEL] ([codigo], [nombre], [imagenPortada], [imagen1], [imagen2], [imagen3], [imagen4], [imagen5], [DirGoo], [descripcion]) VALUES (3, N'Hotel Santa clara', N'../../Imagenes/img-hotel/santa%20clara/img1.jpg', N'../../Imagenes/img-hotel/santa%20clara/img2.jpg', N'../../Imagenes/img-hotel/santa%20clara/img3.jpg', N'../../Imagenes/img-hotel/santa%20clara/img4.jpg', N'../../Imagenes/img-hotel/santa%20clara/img5.jpg', NULL, N'https://www.google.com.co/maps/place/Hotel+Sofitel+Legend+Santa+Clara+Cartagena/@10.4283447,-75.5478394,20z/data=!4m13!1m7!3m6!1s0x8ef62f99208a15a3:0x3187872c9d2602d2!2sHotel+Sofitel+Legend+Santa+Clara+Cartagena!3b1!8m2!3d10.4282968!4d-75.5477533!3m4!1s0x8ef62f99208a15a3:0x3187872c9d2602d2!8m2!3d10.4282968!4d-75.5477533', NULL)
+GO
+INSERT [dbo].[HOTEL] ([codigo], [nombre], [imagenPortada], [imagen1], [imagen2], [imagen3], [imagen4], [imagen5], [DirGoo], [descripcion]) VALUES (4, N'Hotel Bahía', N'../../Imagenes/img-hotel/bahia/img1.jpg', N'../../Imagenes/img-hotel/bahia/img2.jpg', N'../../Imagenes/img-hotel/bahia/img3.jpg', N'../../Imagenes/img-hotel/bahia/img4.JPEG', N'../../Imagenes/img-hotel/bahia/img-5.jpg', NULL, N'https://www.google.com.co/maps/place/Hotel+Bahia/@10.3974767,-75.5613968,17z/data=!3m1!4b1!4m5!3m4!1s0x8ef62f3c5185fc85:0x3adbf852d2837611!8m2!3d10.3974714!4d-75.5592081', N'Situado en el corazón de una de las ciudades más bellas del mundo, Cartagena de Indias, el Hotel Bahía tiene por  misión  brindar alojamiento y servicios hoteleros de excelente calidad poniendo a disposición de locales y extranjeros la experiencia de más de 50 años en esta actividad, con un recurso humano cálido y profesional,y en un entorno natural,saludable y sostenible.')
+GO
+SET IDENTITY_INSERT [dbo].[sitiosInteres] ON 
+
+GO
+INSERT [dbo].[sitiosInteres] ([id], [nombre], [Portada], [DirGoo], [Descripción]) VALUES (2, N'Islas Corales del Rosario', N'../../Imagenes/img-Sitios/rosario%20(2).jpg', N'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15708.10446511849!2d-75.752456780023!3d10.178532453750462!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8e587c337eb24f69%3A0xc262a79726bdb10e!2sIslas+del+Rosario%2C+Bol%C3%ADvar%2C+Colombia!5e0!3m2!1ses!2sit!4v1465248797393', N'Las islas del Rosario es un pequeño archipiélago formado por unas 28 islas, que es parte de la zona insular de Cartagena de indias, con una superficie terrestre de 20 héctareas')
+GO
+INSERT [dbo].[sitiosInteres] ([id], [nombre], [Portada], [DirGoo], [Descripción]) VALUES (3, N'Plaza de Las Bovedas', N'../../Imagenes/img-Sitios/plaza%20de%20bobedas.jpg', N'https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15695.578485694528!2d-75.5466082!3d10.4299364!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x773b422bbea8f05!2sPlaza+de+Las+Bovedas!5e0!3m2!1ses-419!2sco!4v1465250628457', N'Se ubican entre los fuertes Santa Clara y Santa Catalina. Se considera el último proyecto de la Colonia realizado dentro de la ciudad amurallada. Tiene 47 arcos y 23 bóvedas. Tuvo uso militar durante la Colonia y en la Independencia sirvió de cárcel. Luego de su restauración, en ellas funcionan tiendas de artesanías y antigüedades, bares y galerías.')
+GO
+INSERT [dbo].[sitiosInteres] ([id], [nombre], [Portada], [DirGoo], [Descripción]) VALUES (4, N'Claustro del convento de la Popa', N'../../Imagenes/img-Sitios/conventoPie.jpg', N'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3924.0288654842284!2d-75.52780328589745!3d10.419282068534873!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8ef6258045a531eb%3A0x80ecab65742149db!2sCONVENTO+DE+LA+POPA!5e0!3m2!1ses-419!2sco!4v1465251178767', N'El claustro del convento de la Popa es uno de los más bellos de la ciudad colonial de Cartagena y de toda Colombia. Este que anteriormente, los antiguos cartageneros también lo llamaron Cerro de la Cruz por la cruz que lo corona. Sobre su cima se encuentra una hermosa iglesia y convento colonial de la Orden de Agustinos Recoletos construidos entre 1609 y 1611. ')
+GO
+INSERT [dbo].[sitiosInteres] ([id], [nombre], [Portada], [DirGoo], [Descripción]) VALUES (5, N'Castillo San Felipe de Barajas', N'../../Imagenes/img-Sitios/sanfelipe.jpg', N'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3923.988192051409!2d-75.5414596858974!3d10.42251126847798!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8ef62f82af0c292b%3A0x56335e1e7a81b1c1!2sCastillo+de+San+Felipe+de+Barajas!5e0!3m2!1ses-419!2sco!4v1465252144729', N'El Castillo San Felipe de Barajas es una fortificación localizada en la ciudad colombiana de Cartagena de Indias. Está situado sobre un cerro llamado San Lázaro y fue construido en 1657 durante a la época colonial española. Sufrió constantes ataques por parte de los ingleses y franceses, siendo el comandante francés Barón de Pointis quien tomara el castillo a mediados de 1697.')
+GO
+INSERT [dbo].[sitiosInteres] ([id], [nombre], [Portada], [DirGoo], [Descripción]) VALUES (6, N'Las Botas Viejas', N'../../Imagenes/img-Sitios/botas%20veijas.jpg', N'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3924.0041570914777!2d-75.53977558589737!3d10.421243868500344!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8ef62f787352cc63%3A0x1f490762fc4842b!2sMonumento+a+los+Zapatos+Viejos!5e0!3m2!1ses-419!2sco!4v1465252395122', N'Las Botas Viejas, aquellas que todos recuerdan como un homenaje al gran poeta cartagenero Luis Carlos López, el Tuerto López , quien nos legó su poesía, hermosa, descomplicada y tierna, como aquella A mi ciudad nativa , donde luego de referirse con un sentimiento hondo a la ciudad, la compara con el inmenso cariño que uno le llega a tener a sus zapatos viejos.')
+GO
+INSERT [dbo].[sitiosInteres] ([id], [nombre], [Portada], [DirGoo], [Descripción]) VALUES (20, N'La Plaza de Santo Domingo', N'../../Imagenes/img-Sitios/plaza-santo-domingo-ted-mcgrath.jpg', N'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3923.966665054483!2d-75.55425088589743!3d10.424219968447836!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8ef62fa03a0d982b%3A0x51f25f72fab1a38!2sPlaza+Santo+Domingo!5e0!3m2!1ses-419!2sco!4v1465252799698', N'La Plaza de Santo Domingo es el sitio alrededor del cual gira la vida nocturna de la ciudad amurallada. Allí abundan bares, anticuarios, joyerías, cafés y restaurantes. La plaza es muy frecuentada, además de turistas, por teatreros, músicos, bailarines y otros artistas que ofrecen sus espectáculos al lado de la iglesia de Santo Domingo, y de la escultura ‘Gertrudis’, del maestro Fernando Botero. ')
+GO
+INSERT [dbo].[sitiosInteres] ([id], [nombre], [Portada], [DirGoo], [Descripción]) VALUES (21, N'Plaza San Pedro Claver', N'../../Imagenes/img-Sitios/sanPedro.JPG', N'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3923.9798885131054!2d-75.55135978520228!3d10.423170392561804!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8ef62f9fc3f0e243%3A0xde9947fa392ed912!2sPlaza+San+Pedro+Claver!5e0!3m2!1ses-419!2sco!4v1465253554121', N'El marco de la Plaza de San Pedro Claver está conformado por la iglesia del mismo nombre y una fila de restaurantes, joyerías y locales donde se venden artesanías. En este lugar llama la atención la estatua que el artista Enrique Grau hizo de San Pedro Claver (el misionero jesuita que fue llamado ‘esclavo de los esclavos’) y que contrasta con las obras vanguardistas elaboradas con chatarra por Edgardo Carmona.')
+GO
+SET IDENTITY_INSERT [dbo].[sitiosInteres] OFF
+GO
+INSERT [dbo].[usuario] ([id], [nombre], [apellido], [email], [celular], [telefono], [genero], [contraseña]) VALUES (N'12345', N'Antonio José', N'Martínez Correa', N'manueloseM@hotmail.com', CAST(3124238433 AS Numeric(18, 0)), CAST(6294587 AS Numeric(18, 0)), N'Masculino', N'antonio12345')
+GO
+INSERT [dbo].[usuario] ([id], [nombre], [apellido], [email], [celular], [telefono], [genero], [contraseña]) VALUES (N'54321', N'Maria', N'Cortez Cavarcas', N'mariaCCs@hotmail.com', CAST(3453454556 AS Numeric(18, 0)), CAST(6293432 AS Numeric(18, 0)), N'Femenino', N'mari56789')
+GO
+ALTER TABLE [dbo].[habitacion]  WITH CHECK ADD FOREIGN KEY([codigoHotel])
+REFERENCES [dbo].[HOTEL] ([codigo])
+GO
+/****** Object:  StoredProcedure [dbo].[IniciarSesion]    Script Date: 9/06/2016 2:50:00 a. m. ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+CREATE proc [dbo].[IniciarSesion](@id varchar(40), @contraseña varchar(40))
+as
+begin
+if((select count(id) from usuario where id=@id)<1)--usuario incorrecto
+begin
+select '1',''
+end
+else  if((select count(id) from usuario where id=@id and contraseña=@contraseña)<1)--contraseña incorrecta
+begin
+select '2',''
+end
+else
+begin
+select '3',(select UPPER(rtrim(nombre)+' '+ltrim(apellido)) from usuario where id=@id)
+end
+end
+
+
+
+
+GO
+USE [master]
+GO
+ALTER DATABASE [cartagena] SET  READ_WRITE 
+GO
